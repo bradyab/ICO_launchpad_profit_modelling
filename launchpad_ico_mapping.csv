@@ -1,0 +1,1232 @@
+platform,Rank,Name,Price,Chg 24H,Chg 7D,Market Cap,Vol (24h),IDO ROI USD,ATH IDO ROI USD,IDO Date,Raised,seedify,seedify,red kite,red kite,bscpad,bscpad,paid,paid,polka,polka,tpad,tpad,dao maker,dao maker,btc price,btc price,,,,init mcap,init FDMC,launchpad,symbol
+SFUND,308,BloktopiaBLOK,$0.02,0.0749,-22.60%,$ 140.49M,$ 6.48M,67.38,698.26,4 Oct 2021,"$250,000",67.38,698.26,,,,,,,,,,,,,,,4 Oct 2021,,BloktopiaBLOK,,,SFUND
+SFUND,1777,CryptomedaTECH,$0.01,0.061,-9.98%,$ 919.16K,$ 55.35K,0.49,185.71,23 Aug 2021,"$280,000",0.49,185.71,,,,,,,,,,,,,335.7142857,51.7,23 Aug 2021,47000,CryptomedaTECH,,"14,000,000",SFUND
+SFUND,985,CryowarCWAR,$0.30,0.11,-25.50%,$ 10.76M,$ 2.87M,10.76,169.2,10 Nov 2021,"$150,000",10.76,169.2,,,,,,,,,,,,,464.2857143,71.5,10 Nov 2021,65000,CryowarCWAR,,"28,000,000",SFUND
+SFUND,817,Sidus HeroesSIDUS,$0.04,0.0048,-27.30%,$ 17.83M,$ 663.59K,23.22,109.29,14 Dec 2021,"$166,249",23.22,109.29,,,,,,,,,,,,,,,14 Dec 2021,,Sidus HeroesSIDUS,,"768,000",SFUND
+SFUND,1845,TryHardsTRY,$0.06,0.0853,-34%,$ 664.07K,$ 36.50K,0.64,71.5,21 Nov 2021,"$300,000",0.64,71.5,,,,,,,,,,,,,,,21 Nov 2021,,TryHardsTRY,,"18,000,000",SFUND
+SFUND,1349,SpintopSPIN,$0.15,0.0145,-25.20%,$ 4.07M,$ 181.43K,14.76,64.16,30 Nov 2021,"$300,000",14.76,64.16,,,,,,,,,,,,,,,30 Nov 2021,,SpintopSPIN,,"340,700",SFUND
+SFUND,1572,Good Games GuildGGG,$1.57,0.0394,-26.30%,$ 2.03M,$ 321.56K,5.22,55.95,3 Nov 2021,"$200,000",5.22,55.95,,,,,,,,,,,,,450,69.3,3 Nov 2021,63000,Good Games GuildGGG,,"30,000,000",SFUND
+SFUND,1778,AcknoLedgerACK,$0.17,0.0012,-15.70%,$ 917.44K,$ 62.47K,1.65,41.96,26 Oct 2021,"$200,000",1.65,41.96,,,,,,,,,,,,,,,26 Oct 2021,,AcknoLedgerACK,,"11,771,849",SFUND
+SFUND,1274,Sidus Heroes DAOSENATE,$1.19,0.0027,-29.50%,$ 5.08M,$ 59.01K,6.62,32.55,14 Dec 2021,"$166,249",6.62,32.55,,,,,,,,,,,,,,,14 Dec 2021,,Sidus Heroes DAOSENATE,,,SFUND
+SFUND,1988,Cryptoblades KingdomsKING,$0.02,-22.20%,0.101,$ 231.87K,$ 51.88K,0.48,24,28 Sep 2021,"$950,000",0.48,24,,,,,,,,,,,,,,,28 Sep 2021,,Cryptoblades KingdomsKING,,,SFUND
+SFUND,1463,DefinaFINA,$0.88,0.0764,-22.10%,$ 2.86M,$ 1.12M,2.2,23.99,10 Oct 2021,"$300,000",2.2,23.99,,,,,,,,,,,,,,,10 Oct 2021,,DefinaFINA,,,SFUND
+SFUND,1445,ErthaERTHA,$0.12,-0.72%,-31.90%,$ 3.07M,$ 1.05M,6.75,23.32,18 Dec 2021,"$300,000",6.75,23.32,,,,,,,,,,,,,,,18 Dec 2021,,ErthaERTHA,,,SFUND
+SFUND,1834,Continuum WorldUM,$0.01,-33.90%,-45.60%,$ 696.62K,$ 428.33K,0.83,20.72,30 Sep 2021,"$200,000",0.83,20.72,,,,,,,,,,,,,,,30 Sep 2021,,Continuum WorldUM,,,SFUND
+SFUND,,WIZARDWIZARD,$0.44,0.0498,-17.40%,$ 258.30K,$293.00,0.88,20.34,14 Jul 2021,"$100,000",0.88,20.34,,,,,,,,,,,,,214.2857143,33,14 Jul 2021,30000,WIZARDWIZARD,,,SFUND
+SFUND,,Hero ArenaHERA,$0.06,-2.12%,-24.80%,$ 259.05K,$ 13.14K,0.61,18.51,19 Oct 2021,"$300,000",0.61,18.51,,,,,,,,,,,,,471.4285714,72.6,19 Oct 2021,66000,Hero ArenaHERA,,,SFUND
+SFUND,1339,The ParallelPRL,$0.16,N/A,-19.70%,$ 4.21M,$ 40.80K,3.9,18.02,26 Dec 2021,"$220,000",3.9,18.02,,,,,,,,,,,,,,,26 Dec 2021,,The ParallelPRL,,,SFUND
+SFUND,2020,Monsters ClanMONS,$0.10,-0.33%,-6.24%,$ 158.17K,$ 94.01K,0.65,17.74,13 Sep 2021,"$237,498",0.65,17.74,,,,,,,,,,,,,,,13 Sep 2021,,Monsters ClanMONS,,,SFUND
+SFUND,1823,LandshareLAND,$1.51,0.0154,-26%,$ 766.55K,$ 40.24K,1.89,15.57,20 Jul 2021,"$150,000",1.89,15.57,,,,,,,,,,,,,,,20 Jul 2021,,LandshareLAND,,,SFUND
+SFUND,1414,MetastrikeMTS,$0.21,0.0054,-26.40%,$ 3.33M,$ 635.61K,4.25,14.83,10 Jan,"$250,000",4.25,14.83,,,,,,,,,,,,,300,46.2,10 Jan,42000,MetastrikeMTS,,,SFUND
+SFUND,1592,Mouse HauntMHT,$0.82,0.0524,-23.50%,$ 1.87M,$ 325.42K,4.12,14.48,19 Dec 2021,"$300,000",4.12,14.48,,,,,,,,,,,,,,,19 Dec 2021,,Mouse HauntMHT,,,SFUND
+SFUND,,PocolandPOCO,$0.02,0.0875,-20.60%,N/A,$ 13.67K,0.22,14.4,8 Sep 2021,"$350,000",0.22,14.4,,,,,,,,,,,,,,,8 Sep 2021,,PocolandPOCO,,,SFUND
+SFUND,,Bit HotelBTH,$0.04,-9.95%,-40.60%,N/A,$ 385.25K,2.46,14.13,21 Dec 2021,"$450,000",2.46,14.13,,,,,,,,,,,,,,,21 Dec 2021,,Bit HotelBTH,,,SFUND
+SFUND,1867,Forest KnightKNIGHT,$0.15,0.0832,-27.50%,$ 595.67K,$ 75.85K,0.98,13,17 Sep 2021,"$100,000",0.98,13,,,,,,,,,,,,,,,17 Sep 2021,,Forest KnightKNIGHT,,,SFUND
+SFUND,1888,Age of TanksAOT,$0.08,-9.72%,-26.90%,$ 487.05K,$ 29.34K,0.81,13,28 Nov 2021,"$440,000",0.81,13,,,,,,,,,,,,,,,28 Nov 2021,,Age of TanksAOT,"427,500","10,000,000",SFUND
+SFUND,,SnookSNK,$0.24,-0.97%,-7.67%,$ 1.77M,$ 1.00K,0.74,10.41,5 Sep 2021,"$200,000",0.74,10.41,,,,,,,,,,,,,,,5 Sep 2021,,SnookSNK,,,SFUND
+SFUND,2056,ScottyBeamSCOTTY,$0.01,0.0514,-13.70%,$ 94.33K,$ 242.99K,0.22,9.55,8 Nov 2021,"$200,000",0.22,9.55,,,,,,,,,,,,,,,8 Nov 2021,,ScottyBeamSCOTTY,,,SFUND
+SFUND,1250,Heroes ChainedHEC,$2.58,-3.86%,-14.30%,$ 5.29M,$ 3.93M,7.38,9.47,16 Jan,"$400,000",7.38,9.47,,,,,,,,,,,,,,,16 Jan,,Heroes ChainedHEC,,,SFUND
+SFUND,,FanadiseFAN,$0.02,0.0878,-5.87%,$ 90.60K,$ 2.56K,0.15,9.08,28 Jul 2021,"$200,000",0.15,9.08,,,,,,,,,,,,,,,28 Jul 2021,,FanadiseFAN,,,SFUND
+SFUND,1178,Gaia EverworldGAIA,$0.05,0.0512,-30.20%,$ 6.44M,$ 38.47K,0.33,8.57,31 Oct 2021,"$300,000",0.33,8.57,,,,,,,,,,,,,,,31 Oct 2021,,Gaia EverworldGAIA,,,SFUND
+SFUND,1930,Last SurvivorLSC,$0.01,0.126,-14.20%,$ 379.42K,$ 64.21K,0.87,7.51,7 Dec 2021,"$450,000",0.87,7.51,,,,,,,,,,,,,,,7 Dec 2021,,Last SurvivorLSC,,,SFUND
+SFUND,1480,MOBLANDSYNR,$0.11,0.193,0.0758,$ 2.74M,$ 671.04K,5.37,7.35,19 Jan,"$200,000",5.37,7.35,,,,,,,,,,,,,300,46.2,19 Jan,42000,MOBLANDSYNR,"509,641","18,000,000",SFUND
+SFUND,1887,World of DefishWOD,$0.04,0.193,-17.40%,$ 489.84K,$ 314.63K,1.35,5.78,27 Dec 2021,"$270,000",1.35,5.78,,,,,,,,,,,,,,,27 Dec 2021,,World of DefishWOD,,,SFUND
+SFUND,,ECIOECIO,$0.00,-4.60%,-34.20%,$ 189.27K,$ 10.02K,0.73,5.54,17 Dec 2021,"$250,000",0.73,5.54,,,,,,,,,,,,,330,50.82,17 Dec 2021,46200,ECIOECIO,,,SFUND
+SFUND,1868,HololootHOL,$0.20,-0.68%,-13.30%,$ 589.73K,$ 19.26K,1.02,4.55,9 Dec 2021,"$250,000",1.02,4.55,,,,,,,,,,,,,,,9 Dec 2021,,HololootHOL,,,SFUND
+SFUND,,GeopolyGEO,$0.01,-0.32%,-20.70%,$ 290.08K,$ 12.58K,0.55,3.76,12 Dec 2021,"$600,000",0.55,3.76,,,,,,,,,,,,,,,12 Dec 2021,,GeopolyGEO,,,SFUND
+SFUND,1809,BattleverseBVC,$0.14,-5.46%,N/A,$ 833.93K,$ 139.16K,2.88,3.3,16 Feb,"$500,000",2.88,3.3,,,,,,,,,,,,,289.2857143,44.55,16 Feb,40500,BattleverseBVC,,,SFUND
+SFUND,1972,Attack WagonATK,$0.01,0.0385,-19.40%,$ 259.55K,$ 16.73K,0.45,2.88,2 Dec 2021,"$250,000",0.45,2.88,,,,,,,,,,,,,403.5714286,62.15,2 Dec 2021,56500,Attack WagonATK,,,SFUND
+SFUND,,ToyoverseTOYO,N/A,N/A,N/A,N/A,N/A,,,21 Feb,"$750,000",,,,,,,,,,,,,,,,,,,ToyoverseTOYO,,,SFUND
+SFUND,,Space MisfitsSMCW,N/A,N/A,N/A,N/A,N/A,,,14 Jan,"$400,000",,,,,,,,,,,,,,,,,,,Space MisfitsSMCW,,,SFUND
+SFUND,,CyberTradeCCASH,N/A,N/A,N/A,N/A,N/A,,,24 Jan,"$500,000",,,,,,,,,,,,,,,,,,,CyberTradeCCASH,,,SFUND
+SFUND,,BullieverseBULL,N/A,N/A,N/A,N/A,N/A,,,8 Feb,"$400,000",,,,,,,,,,,,,,,,,,,BullieverseBULL,,,SFUND
+SFUND,,PlutoniansRPC,N/A,N/A,N/A,N/A,N/A,,,11 Feb,"$700,000",,,,,,,,,,,,,,,,,,,PlutoniansRPC,,,SFUND
+SFUND,,Spark EraFIRE,N/A,N/A,N/A,N/A,N/A,,,13 Dec 2021,N/A,,,,,,,,,,,,,,,,,,,Spark EraFIRE,,,SFUND
+SFUND,,AltavaTAVA,N/A,N/A,N/A,N/A,N/A,,,17 Feb,"$400,000",,,,,,,,,,,,,,,,,,,AltavaTAVA,,,SFUND
+SFUND,,Universe IslandUIM,N/A,N/A,N/A,N/A,N/A,,,22 Dec 2021,"$300,000",,,,,,,,,,,,,,,,,,,Universe IslandUIM,"495,600","21,000,000",SFUND
+SFUND,,Plutonians DAOPLD,N/A,N/A,N/A,N/A,N/A,,,11 Feb,"$700,000",,,red kite,ath,,,,,,,,,,,,,,,Plutonians DAOPLD,,,SFUND
+PKF,308,BloktopiaBLOK,$0.02,0.0749,-22.60%,$ 140.49M,$ 6.48M,67.38,698.26,29 Sep 2021,"$250,000",,,67.38,698.26,,,,,,,,,,,,,,,BloktopiaBLOK,,,PKF
+PKF,625,GameFiGAFI,$40.16,0.0038,-18.10%,$ 34.34M,$ 471.65K,40.16,366.99,N/A,"$108,000",,,40.16,366.99,,,,,,,,,,,,,,,GameFiGAFI,,,PKF
+PKF,1718,Dreams QuestDREAMS,$0.02,0.0752,-27.70%,$ 1.20M,$ 108.01K,1.67,152.65,14 Oct 2021,"$125,000",,,1.67,152.65,,,,,,,,,,,,,,,Dreams QuestDREAMS,,,PKF
+PKF,$686.00,SpaceCryptoSPG,$0.67,-14.40%,-58.60%,$ 26.68M,$ 1.60M,26.68,117.32,21 Dec 2021,"$125,000",,,26.68,117.32,,,,,,,,,,,,,,,SpaceCryptoSPG,,,PKF
+PKF,817,Sidus HeroesSIDUS,$0.04,0.0048,-27.30%,$ 17.83M,$ 663.59K,23.22,109.29,14 Dec 2021,"$174,982",,,23.22,109.29,,,,,,,,,,,,,,,Sidus HeroesSIDUS,,,PKF
+PKF,"$1,331",MetaWarsWARS,$0.07,0.0747,-32.20%,$ 4.33M,$ 222.33K,8.74,96.84,26 Oct 2021,"$110,000",,,8.74,96.84,,,,,,,,,,,,,,,MetaWarsWARS,,,PKF
+PKF,460,SoliceSLC,$1.55,0.133,-4.92%,$ 66.95M,$ 1.04M,22.14,70.81,19 Dec 2021,"$98,000",,,22.14,70.81,,,,,,,,,,,,,,,SoliceSLC,,,PKF
+PKF,,DeathRoadDRACE,$0.01,-6.38%,-16.10%,$ 618.35K,$ 9.60K,1.98,70.67,4 Sep 2021,"$103,000",,,1.98,70.67,,,,,,,,,,,,,,,DeathRoadDRACE,,,PKF
+PKF,2040,The KillboxKBOX,$0.00,-72.70%,-80.30%,$ 120.28K,$ 1.40M,0.57,53.83,22 Nov 2021,"$146,400",,,0.57,53.83,,,,,,,,,,,,,,,The KillboxKBOX,,,PKF
+PKF,"$1,692.00",Ftribe FightersF2C,$0.03,0.0437,N/A,$ 1.33M,$ 22.35K,1.25,51.85,17 Dec 2021,"$125,000",,,1.25,51.85,,,,,,,,,,,,,,,Ftribe FightersF2C,,,PKF,F2C
+PKF,1884,Meta SpatialSPAT,$0.10,0.0209,0.172,$ 525.65K,$ 49.66K,1,47.54,4 Nov 2021,"$132,000",,,1,47.54,,,,,,,,,,,,,,,Meta SpatialSPAT,,,PKF
+PKF,"$1,681",Polygonum OnlinePOG,$0.17,-8.22%,-37.30%,$ 1.39M,$ 200.98K,2.09,45,27 Nov 2021,"$100,000",,,2.09,45,,,,,,,,,,,,,,,Polygonum OnlinePOG,,,PKF
+PKF,1484,GunStar MetaverseGST,$0.13,-5.66%,-48.10%,$ 2.70M,$ 324.54K,3.74,42.3,24 Nov 2021,"$140,000",,,3.74,42.3,,,,,,,,,,,,,,,GunStar MetaverseGST,,,PKF
+PKF,1430,WarenaRENA,$0.44,0.0384,-36%,$ 3.22M,$ 514.97K,2.67,40.52,2 Oct 2021,"$97,000",,,2.67,40.52,,,,,,,,,,,,,,,WarenaRENA,,,PKF
+PKF,1619,MyMasterWarMAT,$0.16,0.0077,-13.90%,$ 1.72M,$ 56.80K,1.35,39.74,28 Sep 2021,"$150,000",,,1.35,39.74,,,,,,,,,,,,,,,MyMasterWarMAT,,,PKF
+PKF,$887.00,Sin CitySIN,$0.13,0.217,-1.38%,$ 14.23M,$ 936.99K,6.64,37.27,16 Oct 2021,"$150,000",,,6.64,37.27,,,,,,,,,,,,,,,Sin CitySIN,,,PKF
+PKF,1306,Dark FrontiersDARK,$0.20,-5.62%,-35.20%,$ 4.65M,$ 741.33K,3.94,35.99,2 Oct 2021,"$97,000",,,3.94,35.99,,,,,,,,,,,,,,,Dark FrontiersDARK,,,PKF
+PKF,"$1,450",KryptomonKMON,$0.05,0.0545,-37.90%,$ 3.04M,$ 308.85K,6.9,34.51,22 Aug 2021,"$110,000",,,6.9,34.51,,,,,,,,,,,,,,,KryptomonKMON,,,PKF
+PKF,1753,Aspo WorldASPO,$0.10,-21.40%,-8.41%,$ 1.02M,$ 531.59K,1.97,33.65,13 Nov 2021,"$130,000",,,1.97,33.65,,,,,,,,,,,,,,,Aspo WorldASPO,,,PKF
+PKF,1274,Sidus Heroes DAOSENATE,$1.19,0.0027,-29.50%,$ 5.08M,$ 59.01K,6.62,32.55,14 Dec 2021,"$174,982",,,6.62,32.55,,,,,,,,,,,,,,,Sidus Heroes DAOSENATE,,,PKF
+PKF,1113,FaraLandFARA,$0.33,-1.51%,-18.20%,$ 7.58M,$ 88.61K,1.82,32.28,11 Jun 2021,"$100,000",,,1.82,32.28,,,,,,,,,,,,,,,FaraLandFARA,,,PKF
+PKF,"$1,848.00",Planet SandboxPSB,$0.17,-7.46%,-32%,$ 657.39K,$ 29.39K,1.38,32.22,1 Oct 2021,N/A,,,1.38,32.22,,,,,,,,,,,,,,,Planet SandboxPSB,,,PKF
+PKF,1936,Step HeroHERO,$0.06,0.0376,-27.40%,$ 367.30K,$ 33.62K,0.61,31.6,14 Aug 2021,"$120,000",,,0.61,31.6,,,,,,,,,,,,,,,Step HeroHERO,,,PKF
+PKF,,MytheriaMYRA,$0.27,0.0298,-19.10%,N/A,$ 134.04K,1.99,28.79,15 Nov 2021,"$105,000",,,1.99,28.79,,,,,,,,,,,,,,,MytheriaMYRA,,,PKF
+PKF,1628,SpaceY2025SPAY,$4.20,0.003,-26.90%,$ 1.68M,$ 26.53K,1.05,27.84,20 Nov 2021,"$150,000",,,1.05,27.84,,,,,,,,,,,,,,,SpaceY2025SPAY,,,PKF
+PKF,1398,ShopNEXTNEXT,$0.04,-0.24%,-34.30%,$ 3.42M,$ 334.19K,2.72,26.25,28 Nov 2021,"$135,000",,,2.72,26.25,,,,,,,,,,,,,,,ShopNEXTNEXT,,,PKF
+PKF,,Kaby ArenaKABY,$0.01,-2.09%,-4.40%,$ 1.03M,$ 10.12K,1.53,24.97,26 Aug 2021,"$110,000",,,1.53,24.97,,,,,,,,,,,,,,,Kaby ArenaKABY,,,PKF
+PKF,"$1,432.00",Rikkei FinanceRIFI,$0.13,0.0364,-2.84%,$ 3.17M,$ 42.14K,1.34,23.92,6 Dec 2021,"$100,000",,,1.34,23.92,,,,,,,,,,,,,,,Rikkei FinanceRIFI,,,PKF
+PKF,,HeroverseHER,$0.01,-2.14%,-10.50%,$ 294.71K,$ 9.79K,0.74,23.76,22 Sep 2021,"$165,000",,,0.74,23.76,,,,,,,,,,,,,,,HeroverseHER,,,PKF
+PKF,"$1,445",ErthaERTHA,$0.12,-0.72%,-31.90%,$ 3.07M,$ 1.05M,6.75,23.32,20 Dec 2021,"$250,000",,,6.75,23.32,,,,,,,,,,,,,,,ErthaERTHA,,,PKF
+PKF,,BunicornBUNI,$0.02,0.0222,-18.60%,$ 431.53K,$ 1.37K,0.58,20.5,11 Jul 2021,"$100,000",,,0.58,20.5,,,,,,,,,,,,,,,BunicornBUNI,,,PKF
+PKF,,DareNFTDNFT,$0.00,0.0224,-25.10%,$ 171.29K,$ 9.88K,0.36,20.33,12 Oct 2021,"$100,000",,,0.36,20.33,,,,,,,,,,,,,,,DareNFTDNFT,,,PKF
+PKF,1816,PlaceWar Governance TokenPLACE,$0.02,0.0519,-57.60%,$ 803.53K,$ 72.56K,1.61,19.26,11 Nov 2021,"$140,000",,,1.61,19.26,,,,,,,,,,,,,,,PlaceWar Governance TokenPLACE,,,PKF
+PKF,"$1,382.00",Revolve GamesRPG,$0.18,-9.78%,-30.80%,$ 3.64M,$ 64.82K,1.77,19.1,N/A,N/A,,,1.77,19.1,,,,,,,,,,,,,,,Revolve GamesRPG,,,PKF
+PKF,1911,Mech MasterMECH,$0.03,N/A,-30.60%,$ 421.42K,$ 25.48K,0.85,18.55,22 Oct 2021,"$147,000",,,0.85,18.55,,,,,,,,,,,,,,,Mech MasterMECH,,,PKF
+PKF,"$2,020",Monsters ClanMONS,$0.10,-0.33%,-6.24%,$ 158.17K,$ 94.01K,0.65,17.74,14 Sep 2021,"$100,000",,,0.65,17.74,,,,,,,,,,,,,,,Monsters ClanMONS,,,PKF
+PKF,1260,DeFi WarriorFIWA,$0.00,0.006,-27.50%,$ 5.22M,$ 19.89K,0.93,13.91,5 Sep 2021,"$100,000",,,0.93,13.91,,,,,,,,,,,,,,,DeFi WarriorFIWA,,,PKF
+PKF,1808,PolkaRAREPRARE,$0.02,0.0514,-18.60%,$ 834.31K,$ 156.97K,0.17,13.83,10 May 2021,"$50,000",,,0.17,13.83,,,,,,,,,,,,,,,PolkaRAREPRARE,,,PKF
+PKF,1650,LabelLBL,$0.01,0.191,-17.40%,$ 1.58M,$ 546.09K,4.89,10.32,16 Dec 2021,"$100,000",,,4.89,10.32,,,,,,,,,,,,,,,LabelLBL,,,PKF
+PKF,"$1,101.00",Unbound FinanceUNB,$0.01,0.0858,-7.22%,$ 7.84M,$ 168.85K,0.67,10.01,12 Dec 2021,"$75,000",,,0.67,10.01,,,,,,,,,,,,,,,Unbound FinanceUNB,,,PKF
+PKF,,PrometheusMGA,$0.39,0.0249,-1.89%,$ 346.91K,$ 10.31K,0.56,9.93,29 Nov 2021,"$130,000",,,0.56,9.93,,,,,,,,,,,,,,,PrometheusMGA,,,PKF
+PKF,,PolkaPetsPETS,$0.08,-3.17%,-7.91%,$ 235.64K,$ 1.59K,0.26,8.57,25 Oct 2021,"$100,000",,,0.26,8.57,,,,,,,,,,,,,,,PolkaPetsPETS,,,PKF
+PKF,2033,DeFi11D11,$0.02,-1.80%,-28.30%,$ 124.51K,$ 66.16K,0.12,8.31,N/A,"$35,000",,,0.12,8.31,,,,,,,,,,,,,,,DeFi11D11,,,PKF
+PKF,1850,GemUniGENI,$0.19,N/A,0.105,$ 652.44K,$ 77.67K,0.92,8.11,18 Jan,"$150,000",,,0.92,8.11,,,,,,,,,,,,,,,GemUniGENI,,,PKF
+PKF,,ProjectXXIL,$0.02,0.041,-8.08%,$ 948.20K,$ 1.91K,0.53,5.95,8 Sep 2021,"$120,000",,,0.53,5.95,,,,,,,,,,,,,,,ProjectXXIL,,,PKF
+PKF,1526,TribeOneHAKA,$0.08,-7.68%,-16.80%,$ 2.33M,$ 408.15K,0.68,4.92,22 Jun 2021,"$70,000",,,0.68,4.92,,,,,,,,,,,,,,,TribeOneHAKA,,,PKF
+PKF,,World of CryptiaCRYPT,$0.00,-5.63%,-16.30%,$ 136.22K,$ 1.39K,0.1,4.72,7 Oct 2021,"$150,000",,,0.1,4.72,,,,,,,,,,,,,,,World of CryptiaCRYPT,,,PKF
+PKF,2044,NftyPlayPOLO,$0.00,-4.42%,-17.50%,$ 108.87K,$ 169.13K,0.29,4.41,5 Aug 2021,"$81,000",,,0.29,4.41,,,,,,,,,,,,,,,NftyPlayPOLO,,,PKF
+PKF,,NFTifyN1,$0.03,0.0574,-25.50%,$ 604.04K,$279.88,0.37,3.11,3 Jun 2021,"$100,000",,,0.37,3.11,,,,,,,,,,,,,,,NFTifyN1,,,PKF,N1
+PKF,,Soccer HubSCH,$0.00,N/A,-3.24%,$ 203.49K,$898.75,0.17,3.06,27 Sep 2021,"$170,000",,,0.17,3.06,,,,,,,,,,,297.1357143,45.7589,,41599,Soccer HubSCH,,,PKF
+PKF,,DopeWarzDRUG,$0.01,0.0417,-11.70%,$ 75.46K,$796.42,0.25,2.88,30 Nov 2021,"$125,000",,,0.25,2.88,,,,,,,,,,,,,,,DopeWarzDRUG,,,PKF
+PKF,,Kingdom KarnageKKT,$0.01,N/A,-28.20%,$ 196.57K,$684.46,0.77,2.71,11 Jan,"$100,000",,,0.77,2.71,,,,,,,,,,,,,,,Kingdom KarnageKKT,,,PKF
+PKF,,SwaperryPERRY,$0.01,0.0196,-7.91%,$ 247.43K,$ 1.14K,0.24,2.69,26 Aug 2021,"$100,000",,,0.24,2.69,,,,,,,,,,,,,,,SwaperryPERRY,,,PKF
+PKF,1703,Legends of MitraMITA,$0.09,-27.10%,N/A,$ 1.26M,$ 474.29K,1.46,2.46,8 Jan,"$95,000",,,1.46,2.46,,,,,,,,,,,,,,,Legends of MitraMITA,,,PKF
+PKF,,PicipoPICIPO,$0.02,0.0481,-21.60%,$ 52.07K,$ 1.12K,0.22,2.15,2 Oct 2021,"$100,000",,,0.22,2.15,,,,,,,,,,,,,,,PicipoPICIPO,,,PKF
+PKF,,IMMIMM,$0.06,0,N/A,$ 68.41K,N/A,0.11,0.82,15 Jun 2021,"$150,000",,,0.11,0.82,,,,,,,,,,,,,,,IMMIMM,,,PKF
+PKF,,BullieverseBULL,N/A,N/A,N/A,N/A,N/A,,,14 Feb,"$175,000",,,,,,,,,,,,,,,,,,,BullieverseBULL,,,PKF
+PKF,,MetarunMRUN,N/A,N/A,N/A,N/A,N/A,,,20 Feb,"$175,000",,,,,bsc,ath,,,,,,,,,,,,,MetarunMRUN,,,PKF
+BSCPAD,,WagyuSwapWAG,$0.11,0.0581,-30%,$ 5.31M,N/A,11.36,333.76,6 Sep 2021,"$125,000",,,,,11.36,333.76,,,,,,,,,,,,,WagyuSwapWAG,,,BSCPAD
+BSCPAD,1221,NFTLaunchNFTL,$0.04,0.106,-19.80%,$ 5.77M,$ 114.09K,28.48,317.89,2 Sep 2021,"$101,250",,,,,28.48,317.89,,,,,,,,,,,,,NFTLaunchNFTL,,,BSCPAD
+BSCPAD,540,GameZoneGZONE,$0.11,0.0778,-30.20%,$ 47.09M,$ 258.68K,22.81,236.55,29 Sep 2021,"$112,500",,,,,22.81,236.55,,,,,,,,,,,,,GameZoneGZONE,,,BSCPAD
+BSCPAD,,BitOrbitBITORB,$0.02,N/A,-17.90%,$ 1.08M,$ 2.27K,3.5,201.47,3 Nov 2021,"$129,000",,,,,3.5,201.47,,,,,,,,,,,,,BitOrbitBITORB,,,BSCPAD
+BSCPAD,,CrossWalletCWT,$0.04,0.0554,-30.60%,$ 4.46M,$ 3.10K,17.94,199.76,20 Jun 2021,"$149,250",,,,,17.94,199.76,,,,,,,,,,,,,CrossWalletCWT,,,BSCPAD
+BSCPAD,479,AIOZ NetworkAIOZ,$0.15,0.018,-18.10%,$ 61.12M,$ 438.68K,10.09,184.91,1 Apr 2021,"$100,000",,,,,10.09,184.91,,,,,,,,,,,,,AIOZ NetworkAIOZ,,,BSCPAD
+BSCPAD,"$1,439",BSC StationBSCS,$0.08,0.0221,-18.40%,$ 3.13M,$ 352.48K,8.04,121.26,20 Apr 2021,"$80,000",,,,,8.04,121.26,,,,,,,,,,,,,BSC StationBSCS,,,BSCPAD
+BSCPAD,1873,Blind BoxesBLES,$0.03,0.0654,-12.70%,$ 573.92K,$ 40.81K,0.21,80.78,25 Mar 2021,"$150,000",,,,,0.21,80.78,,,,,,,,,,,,,Blind BoxesBLES,,,BSCPAD
+BSCPAD,1616,Raze NetworkRAZE,$0.03,0.079,-38.90%,$ 1.73M,$ 463.82K,0.26,59.67,9 Apr 2021,"$50,000",,,,,0.26,59.67,,,,,,,,,,,,,Raze NetworkRAZE,,,BSCPAD
+BSCPAD,1531,Lovelace WorldLACE,$0.12,0.208,-12.90%,$ 2.31M,$ 576.47K,2.63,47.32,22 Nov 2021,"$150,000",,,,,2.63,47.32,,,,,,,,,,,,,Lovelace WorldLACE,,,BSCPAD
+BSCPAD,,MedacoinMEDA,$0.00,-5.77%,-29.90%,N/A,$ 216.19K,2.64,45.98,12 Sep 2021,"$90,000",,,,,2.64,45.98,,,,,,,,,,,,,MedacoinMEDA,,,BSCPAD
+BSCPAD,,CrossSwapCSWAP,$0.40,N/A,N/A,$ 7.92M,N/A,39.6,39.6,26 Aug 2021,"$90,000",,,,,39.6,39.6,,,,,,,,,,,,,CrossSwapCSWAP,,,BSCPAD
+BSCPAD,"$2,076",Operon OriginsORO,$0.05,0.0468,-17.10%,$ 60.84K,$ 30.82K,0.46,36.26,1 Dec 2021,"$200,000",,,,,0.46,36.26,,,,,,,,,,,,,Operon OriginsORO,,,BSCPAD
+BSCPAD,,VerveVERVE,$0.02,0.0315,-14.90%,$ 5.88M,$ 11.43K,23.53,34.14,19 Jan,N/A,,,,,23.53,34.14,,,,,,,,,,,,,VerveVERVE,,,BSCPAD
+BSCPAD,,QmallQMALL,$0.51,-2.69%,1.638,N/A,$ 1.32M,14.56,32.51,14 Feb,"$300,000",,,,,14.56,32.51,,,,,,,,,,,,,QmallQMALL,,,BSCPAD
+BSCPAD,1436,SwapzSWAPZ,$0.02,N/A,-28%,$ 3.16M,$ 27.08K,3.37,27.35,30 Jun 2021,"$112,500",,,,,3.37,27.35,,,,,,,,,,,,,SwapzSWAPZ,,,BSCPAD
+BSCPAD,"$1,401.00",PolkerPKR,$0.04,-0.90%,-35.60%,$ 3.40M,$ 381.93K,1.87,25.65,24 Jun 2021,"$150,750",,,,,1.87,25.65,,,,,,,,,,,,,PolkerPKR,,,BSCPAD
+BSCPAD,645,StackOSSTACK,$0.09,0.177,-10.10%,$ 31.17M,$ 122.69K,6.17,24.52,22 Apr 2021,"$210,000",,,,,6.17,24.52,,,,,,,,,,,,,StackOSSTACK,,,BSCPAD
+BSCPAD,$894,O3 SwapO3,$0.39,0.0177,-2.39%,$ 13.96M,$ 857.92K,0.39,18.63,11 May 2021,"$150,000",,,,,0.39,18.63,,,,,,,,,,,,,O3 SwapO3,,,BSCPAD
+BSCPAD,1655,DexsportDESU,$0.03,0.0131,-13.50%,$ 1.55M,$ 61.89K,1.16,17.61,11 Nov 2021,"$230,000",,,,,1.16,17.61,,,,,,,,,,,,,DexsportDESU,,,BSCPAD
+BSCPAD,,Dot.FinancePINK,$0.04,0.0519,-23.60%,$ 150.01K,$ 12.70K,0.51,17.46,17 Jun 2021,"$90,000",,,,,0.51,17.46,,,,,,,,,,,,,Dot.FinancePINK,,,BSCPAD
+BSCPAD,,IdentityIDTT,$0.00,0.0484,-22.90%,N/A,$ 3.96K,2.3,17.46,14 Sep 2021,"$80,000",,,,,2.3,17.46,,,,,,,,,,,,,IdentityIDTT,,,BSCPAD
+BSCPAD,"$1,534.00",Cook ProtocolCOOK,$0.00,0.0535,-27.80%,$ 2.29M,$ 47.25K,0.09,15.92,30 Mar 2021,"$100,000",,,,,0.09,15.92,,,,,,,,,,,,,Cook ProtocolCOOK,,,BSCPAD
+BSCPAD,,Privi TraxTRAX,$0.01,N/A,N/A,$ 6.11K,$36.20,0.35,11.73,9 Aug 2021,"$135,000",,,,,0.35,11.73,,,,,,,,,,,,,Privi TraxTRAX,,,BSCPAD
+BSCPAD,,KELVPNKEL,$0.01,0.135,-7.23%,$ 76.64K,$ 3.94K,0.1,11.1,16 Apr 2021,"$50,000",,,,,0.1,11.1,,,,,,,,,,,,,KELVPNKEL,,,BSCPAD
+BSCPAD,921,Media Industry Licensing ContentMLT,$0.14,0.0287,-31.10%,$ 13.25M,$ 402.19K,1.58,10.17,16 May 2021,"$170,000",,,,,1.58,10.17,,,,,,,,,,,,,Media Industry Licensing ContentMLT,,,BSCPAD
+BSCPAD,2022,WeWayWWY,$0.01,0.0356,-25.40%,$ 154.93K,$ 172.14K,1.94,10.08,10 Jan,"$300,000",,,,,1.94,10.08,,,,,,,,,,,,,WeWayWWY,,,BSCPAD
+BSCPAD,,FanadiseFAN,$0.02,0.0878,-5.87%,$ 90.60K,$ 2.56K,0.15,9.08,28 Jul 2021,"$200,000",,,,,0.15,9.08,,,,,,,,,,,,,FanadiseFAN,,,BSCPAD
+BSCPAD,,HappyFansHAPPY,$0.00,N/A,-21.90%,$ 896.84K,$ 1.72K,0.48,8.34,9 Nov 2021,"$250,000",,,,,0.48,8.34,,,,,,,,,,,,,HappyFansHAPPY,,,BSCPAD
+BSCPAD,1586,PureFiUFI,$0.07,0.217,-28.30%,$ 1.88M,$ 134.68K,1.47,8.27,N/A,"$300,150",,,,,1.47,8.27,,,,,,,,,,,,,PureFiUFI,,,BSCPAD
+BSCPAD,"$2,077",FreelaFREL,$0.00,0.0073,-22.70%,$ 52.90K,$ 37.93K,0.08,8.11,26 May 2021,"$75,000",,,,,0.08,8.11,,,,,,,,,,,,,FreelaFREL,,,BSCPAD
+BSCPAD,1144,Katana InuKATA,$0.00,-4.25%,-39.60%,$ 7.13M,$ 2.74M,1.54,7.55,22 Dec 2021,"$700,000",,,,,1.54,7.55,,,,,,,,,,,,,Katana InuKATA,,,BSCPAD
+BSCPAD,1437,SmoothySMTY,$0.04,-1.75%,-14.40%,$ 3.14M,$ 193.91K,0.09,7.21,21 Apr 2021,"$100,000",,,,,0.09,7.21,,,,,,,,,,,,,SmoothySMTY,,,BSCPAD
+BSCPAD,1492,BlockBankBBANK,$0.03,0.084,-21.60%,$ 2.64M,$ 46.57K,0.33,7.06,27 Apr 2021,"$1,000,000",,,,,0.33,7.06,,,,,,,,,,,,,BlockBankBBANK,,,BSCPAD
+BSCPAD,,Flourishing AIAI,$0.09,0.0251,-27.60%,$ 197.91K,$ 2.65K,0.75,6.12,19 Sep 2021,"$63,000",,,,,0.75,6.12,,,,,,,,,,,,,Flourishing AIAI,,,BSCPAD
+BSCPAD,,MozikMOZ,$0.00,0.0239,-17.20%,$ 35.38K,$14.99,0.07,5.82,5 Jun 2021,"$100,000",,,,,0.07,5.82,,,,,,,,,,,,,MozikMOZ,,,BSCPAD
+BSCPAD,"$1,632",XP NetworkXPNET,$0.01,0.0102,-27.60%,$ 1.67M,$ 46.00K,0.41,5.81,13 Sep 2021,"$500,000",,,,,0.41,5.81,,,,,,,,,,,,,XP NetworkXPNET,,,BSCPAD
+BSCPAD,1887,World of DefishWOD,$0.04,0.193,-17.40%,$ 489.84K,$ 314.63K,1.35,5.78,28 Dec 2021,"$175,021",,,,,1.35,5.78,,,,,,,,,,,,,World of DefishWOD,,,BSCPAD
+BSCPAD,,TeraBlock [OLD]TBC,$0.00,N/A,N/A,N/A,N/A,0,5.67,10 May 2021,"$400,000",,,,,0,5.67,,,,,,,,,,,,,TeraBlock [OLD]TBC,,,BSCPAD
+BSCPAD,1790,TradeStarsTSX,$0.11,-0.17%,-16.70%,$ 884.16K,$ 232.37K,0.67,5.64,3 May 2021,"$120,000",,,,,0.67,5.64,,,,,,,,,,,,,TradeStarsTSX,,,BSCPAD
+BSCPAD,"$1,859.00",MetafluenceMETO,$0.01,-10.30%,-31%,$ 629.03K,$ 118.50K,1.94,5.41,23 Jan,"$300,000",,,,,1.94,5.41,,,,,,,,,,,,,MetafluenceMETO,,,BSCPAD
+BSCPAD,944,EQIFIEQX,$0.10,0.168,-31.40%,$ 12.12M,$ 287.36K,0.66,4.97,1 Aug 2021,"$84,375",,,,,0.66,4.97,,,,,,,,,,,,,EQIFIEQX,,,BSCPAD
+BSCPAD,"$1,554",DecubateDCB,$0.02,N/A,-14%,$ 2.16M,$ 46.10K,1.4,4.87,5 Jul 2021,"$90,000",,,,,1.4,4.87,,,,,,,,,,,,,DecubateDCB,,,BSCPAD
+BSCPAD,1716,Atlantis MetaverseTAU,$0.09,0.148,-11.20%,$ 1.21M,$ 643.01K,0.74,4.3,7 Dec 2021,"$125,000",,,,,0.74,4.3,,,,,,,,,,,,,Atlantis MetaverseTAU,,,BSCPAD
+BSCPAD,1455,Roseon FinanceROSN,$0.11,-0.44%,-29%,$ 2.98M,$ 405.85K,0.74,4.25,9 May 2021,"$90,000",,,,,0.74,4.25,,,,,,,,,,,,,Roseon FinanceROSN,,,BSCPAD
+BSCPAD,1986,SafeLaunchSFEX,$0.61,0.0237,-2.70%,$ 232.76K,$ 48.75K,1.23,4.21,4 Jul 2021,"$112,500",,,,,1.23,4.21,,,,,,,,,,,,,SafeLaunchSFEX,,,BSCPAD
+BSCPAD,,Lever NetworkLEV,$0.02,-6.13%,-8.34%,$ 369.48K,$ 12.68K,0.05,3.99,2 May 2021,"$135,000",,,,,0.05,3.99,,,,,,,,,,,,,Lever NetworkLEV,,,BSCPAD
+BSCPAD,1646,SpheriumSPHRI,$0.07,-1.55%,-5.08%,$ 1.62M,$ 50.08K,0.38,3.89,15 Jun 2021,"$125,000",,,,,0.38,3.89,,,,,,,,,,,,,SpheriumSPHRI,,,BSCPAD
+BSCPAD,,InvestDexINVEST,$0.03,0.0787,-7.47%,$ 778.13K,$ 5.18K,0.46,3.13,13 Jun 2021,"$90,000",,,,,0.46,3.13,,,,,,,,,,,,,InvestDexINVEST,,,BSCPAD
+BSCPAD,,VikingsChainVikC,$0.01,0.0042,-0.35%,$ 82.20K,$111.18,0.27,3.03,15 Sep 2021,N/A,,,,,0.27,3.03,,,,,,,,,,,,,VikingsChainVikC,,,BSCPAD,VIKC
+BSCPAD,,GlimpseGLMS,$0.02,0.12,-11.20%,$ 383.94K,$ 3.37K,0.65,2.75,N/A,N/A,,,,,0.65,2.75,,,,,,,,,,,,,GlimpseGLMS,,,BSCPAD
+BSCPAD,1497,Marvelous NFTsMNFT,$0.25,0.0044,-0.53%,$ 2.60M,$ 116.04K,2.1,2.71,13 Jan,"$300,057",,,,,2.1,2.71,,,,,,,,,,,,,Marvelous NFTsMNFT,,,BSCPAD
+BSCPAD,,YDragonYDR,$0.01,0.0595,-52.80%,$ 789.92K,$ 1.10K,0.17,2.68,12 Aug 2021,"$800,000",,,,,0.17,2.68,,,,,,,,,,,,,YDragonYDR,,,BSCPAD
+BSCPAD,,X22X22,$0.02,0.0439,-24.70%,$ 34.65K,$169.12,0.05,2.16,18 Jul 2021,"$250,000",,,,,0.05,2.16,,,,,,,,,228.5714286,35.2,,32000,X22X22,,,BSCPAD
+BSCPAD,"$2,016",Alium SwapALM,$0.05,-17.70%,0.463,$ 166.75K,$ 217.33K,0.16,2.08,17 May 2021,"$445,000",,,,,0.16,2.08,,,,,,,,,,,,,Alium SwapALM,,,BSCPAD
+BSCPAD,,NFT StarsNFTS,$0.61,0.0609,-19.40%,$ 831.01K,$ 7.38K,0.3,1.91,4 Jun 2021,"$250,000",,,,,0.3,1.91,,,,,,,,,,,,,NFT StarsNFTS,,,BSCPAD
+BSCPAD,1805,LiquidiftyLQT,$0.09,N/A,-26%,$ 837.51K,$ 21.88K,0.09,1.58,14 Jun 2021,"$200,000",,,,,0.09,1.58,,,,,,,,,,,,,LiquidiftyLQT,,,BSCPAD
+BSCPAD,,Polar SyncPOLAR,$0.03,-0.18%,0.227,$ 3.21M,N/A,0.42,1.15,29 Aug 2021,"$1,000,000",,,,,0.42,1.15,,,,,,,,,,,,,Polar SyncPOLAR,,,BSCPAD
+BSCPAD,"$1,798.00",MeDIA eYeEYE,$0.01,-20.80%,-35.50%,$ 851.31K,$ 119.35K,0.06,1.09,18 Nov 2021,N/A,,,,,0.06,1.09,,,,,,,,,,,,,MeDIA eYeEYE,,,BSCPAD
+BSCPAD,,GreenheartCBD,$0.03,0.0626,-22.90%,$ 289.35K,$ 10.70K,0.31,0.96,5 May 2021,"$450,000",,,,,0.31,0.96,,,,,,,,,,,,,GreenheartCBD,,,BSCPAD
+BSCPAD,,XionXGT,$0.04,N/A,-16.30%,N/A,$ 1.37K,0.21,0.92,6 Jul 2021,"$113,400",,,,,0.21,0.92,,,,,,,,,,,,,XionXGT,,,BSCPAD
+BSCPAD,,DemodyfiDMOD,$0.04,0.0982,-29.10%,$ 320.65K,$10.82,0.17,0.89,9 Jun 2021,"$300,000",,,,,0.17,0.89,,,,,,,,,,,,,DemodyfiDMOD,,,BSCPAD
+BSCPAD,,PolkaTrailTRAIL,$0.00,N/A,-62.60%,N/A,N/A,0.03,0.36,22 Jun 2021,"$200,000",,,,,0.03,0.36,paid,ath,,,,,,,,,,,PolkaTrailTRAIL,,,BSCPAD
+PAID,343,Thetan ArenaTHG,$1.69,0.0632,-26.70%,$ 121.66M,$ 4.31M,21.12,264.17,15 Sep 2021,"$100,000",,,,,,,21.12,264.17,,,,,,,,,,,Thetan ArenaTHG,,,PAID
+PAID,$426.00,Star AtlasATLAS,$0.04,0.0373,-26.20%,$ 77.78M,$ 4.64M,26.09,195.66,29 Aug 2021,"$248,400",,,,,,,26.09,195.66,,,,,,,,,,,Star AtlasATLAS,,,PAID
+PAID,479,AIOZ NetworkAIOZ,$0.15,0.018,-18.10%,$ 61.12M,$ 438.68K,10.09,184.91,1 Apr 2021,"$155,000",,,,,,,10.09,184.91,,,,,,,,,,,AIOZ NetworkAIOZ,,,PAID
+PAID,"$1,699",BeyondFiBYN,$0.15,0.0082,-40.10%,$ 1.28M,$ 432.92K,0.29,174.97,11 Apr 2021,"$75,000",,,,,,,0.29,174.97,,,,,,,,,,,BeyondFiBYN,,,PAID
+PAID,563,Star Atlas DAOPOLIS,$2.05,0.0386,-19.20%,$ 44.26M,$ 1.27M,14.85,136.81,29 Aug 2021,"$248,400",,,,,,,14.85,136.81,,,,,,,,,,,Star Atlas DAOPOLIS,,,PAID
+PAID,951,SplytSHOPX,$0.13,0.029,-23.40%,$ 11.88M,$ 235.84K,3.09,116.63,30 Mar 2021,"$219,000",,,,,,,3.09,116.63,,,,,,,,,,,SplytSHOPX,,,PAID
+PAID,817,Sidus HeroesSIDUS,$0.04,0.0048,-27.30%,$ 17.83M,$ 663.59K,23.22,109.29,14 Dec 2021,"$200,000",,,,,,,23.22,109.29,,,,,,,,,,,Sidus HeroesSIDUS,,,PAID
+PAID,"$1,873.00",Blind BoxesBLES,$0.03,0.0654,-12.70%,$ 573.92K,$ 40.81K,0.21,80.78,25 Mar 2021,"$150,000",,,,,,,0.21,80.78,,,,,,,,,,,Blind BoxesBLES,,,PAID
+PAID,188,MetisDAOMETIS,$115,0.139,-27.50%,$ 286.25M,$ 8.01M,23.09,66.4,12 May 2021,"$100,000",,,,,,,23.09,66.4,,,,,,,,,,,MetisDAOMETIS,,,PAID
+PAID,1572,Good Games GuildGGG,$1.57,0.0394,-26.30%,$ 2.03M,$ 321.56K,5.22,55.95,4 Nov 2021,"$125,000",,,,,,,5.22,55.95,,,,,,,,,,,Good Games GuildGGG,,,PAID
+PAID,1953,Equalizer FinanceEQZ,$0.11,-0.08%,-21.10%,$ 308.51K,$ 303.29K,0.89,53.27,8 Apr 2021,"$100,000",,,,,,,0.89,53.27,,,,,,,,,,,Equalizer FinanceEQZ,,,PAID
+PAID,1531,Lovelace WorldLACE,$0.12,0.208,-12.90%,$ 2.31M,$ 576.47K,2.63,47.32,21 Nov 2021,"$150,000",,,,,,,2.63,47.32,,,,,,,,,,,Lovelace WorldLACE,,,PAID
+PAID,1746,ProjectOasisOASIS,$0.51,0.0129,-29.20%,$ 1.03M,$ 28.11K,2.55,44.13,12 Oct 2021,"$150,000",,,,,,,2.55,44.13,,,,,,,,,,,ProjectOasisOASIS,,,PAID
+PAID,,Shadows NetworkDOWS,$0.06,0.0283,-15.20%,$ 450.05K,$ 3.69K,0.49,34.76,1 Mar 2021,"$125,000",,,,,,,0.49,34.76,,,,,,,,,,,Shadows NetworkDOWS,,,PAID
+PAID,961,Lossless ProtocolLSS,$0.51,0.0203,-30.30%,$ 11.46M,$ 1.11M,6.65,34.33,2 Jun 2021,"$200,000",,,,,,,6.65,34.33,,,,,,,,,,,Lossless ProtocolLSS,,,PAID
+PAID,"$1,006",KastaKASTA,$0.28,-0.48%,-26.50%,$ 10.25M,$ 467.68K,6.93,33.75,3 Jan,"$500,000",,,,,,,6.93,33.75,,,,,,,,,,,KastaKASTA,,,PAID
+PAID,1274,Sidus Heroes DAOSENATE,$1.19,0.0027,-29.50%,$ 5.08M,$ 59.01K,6.62,32.55,14 Dec 2021,"$200,000",,,,,,,6.62,32.55,,,,,,,,,,,Sidus Heroes DAOSENATE,,,PAID
+PAID,692,TernoaCAPS,$0.05,0.0477,-16%,$ 25.96M,$ 277.86K,6.59,28.85,27 May 2021,"$200,000",,,,,,,6.59,28.85,,,,,,,,,,,TernoaCAPS,,,PAID
+PAID,$776.00,Deeper NetworkDPR,$0.09,0.0032,-9.48%,$ 19.67M,$ 1.80M,7.69,28.58,4 Apr 2021,"$750,000",,,,,,,7.69,28.58,,,,,,,,,,,Deeper NetworkDPR,,,PAID
+PAID,1573,PathDAOPATH,$0.04,0.0672,-3.13%,$ 2.02M,$ 16.57K,2.81,28.25,30 Nov 2021,"$250,000",,,,,,,2.81,28.25,,,,,,,,,,,PathDAOPATH,,,PAID
+PAID,$645,StackOSSTACK,$0.09,0.177,-10.10%,$ 31.17M,$ 122.69K,6.17,24.52,22 Apr 2021,"$210,000",,,,,,,6.17,24.52,,,,,,,,,,,StackOSSTACK,,,PAID
+PAID,1268,Monsta InfiniteMONI,$0.26,-3.69%,-33.30%,$ 5.13M,$ 392.94K,1.3,24.31,15 Sep 2021,"$80,000",,,,,,,1.3,24.31,,,,,,,,,,,Monsta InfiniteMONI,,,PAID
+PAID,1256,CornucopiasCOPI,$0.03,N/A,-24.30%,$ 5.25M,$ 518.18K,7.53,21.28,8 Dec 2021,"$300,000",,,,,,,7.53,21.28,,,,,,,,,,,CornucopiasCOPI,,,PAID
+PAID,,DrifeDRF,$0.00,-0.88%,-10.20%,N/A,$ 29.06K,0.35,20.73,5 Aug 2021,"$150,000",,,,,,,0.35,20.73,,,,,,,,,,,DrifeDRF,,,PAID
+PAID,"$1,560.00",PlethoriPLE,$0.04,0.076,0.132,$ 2.11M,$ 123.41K,1,19.47,2 May 2021,"$100,000",,,,,,,1,19.47,,,,,,,,,,,PlethoriPLE,,,PAID
+PAID,,Dot.FinancePINK,$0.04,0.0519,-23.60%,$ 150.01K,$ 12.70K,0.51,17.46,17 Jun 2021,"$100,000",,,,,,,0.51,17.46,,,,,,,,,,,Dot.FinancePINK,,,PAID
+PAID,"$1,053",IspolinkISP,$0.00,0.0674,-19.10%,$ 8.92M,$ 4.26M,1.85,15.62,5 May 2021,"$100,000",,,,,,,1.85,15.62,,,,,,,,,,,IspolinkISP,,,PAID
+PAID,1414,MetastrikeMTS,$0.21,0.0054,-26.40%,$ 3.33M,$ 635.61K,4.25,14.83,11 Jan,"$142,500",,,,,,,4.25,14.83,,,,,,,,,,,MetastrikeMTS,,,PAID
+PAID,1329,bloXmove TokenBLXM,$1.40,-13.80%,-28.30%,$ 4.35M,$ 150.03K,1.76,14.27,21 Oct 2021,"$200,000",,,,,,,1.76,14.27,,,,,,,,,,,bloXmove TokenBLXM,,,PAID
+PAID,1291,IOI TokenIOI,$0.67,0.0341,-16.10%,$ 4.83M,$ 526.04K,1.67,13.81,9 May 2021,"$200,000",,,,,,,1.67,13.81,,,,,,,,,,,IOI TokenIOI,,,PAID
+PAID,"$1,211.00",SolchicksCHICKS,$0.02,0.0423,-23.10%,$ 5.88M,$ 605.05K,0.4,13.19,2 Dec 2021,"$300,000",,,,,,,0.4,13.19,,,,,,,,,,,SolchicksCHICKS,,,PAID
+PAID,1960,AffynFYN,$0.29,0.0216,-38%,$ 292.21K,$ 199.05K,2.09,13.17,27 Jan,"$400,000",,,,,,,2.09,13.17,,,,,,,,,,,AffynFYN,,,PAID
+PAID,,Pandora ProtocolPNDR,$0.02,0.0364,-27.50%,N/A,$ 2.23K,0.11,12.52,29 Aug 2021,"$150,000",,,,,,,0.11,12.52,,,,,,,,,,,Pandora ProtocolPNDR,,,PAID
+PAID,1050,MadworldUMAD,$0.16,0.0051,0.259,$ 9.02M,$ 60.49K,5.86,12.47,N/A,"$420,000",,,,,,,5.86,12.47,,,,,,,,,,,MadworldUMAD,,,PAID
+PAID,,Privi TraxTRAX,$0.01,N/A,-13.70%,$ 6.11K,$36.20,0.35,11.73,9 Aug 2021,"$150,000",,,,,,,0.35,11.73,,,,,,,,,,,Privi TraxTRAX,,,PAID
+PAID,,Relite.finance RELI,$0.01,0.0832,-23.20%,$ 607.49K,$ 14.79K,0.23,10.71,16 May 2021,"$500,000",,,,,,,0.23,10.71,,,,,,,,,,,Relite.finance RELI,,,PAID
+PAID,,CollateralCOLL,$0.05,0.0556,-10.90%,$ 364.27K,N/A,0.13,9.91,15 Apr 2021,"$100,000",,,,,,,0.13,9.91,,,,,,,439.2857143,67.65,,61500,CollateralCOLL,,,PAID
+PAID,"$2,066",Alphr.FinanceALPHR,$0.04,-10.90%,-43.60%,$ 73.89K,$ 35.87K,0.03,8.88,25 Apr 2021,"$100,000",,,,,,,0.03,8.88,,,,,,,,,,,Alphr.FinanceALPHR,,,PAID
+PAID,,ArGoARGO,$0.05,0.0733,-42.40%,$ 894.68K,$812.94,0.41,8.79,11 May 2021,"$250,000",,,,,,,0.41,8.79,,,,,,,,,,,ArGoARGO,,,PAID
+PAID,1344,Citadel.oneXCT,$0.09,0.0785,-3.31%,$ 4.15M,$ 64.85K,1.07,8.75,18 Aug 2021,"$400,000",,,,,,,1.07,8.75,,,,,,,,,,,Citadel.oneXCT,,,PAID
+PAID,1586,PureFiUFI,$0.07,0.217,-28.30%,$ 1.88M,$ 134.68K,1.47,8.27,26 Jul 2021,"$200,150",,,,,,,1.47,8.27,,,,,,,,,,,PureFiUFI,,,PAID
+PAID,,TotemCTZN,$0.03,-2.25%,-37.80%,$ 676.29K,$ 5.58K,0.68,8.11,16 Dec 2021,"$237,500",,,,,,,0.68,8.11,,,,,,,,,,,TotemCTZN,,,PAID
+PAID,2080,Creator PlatformCTR,$0.04,0.0796,-2.08%,$ 48.96K,$ 16.78K,0.37,7.92,7 Sep 2021,"$300,000",,,,,,,0.37,7.92,,,,,,,,,,,Creator PlatformCTR,,,PAID
+PAID,,Bright Union BRIGHT,$0.06,0.0321,-19.30%,$ 1.05M,$ 2.29K,0.62,7.26,4 Aug 2021,"$150,000",,,,,,,0.62,7.26,,,,,,,,,,,Bright Union BRIGHT,,,PAID
+PAID,1437,SmoothySMTY,$0.04,-1.75%,-14.40%,$ 3.14M,$ 193.91K,0.09,7.21,26 Apr 2021,"$150,000",,,,,,,0.09,7.21,,,,,,,,,,,SmoothySMTY,,,PAID
+PAID,1492,BlockBankBBANK,$0.03,0.084,-21.60%,$ 2.64M,$ 46.57K,0.33,7.06,27 Apr 2021,"$1,000,000",,,,,,,0.33,7.06,,,,,,,,,,,BlockBankBBANK,,,PAID
+PAID,,OMNI - People DrivenOAI,$0.02,0.0196,-15.50%,N/A,$ 10.85K,1.04,6.88,15 Jul 2021,"$200,000",,,,,,,1.04,6.88,,,,,,,,,,,OMNI - People DrivenOAI,,,PAID
+PAID,,Octopus ProtocolOPS,$0.02,-4.78%,-22.40%,$ 484.40K,$ 5.08K,0.14,6.83,10 Jun 2021,"$150,000",,,,,,,0.14,6.83,,,,,,,,,,,Octopus ProtocolOPS,,,PAID
+PAID,"$1,697",SugarBounceTIP,$0.22,0.102,-22.30%,$ 1.31M,$ 53.59K,0.39,6.25,18 Nov 2021,"$150,000",,,,,,,0.39,6.25,,,,,,,,,,,SugarBounceTIP,,,PAID
+PAID,,AlphadexROAR,$0.16,-8.82%,0.12,N/A,$ 295.22K,0.73,5.97,20 Jan,N/A,,,,,,,0.73,5.97,,,,,,,,,,,AlphadexROAR,,,PAID
+PAID,,MozikMOZ,$0.00,0.0239,-17.20%,$ 35.38K,$14.99,0.07,5.82,6 Jun 2021,"$180,000",,,,,,,0.07,5.82,,,,,,,,,,,MozikMOZ,,,PAID
+PAID,,Pocket ArenaPOC,$0.36,-0.03%,-8.43%,N/A,$534.68,3.59,5.73,9 Nov 2021,"$75,000",,,,,,,3.59,5.73,,,,,,,,,,,Pocket ArenaPOC,,,PAID
+PAID,,Plutos NetworkPLUT,$0.04,0.0926,-19.30%,$ 101.03K,$ 2.46K,0.12,5.43,21 Jun 2021,"$175,000",,,,,,,0.12,5.43,,,,,,,,,,,Plutos NetworkPLUT,,,PAID
+PAID,,Cryption NetworkCNT,$0.03,-0.02%,N/A,$ 242.07K,N/A,0.21,5.42,7 Jun 2021,"$175,000",,,,,,,0.21,5.42,,,,,,,,,,,Cryption NetworkCNT,,,PAID
+PAID,$851,Rainmaker GamesRAIN,$0.34,-6.15%,-25.50%,$ 15.71M,$ 972.90K,1.36,5.38,15 Dec 2021,"$250,000",,,,,,,1.36,5.38,,,,,,,,,,,Rainmaker GamesRAIN,,,PAID
+PAID,1163,OjamuOJA,$0.18,0.231,-18.50%,$ 6.72M,$ 110.56K,1.52,5.11,6 Oct 2021,"$250,600",,,,,,,1.52,5.11,,,,,,,,,,,OjamuOJA,,,PAID
+PAID,1285,AllyDRCT,$0.01,0.0494,-20.40%,$ 4.94M,$ 56.75K,1.64,5.08,30 Jun 2021,"$200,000",,,,,,,1.64,5.08,,,,,,,,,,,AllyDRCT,,,PAID
+PAID,,ChimerasCHIM,$0.08,0.0435,-12.90%,N/A,$561.47,0.14,4.99,27 Oct 2021,"$150,000",,,,,,,0.14,4.99,,,,,,,,,,,ChimerasCHIM,,,PAID
+PAID,1526,TribeOneHAKA,$0.08,-7.68%,-16.80%,$ 2.33M,$ 408.15K,0.68,4.92,22 Jun 2021,"$150,000",,,,,,,0.68,4.92,,,,,,,,,,,TribeOneHAKA,,,PAID
+PAID,"$1,554",DecubateDCB,$0.02,N/A,-14%,$ 2.16M,$ 46.10K,1.4,4.87,5 Jul 2021,"$150,000",,,,,,,1.4,4.87,,,,,,,,,,,DecubateDCB,,,PAID
+PAID,987,HoDooiHOD,$0.05,0.052,-25.80%,$ 10.65M,$ 423.94K,1.17,4.69,13 Jun 2021,"$250,000",,,,,,,1.17,4.69,,,,,,,,,,,HoDooiHOD,,,PAID
+PAID,,VegaswapVGA,$0.00,-3.22%,-23.90%,$ 9.68K,$10.32,0.01,4.42,12 Sep 2021,"$200,000",,,,,,,0.01,4.42,,,,,,,,,,,VegaswapVGA,,,PAID
+PAID,,NFTifyN1,$0.03,0.0574,-25.50%,$ 604.04K,$279.88,0.37,3.11,3 Jun 2021,"$140,000",,,,,,,0.37,3.11,,,,,,,,,,,NFTifyN1,,,PAID,N1
+PAID,,HypersignHID,$0.05,0.0139,-23.60%,$ 104.41K,$ 3.59K,0.18,3.05,8 Jun 2021,"$200,000",,,,,,,0.18,3.05,,,,,,,,,,,HypersignHID,,,PAID
+PAID,"$1,223",Globe Derivative ExchangeGDT,$0.21,0.0521,0.0336,$ 5.74M,$ 148.08K,0.2,2.31,11 May 2021,"$2,000,000",,,,,,,0.2,2.31,,,,,,,,,,,Globe Derivative ExchangeGDT,,,PAID
+PAID,,XFaiXFIT,$0.05,-0.84%,-2.18%,$ 11.07M,$ 6.14K,0.41,1.94,28 Apr 2021,"$100,000",,,,,,,0.41,1.94,,,,,,,,,,,XFaiXFIT,,,PAID
+PAID,,2crazyNFT2CRZ,$0.01,0.0727,-18.50%,N/A,$ 179.74K,0.3,1.93,24 Jun 2021,"$225,000",,,,,,,0.3,1.93,,,,,,,,,,,2crazyNFT2CRZ,,,PAID
+PAID,1805,LiquidiftyLQT,$0.09,N/A,-26%,$ 837.51K,$ 21.88K,0.09,1.58,14 Jun 2021,"$200,000",,,,,,,0.09,1.58,,,,,,,,,,,LiquidiftyLQT,,,PAID
+PAID,"$1,754.00",Earn GuildEARN,$0.34,N/A,N/A,$ 1.02M,$ 2.44M,0.85,1.56,21 Feb,"$1,425,000",,,,,,,0.85,1.56,,,,,,,,,,,Earn GuildEARN,,,PAID
+PAID,,RepresentRPT,$0.00,0.0427,-15.50%,$ 21.26K,$201.90,0.08,0.93,16 Sep 2021,"$500,000",,,,,,,0.08,0.93,,,,,,,,,,,RepresentRPT,,,PAID
+PAID,,DemodyfiDMOD,$0.04,0.0982,-29.10%,$ 320.65K,$10.82,0.17,0.89,9 Jun 2021,"$300,000",,,,,,,0.17,0.89,,,,,,,,,,,DemodyfiDMOD,,,PAID
+PAID,,CDzExchangeCDZ,$0.00,0.0522,-24.40%,$ 2.75K,$405.34,0.05,0.64,12 Aug 2021,"$150,000",,,,,,,0.05,0.64,,,,,,,,,,,CDzExchangeCDZ,,,PAID
+PAID,,EmiSwapESW,$0.01,-0.09%,-29.20%,$ 125.18K,$ 9.00K,0.05,0.6,29 Jun 2021,"$300,000",,,,,,,0.05,0.6,,,,,,,,,,,EmiSwapESW,,,PAID
+PAID,,Space MisfitsSMCW,N/A,N/A,N/A,N/A,N/A,,,16 Jan,"$200,000",,,,,,,,,polka,ath,,,,,,,,,Space MisfitsSMCW,,,PAID
+POLS,$451.00,Ethernity ChainERN,$5.43,0.078,-12.70%,$ 70.87M,$ 2.89M,19.75,272.1,7 Mar 2021,"$275,000",,,,,,,,,19.75,272.1,,,,,,,,,Ethernity ChainERN,,,POLS
+POLS,343,Thetan ArenaTHG,$1.69,0.062,-26.20%,$ 121.77M,$ 4.31M,21.14,264.17,15 Sep 2021,"$200,000",,,,,,,,,21.14,264.17,,,,,,,,,Thetan ArenaTHG,,,POLS
+POLS,232,SuperFarmSUPER,$0.76,0.079,-32.10%,$ 217.32M,$ 16.38M,30.25,189.33,21 Feb 2021,"$250,000",,,,,,,,,30.25,189.33,,,,,,,,,SuperFarmSUPER,,,POLS
+POLS,908,Polychain MonstersPMON,$4.29,0.0799,-21.30%,$ 13.53M,$ 822.36K,12.26,185.46,30 Mar 2021,"$90,000",,,,,,,,,12.26,185.46,,,,,,,,,Polychain MonstersPMON,,,POLS
+POLS,309,Wilder WorldWILD,$1.66,0.0966,-15.50%,$ 139.31M,$ 2.38M,34.68,157.96,10 May 2021,"$250,000",,,,,,,,,34.68,157.96,,,,,,,,,Wilder WorldWILD,,,POLS
+POLS,881,PolkamarketsPOLK,$0.23,0.121,-19.70%,$ 14.35M,$ 107.27K,7.59,155.26,23 Feb 2021,"$90,000",,,,,,,,,7.59,155.26,,,,,,,,,PolkamarketsPOLK,,,POLS
+POLS,$603.00,PAID NetworkPAID,$0.28,0.0203,-11%,$ 37.17M,$ 380.12K,6.66,149.91,19 Jan 2021,"$150,000",,,,,,,,,6.66,149.91,,,,,,,,,PAID NetworkPAID,,,POLS
+POLS,893,RefinableFINE,$0.12,0.0425,-14%,$ 13.95M,$ 559.66K,3.69,136.78,26 Apr 2021,"$180,000",,,,,,,,,3.69,136.78,,,,,,,,,RefinableFINE,,,POLS
+POLS,$953,AntimatterMATTER,$0.38,0.0097,-9.77%,$ 11.80M,$ 289.42K,7.54,122.75,26 Feb 2021,"$25,000",,,,,,,,,7.54,122.75,,,,,,,,,AntimatterMATTER,,,POLS
+POLS,1852,OptionRoomROOM,$0.05,0.0065,-14.60%,$ 630.10K,$ 63.11K,1.01,92.74,4 Feb 2021,"$50,000",,,,,,,,,1.01,92.74,,,,,,,,,OptionRoomROOM,,,POLS
+POLS,1230,UnmarshalMARSH,$0.24,0.11,-25.80%,$ 5.63M,$ 1.11M,1.4,90.9,29 Mar 2021,"$204,000",,,,,,,,,1.4,90.9,,,,,,,,,UnmarshalMARSH,,,POLS
+POLS,1082,DfynDFYN,$0.09,0.0288,-17.80%,$ 8.18M,$ 640.24K,1,86.88,9 May 2021,"$305,500",,,,,,,,,1,86.88,,,,,,,,,DfynDFYN,,,POLS
+POLS,"$1,543.00",YOP FinanceYOP,$0.22,0.109,0.0044,$ 2.20M,$ 1.69M,4.37,78.7,14 Jan 2021,"$60,000",,,,,,,,,4.37,78.7,,,,,,,,,YOP FinanceYOP,,,POLS
+POLS,828,Ethereum Push Notification ServicePUSH,$1.13,0.0065,-14.50%,$ 16.76M,$ 1.26M,9.41,72.29,12 Apr 2021,"$100,000",,,,,,,,,9.41,72.29,,,,,,,,,Ethereum Push Notification ServicePUSH,,,POLS
+POLS,"$1,197",WonderHeroWND,$1.10,0.13,-31.20%,$ 6.19M,$ 1.47M,8.43,72.04,20 Oct 2021,"$195,000",,,,,,,,,8.43,72.04,,,,,,,,,WonderHeroWND,,,POLS
+POLS,1010,RealmREALM,$0.21,0.127,-30.50%,$ 10.11M,$ 953.45K,6.96,71.17,13 Sep 2021,"$225,000",,,,,,,,,6.96,71.17,,,,,,,,,RealmREALM,,,POLS
+POLS,1028,Convergence FinanceCONV,$0.01,0.0615,-10.10%,$ 9.56M,$ 739.82K,1.1,55.14,24 Mar 2021,"$300,000",,,,,,,,,1.1,55.14,,,,,,,,,Convergence FinanceCONV,,,POLS
+POLS,962,Blockchain Monster HuntBCMC,$0.20,0.141,-33.10%,$ 11.37M,$ 678.94K,2.23,52.4,11 Oct 2021,"$180,000",,,,,,,,,2.23,52.4,,,,,,,,,Blockchain Monster HuntBCMC,,,POLS
+POLS,$794.00,Umbrella NetworkUMB,$0.14,0.0726,-19.10%,$ 18.98M,$ 455.63K,2.7,52.3,8 Feb 2021,"$250,000",,,,,,,,,2.7,52.3,,,,,,,,,Umbrella NetworkUMB,,,POLS
+POLS,1076,Orion MoneyORION,$0.16,-0.45%,-22.90%,$ 8.38M,$ 22.13K,3.24,47.12,28 Sep 2021,N/A,,,,,,,,,3.24,47.12,,,,,,,,,Orion MoneyORION,,,POLS
+POLS,"$1,203",Bridge MutualBMI,$0.09,0.0122,-25.30%,$ 6.01M,$ 201.81K,0.74,44.37,29 Jan 2021,"$150,000",,,,,,,,,0.74,44.37,,,,,,,,,Bridge MutualBMI,,,POLS
+POLS,852,Kylin NetworkKYL,$0.06,-5.33%,-22.80%,$ 15.68M,$ 372.64K,1.21,44.33,28 Feb 2021,"$750,000",,,,,,,,,1.21,44.33,,,,,,,,,Kylin NetworkKYL,,,POLS
+POLS,974,MahaDAOMAHA,$3.30,0.111,-12.20%,$ 11.05M,$ 330.62K,5.49,43.84,16 Dec 2020,"$125,000",,,,,,,,,5.49,43.84,,,,,,,,,MahaDAOMAHA,,,POLS
+POLS,783,ExeedmeXED,$0.25,0.0882,-26.50%,$ 19.43M,$ 1.41M,4.92,40.08,29 Dec 2020,"$75,000",,,,,,,,,4.92,40.08,,,,,,,,,ExeedmeXED,,,POLS
+POLS,,DAOventuresDVD,$0.03,-1.46%,-18.20%,$ 253.04K,$10.19,0.14,38.16,14 Feb 2021,"$100,000",,,,,,,,,0.14,38.16,,,,,,,,,DAOventuresDVD,,,POLS
+POLS,1164,HighstreetHIGH,$4.45,0.0499,-21.50%,$ 6.67M,$ 7.82M,4.45,37.62,10 Oct 2021,"$500,000",,,,,,,,,4.45,37.62,,,,,,,,,HighstreetHIGH,,,POLS
+POLS,$668,ChainGuardiansCGG,$0.56,0.0036,-19.70%,$ 28.25M,$ 252.16K,4.7,36.07,9 Mar 2021,"$216,000",,,,,,,,,4.7,36.07,,,,,,,,,ChainGuardiansCGG,,,POLS
+POLS,1208,KattanaKTN,$2.84,0.0389,-23.80%,$ 5.91M,$ 32.27K,2.84,34.86,8 Apr 2021,"$200,000",,,,,,,,,2.84,34.86,,,,,,,,,KattanaKTN,,,POLS
+POLS,,Charged ParticlesIONX,$0.24,0.0168,-25.60%,$ 6.22M,$ 14.06K,1.18,34,30 May 2021,"$200,000",,,,,,,,,1.18,34,,,,,,,,,Charged ParticlesIONX,,,POLS
+POLS,842,Shyft NetworkSHFT,$0.29,0.0222,-26.10%,$ 16.04M,$ 242.03K,1.44,32.36,25 Mar 2021,"$500,000",,,,,,,,,1.44,32.36,,,,,,,,,Shyft NetworkSHFT,,,POLS
+POLS,"$1,575.00",PolkalokrLKR,$0.06,0.003,-7.03%,$ 1.93M,$ 144.45K,1.15,32.25,6 Apr 2021,"$150,000",,,,,,,,,1.15,32.25,,,,,,,,,PolkalokrLKR,,,POLS
+POLS,,FinxfloFXF,$0.11,0.0734,-9.50%,$ 9.85M,$ 12.19K,2.17,31.73,7 Feb 2021,"$200,000",,,,,,,,,2.17,31.73,,,,,,,,,FinxfloFXF,,,POLS
+POLS,"$1,689",MoonieNFTMNY,$0.00,-2.64%,-32.40%,$ 1.33M,$ 237.98K,1.16,31.68,6 Sep 2021,"$116,530",,,,,,,,,1.16,31.68,,,,,,,,,MoonieNFTMNY,,,POLS
+POLS,,PolkaCoverCVR,$0.06,0.116,-22.80%,$ 3.61M,$ 6.64K,0.76,29.17,20 Jan 2021,"$150,000",,,,,,,,,0.76,29.17,,,,,,,,,PolkaCoverCVR,,,POLS
+POLS,,MytheriaMYRA,$0.27,0.0268,-14.90%,N/A,$ 134.06K,1.99,28.79,15 Nov 2021,"$250,000",,,,,,,,,1.99,28.79,,,,,,,,,MytheriaMYRA,,,POLS
+POLS,507,SaitoSAITO,$0.03,0.0541,-28.20%,$ 55.71M,$ 1.32M,7.94,28.3,21 Apr 2021,"$400,000",,,,,,,,,7.94,28.3,,,,,,,,,SaitoSAITO,,,POLS
+POLS,"$2,032.00",Fire ProtocolFIRE,$0.02,-6.93%,-19.50%,$ 123.29K,$ 15.24K,0.21,27.15,27 Dec 2020,"$50,000",,,,,,,,,0.21,27.15,,,,,,,,,Fire ProtocolFIRE,,,POLS
+POLS,,Genesis ShardsGS,$0.06,0.0286,-11.40%,$ 768.65K,$ 2.82K,0.53,26.02,13 Apr 2021,"$125,000",,,,,,,,,0.53,26.02,,,,,,,,,Genesis ShardsGS,,,POLS
+POLS,"$1,105",RealFevrFEVR,$0.00,0.0168,-35.10%,$ 7.74M,$ 65.01K,3.43,25.89,7 Jul 2021,"$384,000",,,,,,,,,3.43,25.89,,,,,,,,,RealFevrFEVR,,,POLS
+POLS,826,OpenOceanOOE,$0.11,0.0309,-21.20%,$ 16.86M,$ 965.48K,2.81,25.65,11 Jul 2021,"$150,000",,,,,,,,,2.81,25.65,,,,,,,,,OpenOceanOOE,,,POLS
+POLS,1100,PinknodePNODE,$0.06,0.243,-8.12%,$ 7.83M,$ 18.41K,1.85,24.97,13 May 2021,"$150,000",,,,,,,,,1.85,24.97,,,,,,,,,PinknodePNODE,,,POLS
+POLS,"$1,233.00",DOTMOOVSMOOV,$0.01,0.0342,-13.60%,$ 5.53M,$ 271.29K,2.14,24.55,24 May 2021,"$160,000",,,,,,,,,2.14,24.55,,,,,278.5714286,42.9,,39000,DOTMOOVSMOOV,,,POLS
+POLS,1399,QuiddQUIDD,$0.47,0.0373,-18.10%,$ 3.41M,$ 38.78K,1.87,23.76,16 Nov 2021,"$500,000",,,,,,,,,1.87,23.76,,,,,,,,,QuiddQUIDD,,,POLS
+POLS,,Butterfly ProtocolBFLY,$0.04,0.0611,-24.90%,$ 671.87K,$950.90,0.13,23.44,3 Feb 2021,"$100,000",,,,,,,,,0.13,23.44,,,,,,,,,Butterfly ProtocolBFLY,,,POLS
+POLS,1324,Nord FinanceNORD,$1.20,0.0874,-27.60%,$ 4.39M,$ 563.18K,1.33,22.62,11 Jan 2021,"$90,000",,,,,,,,,1.33,22.62,,,,,,,,,Nord FinanceNORD,,,POLS
+POLS,1697,Oddz FinanceODDZ,$0.14,0.0148,-10.10%,$ 1.27M,$ 284.81K,0.83,21.7,17 Mar 2021,"$150,300",,,,,,,,,0.83,21.7,,,,,,,,,Oddz FinanceODDZ,,,POLS
+POLS,$987.00,NAOS FinanceNAOS,$0.18,0.0571,-22.90%,$ 10.66M,$ 50.48K,0.96,19.99,N/A,"$300,000",,,,,,,,,0.96,19.99,,,,,,,,,NAOS FinanceNAOS,,,POLS
+POLS,931,BlockWalletBLANK,$0.58,0.0436,-31.70%,$ 12.65M,$ 585.26K,9.01,19.9,N/A,"$120,000",,,,,,,,,9.01,19.9,,,,,,,,,BlockWalletBLANK,,,POLS
+POLS,$847,PolkadexPDEX,$4.99,0.0462,-23.40%,$ 15.84M,$ 587.73K,2.5,19.74,15 Apr 2021,"$250,000",,,,,,,,,2.5,19.74,,,,,,,,,PolkadexPDEX,,,POLS
+POLS,1771,APYSwapAPYS,$0.09,0.0256,-16.30%,$ 925.06K,$ 17.87K,0.51,19.59,1 Mar 2021,"$125,000",,,,,,,,,0.51,19.59,,,,,,,,,APYSwapAPYS,,,POLS
+POLS,1127,Public MintMINT,$0.08,0.0599,-10.20%,$ 7.32M,$ 62.15K,0.84,19.28,25 Feb 2021,"$250,000",,,,,,,,,0.84,19.28,,,,,,,,,Public MintMINT,,,POLS
+POLS,647,Stratos STOS,$1.42,0.0693,-0.91%,$ 31.09M,$ 512.37K,4.73,18.18,8 Jun 2021,"$300,000",,,,,,,,,4.73,18.18,,,,,238.5714286,36.74,,33400,Stratos STOS,,,POLS
+POLS,$515.00,HumansHEART,$0.13,-0.87%,-13.70%,$ 53.67M,$ 725.92K,8.83,18.11,8 Dec 2021,"$1,170,000",,,,,,,,,8.83,18.11,,,,,,,,,HumansHEART,,,POLS
+POLS,,UnidoUDO,$0.06,0.0815,-13.50%,$ 4.95M,$ 11.22K,1.07,18.02,2 Mar 2021,"$100,000",,,,,,,,,1.07,18.02,,,,,,,,,UnidoUDO,,,POLS
+POLS,$798,Cere NetworkCERE,$0.03,0.068,-16.30%,$ 18.81M,$ 1.41M,1.14,17.96,7 Nov 2021,"$500,000",,,,,,,,,1.14,17.96,,,,,,,,,Cere NetworkCERE,,,POLS
+POLS,1199,Tidal FinanceTIDAL,$0.00,0.0689,-11.60%,$ 6.18M,$ 152.02K,0.39,17.34,22 Mar 2021,"$100,000",,,,,,,,,0.39,17.34,,,,,,,,,Tidal FinanceTIDAL,,,POLS
+POLS,1234,DtravelTRVL,$0.15,-3.08%,-11.70%,$ 5.52M,$ 106.74K,1.63,17.26,25 Nov 2021,"$500,000",,,,,,,,,1.63,17.26,,,,,,,,,DtravelTRVL,,,POLS
+POLS,1259,Domi OnlineDOMI,$0.20,0.0467,-25%,$ 5.19M,$ 120.41K,8.44,16.72,14 Dec 2021,"$280,000",,,,,,,,,8.44,16.72,,,,,,,,,Domi OnlineDOMI,,,POLS
+POLS,"$1,078.00",Rangers Protocol GasRPG,$8.99,-1.09%,-9.54%,$ 8.34M,$ 56.02K,2.25,16.37,6 Oct 2021,"$420,000",,,,,,,,,2.25,16.37,,,,,,,,,Rangers Protocol GasRPG,,,POLS
+POLS,1830,Legend of Fantasy WarLFW,$0.35,0.0206,-4.81%,$ 702.39K,$ 418.73K,1.76,15.91,27 Oct 2021,"$250,000",,,,,,,,,1.76,15.91,,,,,,,,,Legend of Fantasy WarLFW,,,POLS
+POLS,"$1,704",VeraVERA,$0.12,0.0203,-4.36%,$ 1.23M,$ 107.96K,2.46,13.52,20 Sep 2021,"$500,000",,,,,,,,,2.46,13.52,,,,,,,,,VeraVERA,,,POLS
+POLS,1506,Happy LandHPL,$0.24,0.0546,-27%,$ 2.49M,$ 26.90K,3.36,13.21,9 Dec 2021,"$300,000",,,,,,,,,3.36,13.21,,,,,,,,,Happy LandHPL,,,POLS
+POLS,1321,Konomi NetworkKONO,$0.12,0.12,-20.20%,$ 4.45M,$ 831.21K,0.3,13.14,15 Mar 2021,"$200,000",,,,,,,,,0.3,13.14,,,,,421.4285714,64.9,,59000,Konomi NetworkKONO,,,POLS
+POLS,"$1,372.00",PolytradeTRADE,$0.31,0.0338,-14%,$ 3.74M,$ 214.45K,2.07,13.07,17 Aug 2021,"$200,000",,,,,,,,,2.07,13.07,,,,,,,,,PolytradeTRADE,,,POLS
+POLS,1086,FractalFCL,$0.07,0.0101,-23.90%,$ 8.12M,$ 58.03K,0.66,13,24 Feb 2021,"$400,000",,,,,,,,,0.66,13,,,,,335.7142857,51.7,,47000,FractalFCL,,,POLS
+POLS,"$1,047",DOSEDOSE,$0.09,0.0105,-0.68%,$ 9.05M,$ 615.29K,3.13,12.54,1 Nov 2021,"$500,000",,,,,,,,,3.13,12.54,,,,,,,,,DOSEDOSE,,,POLS
+POLS,1198,Standard Protocol STND,$0.22,0.0683,-4.63%,$ 6.19M,$ 101.97K,0.88,12.04,28 Apr 2021,"$325,000",,,,,,,,,0.88,12.04,,,,,392.8571429,60.5,,55000,Standard Protocol STND,,,POLS
+POLS,1934,Blockchain Cuties UniverseBCUG,$0.52,0.0138,-18.30%,$ 360.12K,$ 48.02K,0.24,11.38,14 Mar 2021,"$440,000",,,,,,,,,0.24,11.38,,,,,400,61.6,,56000,Blockchain Cuties UniverseBCUG,,,POLS
+POLS,,Royale FinanceROYA,$0.02,-28.10%,-29.30%,$ 881.42K,$ 8.85K,0.18,10.61,20 Dec 2020,"$300,000",,,,,,,,,0.18,10.61,,,,,164.2857143,25.3,,23000,Royale FinanceROYA,,,POLS
+POLS,"$1,679.00",UnoReUNO,$0.20,0.129,-13.10%,$ 1.38M,$ 598.81K,1.64,10.19,27 Apr 2021,"$200,000",,,,,,,,,1.64,10.19,,,,,392.8571429,60.5,,55000,UnoReUNO,,,POLS
+POLS,960,Sienna NetworkSIENNA,$5.20,-6.98%,-29.10%,$ 11.50M,$ 676.45K,0.87,10.11,4 May 2021,"$400,000",,,,,,,,,0.87,10.11,,,,,402.1428571,61.93,,56300,Sienna NetworkSIENNA,,,POLS
+POLS,"$1,098",Unbound FinanceUNB,$0.01,0.0927,-6.85%,$ 7.85M,$ 168.95K,0.67,10.01,12 Dec 2021,"$200,000",,,,,,,,,0.67,10.01,,,,,,,,,Unbound FinanceUNB,,,POLS
+POLS,,ZodiumZODI,$0.07,0.0408,-5.02%,$ 1.38M,$ 5.97K,0.85,9.6,1 Dec 2021,"$200,000",,,,,,,,,0.85,9.6,,,,,,,,,ZodiumZODI,,,POLS
+POLS,994,Lithium FinanceLITH,$0.01,0.0919,-5.02%,$ 10.56M,$ 1.15M,1.1,9.06,4 Aug 2021,"$230,000",,,,,,,,,1.1,9.06,,,,,,,,,Lithium FinanceLITH,,,POLS
+POLS,,Strips FinanceSTRP,$1.70,0.0149,-23.40%,$ 8.00M,$ 5.21K,0.85,8.83,12 Oct 2021,"$500,000",,,,,,,,,0.85,8.83,,,,,,,,,Strips FinanceSTRP,,,POLS
+POLS,1157,DropsDOP,$1.56,0.159,-30.50%,$ 6.81M,$ 254.96K,2.6,8.24,20 May 2021,"$200,000",,,,,,,,,2.6,8.24,,,,,264.2857143,40.7,,37000,DropsDOP,,,POLS
+POLS,,TotemCTZN,$0.03,-2.26%,-37.80%,$ 676.25K,$ 5.67K,0.68,8.11,13 Dec 2021,"$400,000",,,,,,,,,0.68,8.11,,,,,,,,,TotemCTZN,,,POLS
+POLS,559,e-MoneyNGM,$0.89,0.0097,-8.49%,$ 44.84M,$ 456.49K,1.79,7.85,18 Jan 2021,"$150,000",,,,,,,,,1.79,7.85,,,,,257.1428571,39.6,,36000,e-MoneyNGM,,,POLS
+POLS,1718,Kawaii IslandsKWT,$0.02,0.0697,-23.60%,$ 1.18M,$ 27.98K,0.53,7.7,11 Oct 2021,"$250,000",,,,,,,,,0.53,7.7,,,,,,,,,Kawaii IslandsKWT,,,POLS
+POLS,1479,MOBLANDSYNR,$0.11,0.194,0.0761,$ 2.74M,$ 671.30K,5.37,7.35,19 Jan,"$500,000",,,,,,,,,5.37,7.35,,,,,,,,,MOBLANDSYNR,,,POLS
+POLS,"$1,567.00",Crypto Fight ClubFIGHT,$0.04,0.0187,0.127,$ 2.03M,$ 213.00K,2.1,6.89,16 Dec 2021,"$250,000",,,,,,,,,2.1,6.89,,,,,,,,,Crypto Fight ClubFIGHT,,,POLS
+POLS,,NiiFiNIIFI,$0.02,0.014,-10.40%,$ 724.97K,$ 10.08K,0.49,6.55,1 Jun 2021,"$225,000",,,,,,,,,0.49,6.55,,,,,267.8571429,41.25,,37500,NiiFiNIIFI,,,POLS
+POLS,"$1,618",Paralink NetworkPARA,$0.01,0.0459,-21%,$ 1.71M,$ 43.63K,0.16,5.74,23 May 2021,"$300,000",,,,,,,,,0.16,5.74,,,,,,,,,Paralink NetworkPARA,,,POLS
+POLS,,TenetTEN,$0.51,0.0023,0.102,$ 912.36K,N/A,0.51,5.65,4 Jan 2021,"$300,000",,,,,,,,,0.51,5.65,,,,,228.5714286,35.2,,32000,TenetTEN,,,POLS
+POLS,851,Rainmaker GamesRAIN,$0.34,-6.26%,-25.30%,$ 15.73M,$ 974.34K,1.36,5.38,15 Dec 2021,"$500,000",,,,,,,,,1.36,5.38,,,,,,,,,Rainmaker GamesRAIN,,,POLS
+POLS,,TosDisDIS,$8.93,0.0515,-28.10%,$ 514.83K,$ 11.11K,0.17,4.97,17 Jan 2021,"$450,000",,,,,,,,,0.17,4.97,,,,,,,,,TosDisDIS,,,POLS
+POLS,,PhuturePHTR,$0.12,0.0012,-3.90%,$ 1.08M,$733.85,0.4,4.9,2 Jun 2021,"$250,000",,,,,,,,,0.4,4.9,,,,,,,,,PhuturePHTR,,,POLS
+POLS,,EthermonEMON,$0.04,0.0801,0.0457,$ 1.85M,$ 4.72K,0.37,4.57,17 May 2021,"$200,000",,,,,,,,,0.37,4.57,,,,,,,,,EthermonEMON,,,POLS
+POLS,1631,Nitro LeagueNITRO,$0.04,0.0285,-13%,$ 1.66M,$ 60.74K,0.64,4.43,12 Dec 2021,"$750,000",,,,,,,,,0.64,4.43,,,,,,,,,Nitro LeagueNITRO,,,POLS
+POLS,1247,Galaxy Fight ClubGCOIN,$0.39,-1.74%,-40.30%,$ 5.36M,$ 32.07K,0.79,4.36,5 Jan,"$2,000,000",,,,,,,,,0.79,4.36,,,,,,,,,Galaxy Fight ClubGCOIN,,,POLS
+POLS,,PolinatePOLI,$0.01,-0.16%,-8.34%,$ 913.68K,$44.80,0.33,4,30 Aug 2021,"$200,000",,,,,,,,,0.33,4,,,,,,,,,PolinatePOLI,,,POLS
+POLS,1749,SpiderDAOSPDR,$0.00,0.0287,-18.10%,$ 1.02M,$ 73.14K,0.15,3.86,14 Dec 2021,"$100,000",,,,,,,,,0.15,3.86,,,,,,,,,SpiderDAOSPDR,,,POLS
+POLS,"$1,861",CoinBurpBURP,$0.03,0.0792,-11.60%,$ 601.59K,$ 298.89K,0.24,3.74,25 Jul 2021,"$250,000",,,,,,,,,0.24,3.74,,,,,,,,,CoinBurpBURP,,,POLS
+POLS,,Meme.comMEM,$0.07,0.0241,-15.20%,$ 130.81K,$ 6.83K,0.15,2.71,14 Jun 2021,"$500,000",,,,,,,,,0.15,2.71,,,,,,,,,Meme.comMEM,,,POLS
+POLS,1104,Ark RivalsARKN,$0.10,N/A,N/A,$ 7.75M,$ 16.26M,2.07,2.5,21 Feb,"$300,000",,,,,,,,,2.07,2.5,,,,,,,,,Ark RivalsARKN,,,POLS
+POLS,"$1,518.00",SafleSAFLE,$0.09,-2.68%,-25.10%,$ 2.36M,$ 28.39K,0.82,1.51,15 Dec 2021,"$550,000",,,,,,,,,0.82,1.51,,,,,,,,,SafleSAFLE,,,POLS
+POLS,,ArtmetaMART,N/A,N/A,N/A,N/A,N/A,,,24 Jan,"$500,000",,,,,,,,,,,,,,,,,,,ArtmetaMART,,,POLS
+POLS,,impactMarketPACT,N/A,N/A,N/A,N/A,N/A,,,21 Dec 2021,N/A,,,,,,,,,,,tpad,ath,,,,,,,impactMarketPACT,,,POLS
+TPAD,308,BloktopiaBLOK,$0.02,0.0755,-22.60%,$ 140.33M,$ 6.48M,67.31,698.26,5 Oct 2021,"$100,000",,,,,,,,,,,67.31,698.26,,,,,,,BloktopiaBLOK,,,TPAD
+TPAD,,DAOLaunchDAL,$2.39,-1.45%,0.045,$ 676.21K,$ 3.48K,2.39,269.13,16 Nov 2021,"$100,000",,,,,,,,,,,2.39,269.13,,,,,,,DAOLaunchDAL,,,TPAD
+TPAD,$817.00,Sidus HeroesSIDUS,$0.04,0.004,-27.40%,$ 17.81M,$ 664.46K,23.19,109.29,13 Dec 2021,"$87,500",,,,,,,,,,,23.19,109.29,,,,,,,Sidus HeroesSIDUS,,,TPAD
+TPAD,303,GensoKishiMV,$0.72,0.057,-25.10%,$ 143.73M,$ 3.24M,37.82,87.4,15 Jan,"$200,002",,,,,,,,,,,37.82,87.4,,,,,,,GensoKishiMV,,,TPAD
+TPAD,"$1,184",PolkaFantasyXP,$0.45,0.0144,-28%,$ 6.34M,$ 35.66K,9.06,67.19,7 Sep 2021,"$100,000",,,,,,,,,,,9.06,67.19,,,,,,,PolkaFantasyXP,,,TPAD
+TPAD,397,NetvrkNTVRK,$2.20,0.0736,-19.10%,$ 89.20M,$ 2.88M,14.65,48.9,20 May 2021,"$100,000",,,,,,,,,,,14.65,48.9,,,,,,,NetvrkNTVRK,,,TPAD
+TPAD,1945,GemGuardianGEMG,$0.16,0.0537,-19.50%,$ 339.07K,$ 477.14K,1.61,34.53,24 Sep 2021,"$100,000",,,,,,,,,,,1.61,34.53,,,,,,,GemGuardianGEMG,,,TPAD
+TPAD,"$1,273.00",Sidus Heroes DAOSENATE,$1.19,0.0044,-29.50%,$ 5.08M,$ 58.92K,6.62,32.55,13 Dec 2021,"$87,500",,,,,,,,,,,6.62,32.55,,,,,,,Sidus Heroes DAOSENATE,,,TPAD
+TPAD,2071,CryptoXpressXPRESS,$0.75,0.0248,-27.10%,$ 67.93K,$ 33.50K,0.53,28.57,11 Nov 2021,"$100,000",,,,,,,,,,,0.53,28.57,,,,,,,CryptoXpressXPRESS,,,TPAD
+TPAD,$929,BlokPadBPAD,$0.02,0.288,-13.90%,$ 12.88M,$ 1.04M,19.77,26.48,25 Jan,"$100,000",,,,,,,,,,,19.77,26.48,,,,,,,BlokPadBPAD,,,TPAD
+TPAD,1759,StrongNodeSNE,$0.00,-20.50%,-31.70%,$ 987.90K,$ 25.87K,1.27,24.16,20 Oct 2021,"$80,000",,,,,,,,,,,1.27,24.16,,,,,,,StrongNodeSNE,,,TPAD
+TPAD,1832,Continuum WorldUM,$0.01,-33.80%,-45.60%,$ 696.87K,$ 428.41K,0.83,20.72,2 Oct 2021,N/A,,,,,,,,,,,0.83,20.72,,,,,,,Continuum WorldUM,,,TPAD
+TPAD,2034,Internet of Energy NetworkIOEN,$0.02,0.0713,-17.30%,$ 124.30K,$ 25.09K,0.83,20.57,12 Oct 2021,"$240,000",,,,,,,,,,,0.83,20.57,,,,,,,Internet of Energy NetworkIOEN,,,TPAD
+TPAD,,QANX TokenQANX,$0.05,0.127,-18.80%,N/A,$ 528.64K,4.46,17.86,31 May 2021,"$200,000",,,,,,,,,,,4.46,17.86,,,,,,,QANX TokenQANX,,,TPAD
+TPAD,1047,The HUSLHUSL,$1.04,0.0764,0.12,$ 9.08M,$ 247.20K,4.17,17.6,22 Sep 2021,"$100,000",,,,,,,,,,,4.17,17.6,,,,,,,The HUSLHUSL,,,TPAD
+TPAD,"$2,000",NFTPadNFTPAD,$0.07,0.053,0.0731,$ 207.77K,$ 43.74K,3.71,16.38,23 Aug 2021,"$100,000",,,,,,,,,,,3.71,16.38,,,,,,,NFTPadNFTPAD,,,TPAD
+TPAD,1842,DinolandDNL,$0.13,0.211,-31.50%,$ 670.35K,$ 2.98M,7.8,15.42,18 Jan,"$200,001",,,,,,,,,,,7.8,15.42,,,,,,,DinolandDNL,,,TPAD
+TPAD,1703,BullPerksBLP,$0.17,0.0587,-39.60%,$ 1.24M,$ 69.54K,3.35,14.5,15 Jun 2021,"$75,000",,,,,,,,,,,3.35,14.5,,,,,,,BullPerksBLP,,,TPAD
+TPAD,,Bit HotelBTH,$0.04,-9.85%,-40.50%,N/A,$ 385.01K,2.46,14.13,21 Dec 2021,"$250,053",,,,,,,,,,,2.46,14.13,,,,,,,Bit HotelBTH,,,TPAD
+TPAD,1607,Monster GalaxyGGM,$0.08,-16.20%,-58.40%,$ 1.75M,$ 142.37K,3.33,13.8,15 Jan,"$200,000",,,,,,,,,,,3.33,13.8,,,,,,,Monster GalaxyGGM,,,TPAD
+TPAD,"$1,209",SolchicksCHICKS,$0.02,0.0433,-22.90%,$ 5.88M,$ 602.03K,0.4,13.19,25 Nov 2021,"$250,000",,,,,,,,,,,0.4,13.19,,,,,,,SolchicksCHICKS,,,TPAD
+TPAD,1853,Moo MonsterMOO,$0.13,-1.32%,-20.20%,$ 635.09K,$ 129.46K,2.15,12.92,29 Nov 2021,"$80,000",,,,,,,,,,,2.15,12.92,,,,,,,Moo MonsterMOO,,,TPAD
+TPAD,1296,TrustPad TPAD,$0.54,0.14,0.0429,$ 4.76M,$ 170.54K,5.44,12.9,4 May 2021,"$500,000",,,,,,,,,,,5.44,12.9,,,,,,,TrustPad TPAD,,,TPAD
+TPAD,"$1,220.00",FNDZFNDZ,$0.40,0.0444,-6.09%,$ 5.76M,$ 54.14K,1.68,12.49,13 Sep 2021,"$480,000",,,,,,,,,,,1.68,12.49,,,,,,,FNDZFNDZ,,,TPAD
+TPAD,,myMessageMESA,$ 1.07e-6,0.019,-17.10%,$ 242.53K,$ 1.90K,0.59,10.58,17 Dec 2021,"$100,000",,,,,,,,,,,0.59,10.58,,,,,,,myMessageMESA,,,TPAD
+TPAD,,SnookSNK,$0.24,-0.96%,-7.69%,$ 1.77M,$ 1.00K,0.74,10.41,5 Sep 2021,"$200,000",,,,,,,,,,,0.74,10.41,,,,,,,SnookSNK,,,TPAD
+TPAD,,DefactorFACTR,$0.05,-0.69%,-18.50%,$ 1.75M,$ 4.39K,0.78,9.79,9 Nov 2021,"$50,000",,,,,,,,,,,0.78,9.79,,,,,,,DefactorFACTR,,,TPAD
+TPAD,,Fishing TownFHTN,$0.03,-5.30%,-26.30%,$ 353.22K,$ 8.65K,0.67,9.43,11 Dec 2021,N/A,,,,,,,,,,,0.67,9.43,,,,,,,Fishing TownFHTN,,,TPAD
+TPAD,1230,Tap FantasyTAP,$0.23,N/A,N/A,$ 5.65M,$ 14.86M,5.79,9.41,7 Jan,"$350,000",,,,,,,,,,,5.79,9.41,,,,,,,Tap FantasyTAP,,,TPAD
+TPAD,,AriadneARDN,$0.24,-2.37%,-46.30%,$ 47.01K,$589.12,0.47,8.67,3 Nov 2021,"$100,000",,,,,,,,,,,0.47,8.67,,,,,,,AriadneARDN,,,TPAD
+TPAD,,CoreStarterCSTR,$0.05,-1.72%,-30.40%,$ 351.71K,$ 6.28K,0.49,8.23,14 Nov 2021,"$100,000",,,,,,,,,,,0.49,8.23,,,,,,,CoreStarterCSTR,,,TPAD
+TPAD,1439,BabylonsBABI,$0.10,0.0505,-9.82%,$ 3.12M,$ 60.29K,2.47,7.96,15 Aug 2021,"$150,000",,,,,,,,,,,2.47,7.96,,,,,,,BabylonsBABI,,,TPAD
+TPAD,,VodraVDR,$0.00,0.0074,-22%,N/A,$ 24.52K,0.37,7.74,25 Oct 2021,"$115,000",,,,,,,,,,,0.37,7.74,,,,,,,VodraVDR,,,TPAD
+TPAD,2031,OneRareORARE,$0.09,0.0846,-20.80%,$ 129.68K,$ 55.08K,0.43,7.55,26 Nov 2021,"$100,000",,,,,,,,,,,0.43,7.55,,,,,,,OneRareORARE,,,TPAD
+TPAD,1477,MOBLANDSYNR,$0.11,0.193,0.0757,$ 2.74M,$ 671.04K,5.37,7.35,17 Jan,"$200,000",,,,,,,,,,,5.37,7.35,,,,,,,MOBLANDSYNR,,,TPAD
+TPAD,,SportsIconICONS,$0.16,-2.43%,-32.60%,$ 201.17K,$ 8.85K,0.22,6.97,23 Nov 2021,"$230,000",,,,,,,,,,,0.22,6.97,,,,,,,SportsIconICONS,,,TPAD
+TPAD,,Octopus ProtocolOPS,$0.02,-4.68%,-22.40%,$ 484.43K,$ 5.08K,0.14,6.83,10 Jun 2021,"$100,000",,,,,,,,,,,0.14,6.83,,,,,,,Octopus ProtocolOPS,,,TPAD
+TPAD,,MetaBrandsMAGE,$0.10,0.131,-38%,$ 613.49K,$ 11.73K,0.97,6.66,8 Dec 2021,"$100,000",,,,,,,,,,,0.97,6.66,,,,,,,MetaBrandsMAGE,,,TPAD
+TPAD,1552,TrustFi NetworkTFI,$0.08,0.034,-27.10%,$ 2.15M,$ 130.55K,1.02,6.58,6 Jun 2021,"$100,000",,,,,,,,,,,1.02,6.58,,,,,,,TrustFi NetworkTFI,,,TPAD
+TPAD,,Vaulty FinanceVLTY,$0.03,-2.62%,-16.20%,$ 34.84K,$ 11.24K,0.04,6.39,8 Aug 2021,"$90,000",,,,,,,,,,,0.04,6.39,,,,,,,Vaulty FinanceVLTY,,,TPAD
+TPAD,1694,SugarBounceTIP,$0.22,0.103,-22.20%,$ 1.31M,$ 53.65K,0.39,6.25,18 Nov 2021,"$100,000",,,,,,,,,,,0.39,6.25,,,,,,,SugarBounceTIP,,,TPAD
+TPAD,,Flourishing AIAI,$0.09,0.027,-27.50%,$ 198.17K,$ 2.66K,0.75,6.12,N/A,"$75,000",,,,,,,,,,,0.75,6.12,,,,,,,Flourishing AIAI,,,TPAD
+TPAD,,PolkaCipherCPHR,$0.01,0.0389,-27.50%,$ 664.34K,$ 2.24K,0.37,5.84,19 Jul 2021,"$153,000",,,,,,,,,,,0.37,5.84,,,,,,,PolkaCipherCPHR,,,TPAD
+TPAD,,Plutos NetworkPLUT,$0.04,0.0923,-19.20%,$ 101.12K,$ 2.46K,0.12,5.43,21 Jun 2021,"$150,000",,,,,,,,,,,0.12,5.43,,,,,,,Plutos NetworkPLUT,,,TPAD
+TPAD,1886,LocknessLKN,$0.02,0.144,-4.07%,$ 494.87K,$ 36.33K,1.1,5.41,10 Jan,"$150,000",,,,,,,,,,,1.1,5.41,,,,,,,LocknessLKN,,,TPAD
+TPAD,1721,Merkle NetworkMERKLE,$0.15,-2.81%,-6.85%,$ 1.18M,$ 24.17K,1,5.07,28 Oct 2021,"$100,010",,,,,,,,,,,1,5.07,,,,,,,Merkle NetworkMERKLE,,,TPAD
+TPAD,,AmasaAMAS,$0.07,0.0074,-37.90%,$ 767.58K,$ 12.72K,0.83,4.97,24 Sep 2021,N/A,,,,,,,,,,,0.83,4.97,,,,,,,AmasaAMAS,,,TPAD
+TPAD,1809,ManuFactoryMNFT,$0.04,0.0011,-11.50%,$ 829.05K,$ 24.41K,1.3,4.76,7 Dec 2021,"$225,002",,,,,,,,,,,1.3,4.76,,,,,,,ManuFactoryMNFT,,,TPAD
+TPAD,,LuxFiLXF,$0.16,-12.50%,-21.90%,$ 932.52K,$ 1.49K,1.56,4.65,7 Nov 2021,"$70,000",,,,,,,,,,,1.56,4.65,,,,,,,LuxFiLXF,,,TPAD
+TPAD,,Wallfair.ioWFAIR,$0.01,0.0301,-13.70%,$ 198.35K,$ 1.52K,0.24,4.62,11 Oct 2021,"$200,000",,,,,,,,,,,0.24,4.62,,,,,,,Wallfair.ioWFAIR,,,TPAD
+TPAD,,LedgityLTY,$0.00,-0.02%,N/A,$ 318.30K,N/A,1.05,4.3,22 Aug 2021,"$100,000",,,,,,,,,,,1.05,4.3,,,,,,,LedgityLTY,,,TPAD
+TPAD,,TriallTRL,$0.08,0.0509,-10.20%,$ 257.74K,$421.51,0.42,3.79,27 Sep 2021,"$200,000",,,,,,,,,,,0.42,3.79,,,,,,,TriallTRL,,,TPAD
+TPAD,1684,Rise of DefendersRDR,$0.02,-4.54%,-38.90%,$ 1.35M,$ 34.81K,0.55,3.73,28 Dec 2021,"$100,000",,,,,,,,,,,0.55,3.73,,,,,,,Rise of DefendersRDR,,,TPAD
+TPAD,,reBakedBAKED,$0.01,0.055,-11.90%,$ 134.38K,$ 10.09K,0.3,3.28,21 Oct 2021,"$102,001",,,,,,,,,,,0.3,3.28,,,,,,,reBakedBAKED,,,TPAD
+TPAD,,InPokerINP,$0.00,N/A,-5.94%,$ 19.62K,$ 7.70K,0.07,3.04,22 Nov 2021,"$50,000",,,,,,,,,,,0.07,3.04,,,,,,,InPokerINP,,,TPAD
+TPAD,,Realm DefendersTRD,$0.00,-2.63%,-14.30%,$ 30.02K,$49.01,0.08,2.98,17 Nov 2021,"$100,000",,,,,,,,,,,0.08,2.98,,,,,,,Realm DefendersTRD,,,TPAD
+TPAD,1800,Galaxy WarGWT,$0.03,-7.91%,-27.80%,$ 847.36K,$ 675.28K,0.91,2.92,27 Dec 2021,"$150,000",,,,,,,,,,,0.91,2.92,,,,,,,Galaxy WarGWT,,,TPAD
+TPAD,,YarlooYARL,$0.08,0.039,-23.80%,$ 71.51K,$ 1.98K,0.24,2.9,23 Oct 2021,"$125,000",,,,,,,,,,,0.24,2.9,,,,,,,YarlooYARL,,,TPAD
+TPAD,1755,Himo WorldHIMO,$0.05,0.0014,-12.10%,$ 1.00M,$ 76.47K,1.15,2.61,21 Jan,"$100,000",,,,,,,,,,,1.15,2.61,,,,,,,Himo WorldHIMO,,,TPAD
+TPAD,,PolygenPGEN,$0.01,0.0956,-12.90%,$ 56.05K,$ 6.91K,0.22,2.22,6 Dec 2021,"$75,000",,,,,,,,,,,0.22,2.22,,,,,,,PolygenPGEN,,,TPAD
+TPAD,,2crazyNFT2CRZ,$0.01,0.0486,-18.50%,N/A,$ 179.74K,0.3,1.93,24 Jun 2021,"$225,000",,,,,,,,,,,0.3,1.93,,,,,,,2crazyNFT2CRZ,,,TPAD
+TPAD,1805,LiquidiftyLQT,$0.09,N/A,-25.90%,$ 838.59K,$ 21.91K,0.09,1.58,14 Jun 2021,"$100,000",,,,,,,,,,,0.09,1.58,,,,,,,LiquidiftyLQT,,,TPAD
+TPAD,1689,SoldexSOLX,$0.03,-1.51%,-15.50%,$ 1.33M,$ 1.09M,0.21,1.08,7 Dec 2021,"$400,000",,,,,,,,,,,0.21,1.08,,,,,,,SoldexSOLX,,,TPAD
+TPAD,,NiftyPaysNIFTY,$0.02,-0.53%,-5.22%,$ 60.06K,$444.88,0.2,0.59,17 Nov 2021,N/A,,,,,,,,,,,0.2,0.59,,,,,,,NiftyPaysNIFTY,,,TPAD
+TPAD,,Octane FinanceOCTANE,$0.02,-1.13%,-16.90%,$ 99.68K,$282.41,0.06,0.58,16 Sep 2021,"$250,000",,,,,,,,,,,0.06,0.58,,,,,,,Octane FinanceOCTANE,,,TPAD
+TPAD,,iBetYouIBY,$0.02,0%,-4.87%,N/A,N/A,0.28,0.33,12 Jun 2021,"$144,029",,,,,,,,,,,0.28,0.33,,,,,,,iBetYouIBY,,,TPAD
+TPAD,,AuditchainAUDT,N/A,N/A,N/A,N/A,N/A,,,13 Dec 2021,N/A,,,,,,,,,,,,,,,,,,,AuditchainAUDT,,,TPAD
+TPAD,,SEORSEOR,N/A,N/A,N/A,N/A,N/A,,,13 Jan,"$164,000",,,,,,,,,,,,,,,,,,,SEORSEOR,,,TPAD
+TPAD,,ArenumARN,N/A,N/A,N/A,N/A,N/A,,,16 Jan,"$200,049",,,,,,,,,,,,,,,,,,,ArenumARN,,,TPAD
+TPAD,,AdroverseADR,N/A,N/A,N/A,N/A,N/A,,,17 Feb,"$200,000",,,,,,,,,,,,,,,,,,,AdroverseADR,,,TPAD
+TPAD,,Space MisfitsSMCW,N/A,N/A,N/A,N/A,N/A,,,14 Jan,"$210,000",,,,,,,,,,,,,,,,,,,Space MisfitsSMCW,,,TPAD
+TPAD,,Duckie LandMMETA,N/A,N/A,N/A,N/A,N/A,,,18 Feb,"$200,000",,,,,,,,,,,,,,,,,,,Duckie LandMMETA,,,TPAD
+TPAD,,Kaizen FinanceKZEN,N/A,N/A,N/A,N/A,N/A,,,2 Dec 2021,"$100,000",,,,,,,,,,,,,,,,,,,Kaizen FinanceKZEN,,,TPAD
+TPAD,,UKISSKISS,N/A,N/A,N/A,N/A,N/A,,,14 Dec 2021,N/A,,,,,,,,,,,,,,,,,,,UKISSKISS,,,TPAD
+TPAD,,Nunu SpiritsNNT,N/A,N/A,N/A,N/A,N/A,,,26 Jan,"$200,007",,,,,,,,,,,,,,,,,,,Nunu SpiritsNNT,,,TPAD
+TPAD,,LunaverseLUV,N/A,N/A,N/A,N/A,N/A,,,2 Feb,"$200,000",,,,,,,,,,,,,dao,ath,,,,,LunaverseLUV,,,TPAD
+DAO,625,GameFiGAFI,$40.18,0.0018,-18.80%,$ 34.36M,$ 470.24K,40.18,366.99,7 Sep 2021,"$95,000",,,,,,,,,,,,,40.18,366.99,,,,,GameFiGAFI,,,DAO
+DAO,228,My Neighbor AliceALICE,$7.21,0.113,-19.60%,$ 220.76M,$ 66.89M,57.72,318.43,1 Feb 2021,"$100,000",,,,,,,,,,,,,57.72,318.43,,,,,My Neighbor AliceALICE,,,DAO
+DAO,347,Orion ProtocolORN,$3.40,0.0368,-15.60%,$ 116.30M,$ 1.12M,33.96,293.74,13 Jul 2020,"$3,750,000",,,,,,,,,,,,,33.96,293.74,,,,,Orion ProtocolORN,,,DAO
+DAO,267,Victoria VRVR,$0.23,0.0763,-22.60%,$ 179.86M,$ 7.52M,77.71,212.87,22 Nov 2021,"$100,000",,,,,,,,,,,,,77.71,212.87,,,,,Victoria VRVR,,,DAO
+DAO,486,DeRaceDERC,$1.79,0.0874,-25.40%,$ 59.34M,$ 946.72K,35.7,165.12,25 Jul 2021,"$360,000",,,,,,,,,,,,,35.7,165.12,,,,,DeRaceDERC,,,DAO
+DAO,763,Opulous OPUL,$0.51,0.0035,-32.40%,$ 20.72M,$ 699.21K,10.15,149.42,10 Jun 2021,"$900,000",,,,,,,,,,,,,10.15,149.42,,,,,Opulous OPUL,,,DAO
+DAO,437,XCAD NetworkXCAD,$3.08,0.0269,-37.10%,$ 74.57M,$ 2.20M,30.84,90.82,2 May 2021,"$755,000",,,,,,,,,,,,,30.84,90.82,,,,,XCAD NetworkXCAD,,,DAO
+DAO,1139,MetaGodsMGOD,$0.51,-7.12%,-36%,$ 7.17M,$ 264.32K,11.27,89.06,13 Dec 2021,"$100,000",,,,,,,,,,,,,11.27,89.06,,,,,MetaGodsMGOD,,,DAO
+DAO,1320,Heroes & EmpiresHE,$0.03,-2.70%,-26.90%,$ 4.47M,$ 29.81K,3.03,84.93,3 Oct 2021,"$125,000",,,,,,,,,,,,,3.03,84.93,,,,,Heroes & EmpiresHE,,,DAO
+DAO,,OpenPredict TokenOPT,$0.07,0,N/A,$ 122.79K,N/A,0.72,77.45,14 Aug 2020,"$250,000",,,,,,,,,,,,,0.72,77.45,,,,,OpenPredict TokenOPT,,,DAO
+DAO,1319,HordHORD,$0.05,0.0213,-27.30%,$ 4.47M,$ 198.15K,2.06,72.02,19 Apr 2021,"$145,000",,,,,,,,,,,,,2.06,72.02,,,,,HordHORD,,,DAO
+DAO,459,SoliceSLC,$1.55,0.137,-4.71%,$ 67.03M,$ 1.04M,22.16,70.81,15 Dec 2021,"$98,000",,,,,,,,,,,,,22.16,70.81,,,,,SoliceSLC,,,DAO
+DAO,983,Gold FeverNGL,$0.87,0.0561,-29%,$ 10.84M,$ 2.04M,6.02,69.77,8 Sep 2021,"$110,000",,,,,,,,,,,,,6.02,69.77,,,,,Gold FeverNGL,,,DAO
+DAO,1429,BemilBEM,$0.04,0.0035,-25.50%,$ 3.18M,$ 181.96K,3.95,64.05,6 Nov 2021,"$100,000",,,,,,,,,,,,,3.95,64.05,,,,,BemilBEM,,,DAO
+DAO,899,ClearpoolCPOOL,$0.26,0.0915,-16.50%,$ 13.67M,$ 711.11K,6.43,63.18,25 Oct 2021,"$100,000",,,,,,,,,,,,,6.43,63.18,,,,,ClearpoolCPOOL,,,DAO
+DAO,806,Numbers ProtocolNUM,$0.29,-1.39%,-30.10%,$ 18.52M,$ 681.12K,7.28,62.91,9 Nov 2021,"$1,200,000",,,,,,,,,,,,,7.28,62.91,,,,,Numbers ProtocolNUM,,,DAO
+DAO,1168,DAFI ProtocolDAFI,$0.01,-1.20%,-6.87%,$ 6.63M,$ 230.63K,4.2,61.87,10 Mar 2021,"$150,000",,,,,,,,,,,,,4.2,61.87,,,,,DAFI ProtocolDAFI,,,DAO
+DAO,752,EPIK PrimeEPIK,$0.09,0.0559,-36.60%,$ 21.23M,$ 1.03M,6.47,61.15,22 May 2021,"$180,000",,,,,,,,,,,,,6.47,61.15,,,,,EPIK PrimeEPIK,,,DAO
+DAO,1072,Seascape CrownsCWS,$3.82,0.0539,-16.70%,$ 8.50M,$ 641.84K,3.82,60.94,24 Jan 2021,"$60,000",,,,,,,,,,,,,3.82,60.94,,,,,Seascape CrownsCWS,,,DAO
+DAO,1688,Ftribe FightersF2C,$0.03,0.0438,N/A,$ 1.33M,$ 22.31K,1.25,51.85,19 Dec 2021,"$100,000",,,,,,,,,,,,,1.25,51.85,,,,,Ftribe FightersF2C,,,DAO
+DAO,1609,Titan HuntersTITA,$0.05,0.138,-18.20%,$ 1.74M,$ 170.85K,3.76,49.8,15 Nov 2021,"$100,000",,,,,,,,,,,,,3.76,49.8,,,,,Titan HuntersTITA,,,DAO
+DAO,1076,Orion MoneyORION,$0.16,-0.45%,-22.90%,$ 8.38M,$ 22.13K,3.24,47.12,26 Sep 2021,N/A,,,,,,,,,,,,,3.24,47.12,,,,,Orion MoneyORION,,,DAO
+DAO,,LaunchXLNCHX,$0.09,-0.01%,0.0006,$ 1.00M,N/A,0.91,45.8,13 May 2021,"$170,000",,,,,,,,,,,,,0.91,45.8,,,,,LaunchXLNCHX,,,DAO
+DAO,1676,Polygonum OnlinePOG,$0.17,-6.98%,-36.60%,$ 1.40M,$ 204.73K,2.12,45,11 Nov 2021,"$120,000",,,,,,,,,,,,,2.12,45,,,,,Polygonum OnlinePOG,,,DAO
+DAO,1353,DinoXDNXC,$0.07,-5.51%,-32.80%,$ 3.95M,$ 406.25K,2.81,44.37,25 Jul 2021,"$200,000",,,,,,,,,,,,,2.81,44.37,,,,,DinoXDNXC,,,DAO
+DAO,830,GamestarterGAME,$0.51,-2.56%,-1.41%,$ 16.71M,$ 57.80K,6.36,42.98,1 Aug 2021,"$340,000",,,,,,,,,,,,,6.36,42.98,278.5714286,42.9,,39000,GamestarterGAME,,,DAO
+DAO,882,Vent FinanceVENT,$0.19,-6.64%,-20.70%,$ 14.26M,$ 85.23K,6.93,42.59,9 Sep 2021,"$168,000",,,,,,,,,,,,,6.93,42.59,,,,,Vent FinanceVENT,,,DAO
+DAO,1424,WarenaRENA,$0.45,0.0463,-35.60%,$ 3.24M,$ 519.13K,2.7,40.52,5 Oct 2021,"$100,000",,,,,,,,,,,,,2.7,40.52,,,,,WarenaRENA,,,DAO
+DAO,1522,StarpunkSRP,$0.08,-1.88%,-30.20%,$ 2.34M,$ 99.02K,3.34,40.1,22 Sep 2021,"$116,000",,,,,,,,,,,,,3.34,40.1,,,,,StarpunkSRP,,,DAO
+DAO,1303,FearFEAR,$0.38,0.0657,-33.10%,$ 4.64M,$ 238.29K,3.82,38.82,17 May 2021,"$95,000",,,,,,,,,,,,,3.82,38.82,,,,,FearFEAR,,,DAO
+DAO,1566,VAIOTVAI,$0.05,-1.11%,-30.30%,$ 2.04M,$ 293.07K,0.54,37.47,9 Feb 2021,"$250,000",,,,,,,,,,,,,0.54,37.47,368.5714286,56.76,,51600,VAIOTVAI,,,DAO
+DAO,924,Infinity PadIPAD,$0.02,-13.40%,-16.60%,$ 13.11M,$ 117.22K,10.75,36.48,4 Jul 2021,"$100,000",,,,,,,,,,,,,10.75,36.48,,,,,Infinity PadIPAD,,,DAO
+DAO,1302,Dark FrontiersDARK,$0.20,-5.53%,-32.90%,$ 4.65M,$ 742.09K,3.94,35.99,30 Sep 2021,"$125,000",,,,,,,,,,,,,3.94,35.99,,,,,Dark FrontiersDARK,,,DAO
+DAO,961,Lossless ProtocolLSS,$0.51,0.0202,-30.40%,$ 11.47M,$ 1.11M,6.66,34.33,27 May 2021,"$200,000",,,,,,,,,,,,,6.66,34.33,,,,,Lossless ProtocolLSS,,,DAO
+DAO,1627,CrownyCRWNY,$0.01,-0.06%,-5.82%,$ 1.67M,$ 117.42K,1.13,33.67,13 Apr 2021,"$149,850",,,,,,,,,,,,,1.13,33.67,,,,,CrownyCRWNY,,,DAO
+DAO,1565,KAKA NFTKAKA,$0.24,-4.52%,-4.98%,$ 2.06M,$ 15.30K,1.62,33.56,18 Nov 2021,"$150,000",,,,,,,,,,,,,1.62,33.56,,,,,KAKA NFTKAKA,,,DAO
+DAO,1147,Xend FinanceXEND,$0.09,0.0626,-15.50%,$ 7.01M,$ 86.67K,1.18,30.4,14 Feb 2021,"$100,000",,,,,,,,,,,,,1.18,30.4,,,,,Xend FinanceXEND,,,DAO
+DAO,1827,Knit FinanceKFT,$0.09,-0.51%,-0.83%,$ 718.65K,$ 34.59K,1,30.31,16 May 2021,"$150,000",,,,,,,,,,,,,1,30.31,,,,,Knit FinanceKFT,,,DAO
+DAO,499,LTO NetworkLTO,$0.19,0.0717,-22.80%,$ 56.65M,$ 2.30M,6.23,30.03,,"$950,000",14 Jan 2019,,,,,,,,,,,,6.23,30.03,,,,,LTO NetworkLTO,,,DAO
+DAO,784,HAPIHAPI,$28.87,0.154,0.0539,$ 19.37M,$ 4.33M,2.89,29.72,7 Mar 2021,"$100,000",,,,,,,,,,,,,2.89,29.72,,,,,HAPIHAPI,,,DAO
+DAO,690,TernoaCAPS,$0.05,0.0597,-15.30%,$ 26.16M,$ 282.18K,6.64,28.85,26 May 2021,"$150,000",,,,,,,,,,,,,6.64,28.85,,,,,TernoaCAPS,,,DAO
+DAO,1493,BrokoliBRKL,$0.09,-4.51%,-30.60%,$ 2.61M,$ 74.62K,1.44,28.64,27 Sep 2021,N/A,,,,,,,,,,,,,1.44,28.64,,,,,BrokoliBRKL,,,DAO
+DAO,,Three KingdomsTTK,$0.03,0.0164,-17.50%,$ 1.84M,$ 3.47K,1.87,27.49,10 Oct 2021,"$200,000",,,,,,,,,,,,,1.87,27.49,,,,,Three KingdomsTTK,,,DAO
+DAO,1394,ShopNEXTNEXT,$0.04,-0.15%,-34.60%,$ 3.42M,$ 334.24K,2.72,26.25,28 Nov 2021,"$135,000",,,,,,,,,,,,,2.72,26.25,,,,,ShopNEXTNEXT,,,DAO
+DAO,,Yield ProtocolYIELD,$0.01,0.0135,-21.90%,$ 956.81K,$ 9.15K,0.54,25.91,22 Feb 2021,"$165,000",,,,,,,,,,,,,0.54,25.91,,,,,Yield ProtocolYIELD,,,DAO
+DAO,826,OpenOceanOOE,$0.11,0.0309,-21.20%,$ 16.86M,$ 965.48K,2.81,25.65,20 May 2021,"$100,000",,,,,,,,,,,,,2.81,25.65,,,,,OpenOceanOOE,,,DAO
+DAO,,Kaby ArenaKABY,$0.01,-1.72%,-4.40%,$ 1.03M,$ 10.04K,1.53,24.97,29 Aug 2021,"$100,000",,,,,,,,,,,,,1.53,24.97,,,,,Kaby ArenaKABY,,,DAO
+DAO,1422,MakiSwapMAKI,$0.02,0.0401,0.0069,$ 3.26M,$ 141.20K,0.32,24.8,29 Apr 2021,"$100,000",,,,,,,,,,,,,0.32,24.8,,,,,MakiSwapMAKI,,,DAO
+DAO,1196,NFTradeNFTD,$0.33,0.022,0.0242,$ 6.21M,$ 49.25K,3.29,22.3,21 Sep 2021,"$500,000",,,,,,,,,,,,,3.29,22.3,,,,,NFTradeNFTD,,,DAO
+DAO,798,Cere NetworkCERE,$0.03,0.068,-16.30%,$ 18.81M,$ 1.41M,1.37,21.55,20 Apr 2021,"$1,000,000",,,,,,,,,,,,,1.37,21.55,,,,,Cere NetworkCERE,,,DAO
+DAO,,DemoleDMLG,$0.02,-1.81%,-21.80%,$ 1.56M,$ 9.01K,0.82,21.18,15 Oct 2021,"$100,000",,,,,,,,,,,,,0.82,21.18,,,,,DemoleDMLG,,,DAO
+DAO,1204,AnRKey XANRX,$0.07,0.0624,-13%,$ 5.99M,$ 26.74K,2.8,18.83,6 Dec 2020,"$125,000",,,,,,,,,,,,,2.8,18.83,,,,,AnRKey XANRX,,,DAO
+DAO,,Aluna SocialALN,$0.02,0.112,-9%,$ 728.32K,$ 5.05K,0.21,18.45,2 Mar 2021,"$300,000",,,,,,,,,,,,,0.21,18.45,,,,,Aluna SocialALN,,,DAO
+DAO,,Orao NetworkORAO,$0.01,0.0196,-13.80%,$ 404.99K,$ 2.63K,0.58,17.18,21 Mar 2021,"$875,000",,,,,,,,,,,,,0.58,17.18,,,,,Orao NetworkORAO,,,DAO
+DAO,1473,Legends of CryptoLOCG,$0.04,0.0973,-46.70%,$ 2.78M,$ 213.91K,0.98,16.38,27 Apr 2021,"$156,000",,,,,,,,,,,,,0.98,16.38,,,,,Legends of CryptoLOCG,,,DAO
+DAO,1658,BitLocusBTL,$0.03,-0.04%,-18.60%,$ 1.49M,$ 15.40K,1.56,16.37,29 Nov 2021,"$150,000",,,,,,,,,,,,,1.56,16.37,,,,,BitLocusBTL,,,DAO
+DAO,1516,CoinsPaidCPD,$0.03,-3.44%,-5.87%,$ 2.37M,$ 107.83K,1.28,16,21 Aug 2021,"$100,000",,,,,,,,,,,,,1.28,16,,,,,CoinsPaidCPD,,,DAO
+DAO,1052,IspolinkISP,$0.00,0.0659,-19.40%,$ 8.92M,$ 4.26M,1.85,15.62,29 Apr 2021,"$300,000",,,,,,,,,,,,,1.85,15.62,,,,,IspolinkISP,,,DAO
+DAO,1886,Formation FiFORM,$0.02,0.0078,-20.80%,$ 477.15K,$ 233.47K,0.7,15.03,6 Jun 2021,"$200,000",,,,,,,,,,,,,0.7,15.03,,,,,Formation FiFORM,,,DAO
+DAO,1356,ChronicleXNL,$0.19,0.135,-19.90%,$ 3.91M,$ 1.48M,1.88,14.7,5 Sep 2021,"$280,000",,,,,,,,,,,,,1.88,14.7,375.7142857,57.86,,52600,ChronicleXNL,,,DAO
+DAO,1291,IOI TokenIOI,$0.66,0.0298,-16.40%,$ 4.81M,$ 526.27K,1.66,13.81,9 May 2021,"$200,000",,,,,,,,,,,,,1.66,13.81,,,,,IOI TokenIOI,,,DAO
+DAO,1821,Delta thetaDLTA,$0.04,0.0087,-9.97%,$ 750.91K,$ 69.35K,0.41,12.91,1 Jun 2021,"$305,000",,,,,,,,,,,,,0.41,12.91,,,,,Delta thetaDLTA,,,DAO
+DAO,1815,MarnotaurTAUR,$0.08,0.0668,-32.70%,$ 790.79K,$ 20.12K,1.6,12.63,26 Aug 2021,"$100,000",,,,,,,,,,,,,1.6,12.63,,,,,MarnotaurTAUR,,,DAO
+DAO,1459,YIN FinanceYIN,$0.48,0.0543,-10.40%,$ 2.89M,$ 53.82K,1.59,12.46,3 Nov 2021,"$240,000",,,,,,,,,,,,,1.59,12.46,,,,,YIN FinanceYIN,,,DAO
+DAO,1364,Crypto PropheciesTCP,$0.04,0.0085,-37.60%,$ 3.84M,$ 292.60K,0.79,12.39,25 Apr 2021,"$165,000",,,,,,,,,,,,,0.79,12.39,,,,,Crypto PropheciesTCP,,,DAO
+DAO,,BlockassetBLOCK,$0.22,-2.44%,-11.60%,$ 4.64M,$ 8.29K,2.87,11.89,6 Dec 2021,"$110,000",,,,,,,,,,,,,2.87,11.89,,,,,BlockassetBLOCK,,,DAO
+DAO,976,PlotXPLOT,$0.12,0.0357,-30.60%,$ 11.05M,$ 113.70K,2.43,10.88,25 Sep 2020,"$250,000",,,,,,,,,,,,,2.43,10.88,,,,,PlotXPLOT,,,DAO
+DAO,1079,WAMWAM,$0.13,0.0873,-1.73%,$ 8.34M,$ 236.64K,6.56,10.75,14 Dec 2021,"$285,000",,,,,,,,,,,,,6.56,10.75,,,,,WAMWAM,,,DAO
+DAO,,SnookSNK,$0.24,-0.96%,-7.67%,$ 1.77M,$ 1.00K,0.74,10.41,2 Sep 2021,"$200,000",,,,,,,,,,,,,0.74,10.41,,,,,SnookSNK,,,DAO
+DAO,1614,1Sol1SOL,$0.59,-2.21%,-11.40%,$ 1.72M,$ 51.31K,1.54,10.16,7 Dec 2021,"$152,000",,,,,,,,,,,,,1.54,10.16,,,,,1Sol1SOL,,,DAO,1SOL
+DAO,960,Sienna NetworkSIENNA,$5.20,-6.98%,-29.10%,$ 11.50M,$ 676.45K,0.87,10.11,27 Apr 2021,"$795,000",,,,,,,,,,,,,0.87,10.11,,,,,Sienna NetworkSIENNA,,,DAO
+DAO,,PrometheusMGA,$0.39,0.0178,-1.30%,$ 346.93K,$ 10.31K,0.56,9.93,27 Nov 2021,"$250,000",,,,,,,,,,,,,0.56,9.93,,,,,PrometheusMGA,,,DAO
+DAO,1835,Mochi MarketMOMA,$0.03,0.054,-11.70%,$ 673.03K,$ 53.29K,0.3,9.57,22 Apr 2021,"$95,000",,,,,,,,,,,,,0.3,9.57,,,,,Mochi MarketMOMA,,,DAO
+DAO,,Envoy NetworkENV,$0.11,-1.58%,-48.50%,$ 1.36M,$545.08,0.72,9.14,31 Oct 2021,"$130,000",,,,,,,,,,,,,0.72,9.14,,,,,Envoy NetworkENV,,,DAO
+DAO,2062,Alphr.FinanceALPHR,$0.04,-10.80%,-43.50%,$ 73.97K,$ 35.91K,0.03,8.88,11 Apr 2021,"$150,000",,,,,,,,,,,,,0.03,8.88,,,,,Alphr.FinanceALPHR,,,DAO
+DAO,1331,ReSource ProtocolSOURCE,$1.07,-4.42%,-4.19%,$ 4.26M,$ 42.44K,2.37,8.88,13 Nov 2021,"$1,225,000",,,,,,,,,,,,,2.37,8.88,,,,,ReSource ProtocolSOURCE,,,DAO
+DAO,,Lever NetworkLEV,$0.02,-6.48%,-7.67%,$ 369.48K,$ 12.70K,0.1,7.97,2 May 2021,"$100,000",,,,,,,,,,,,,0.1,7.97,,,,,Lever NetworkLEV,,,DAO
+DAO,1435,SmoothySMTY,$0.04,-1.20%,-13.60%,$ 3.15M,$ 193.73K,0.09,7.21,23 Apr 2021,"$200,000",,,,,,,,,,,,,0.09,7.21,,,,,SmoothySMTY,,,DAO
+DAO,694,Symbiosis FinanceSIS,$2.67,0.176,0.252,$ 25.91M,$ 3.40M,3.33,6.95,24 Nov 2021,"$440,000",,,,,,,,,,,,,3.33,6.95,,,,,Symbiosis FinanceSIS,,,DAO
+DAO,1115,BBS NetworkBBS,$0.14,-1.67%,N/A,$ 7.51M,$ 355.65K,3.42,6.95,4 Jan,N/A,,,,,,,,,,,,,3.42,6.95,,,,,BBS NetworkBBS,,,DAO
+DAO,1657,SpellfireSPELLFIRE,$0.03,0.0375,-39.80%,$ 1.51M,$ 749.29K,1.39,6.53,20 Jan,"$250,000",,,,,,,,,,,,,1.39,6.53,,,,,SpellfireSPELLFIRE,,,DAO
+DAO,,ShowcaseSHO,$0.00,-4.64%,-13.10%,$ 190.61K,$678.28,0.04,6.26,21 Apr 2021,"$195,000",,,,,,,,,,,,,0.04,6.26,,,,,ShowcaseSHO,,,DAO
+DAO,1425,Meta Gaming GuildMGG,$0.07,-16.10%,-40%,$ 3.24M,$ 298.19K,0.82,6.23,18 Dec 2021,"$200,000",,,,,,,,,,,,,0.82,6.23,,,,,Meta Gaming GuildMGG,,,DAO
+DAO,1621,KingdomXKT,$0.03,-6.04%,-33.50%,$ 1.70M,$ 101.85K,2.18,6.13,1 Feb,"$120,000",,,,,,,,,,,,,2.18,6.13,,,,,KingdomXKT,,,DAO
+DAO,1620,Infinity SkiesISKY,$0.26,0.0754,0.0124,$ 1.70M,$ 114.02K,1.17,6.1,9 Jan,"$200,000",,,,,,,,,,,,,1.17,6.1,,,,,Infinity SkiesISKY,,,DAO
+DAO,,Pera FinancePERA,$0.02,0.0558,-5.51%,$ 431.40K,$ 10.41K,0.23,5.36,15 Jun 2021,"$250,000",,,,,,,,,,,,,0.23,5.36,,,,,Pera FinancePERA,,,DAO
+DAO,1497,DefinerFIN,$0.08,-0.20%,-18.50%,$ 2.58M,$ 583.92K,0.13,5.17,18 Sep 2020,"$96,000",,,,,,,,,,,,,0.13,5.17,,,,,DefinerFIN,,,DAO
+DAO,1570,MetaSoccerMSU,$0.13,-0.06%,0.0124,$ 2.02M,$ 138.07K,4.22,4.93,5 Dec 2021,"$300,000",,,,,,,,,,,,,4.22,4.93,,,,,MetaSoccerMSU,,,DAO
+DAO,1641,SpheriumSPHRI,$0.07,-1.59%,-5.13%,$ 1.62M,$ 50.06K,0.38,3.89,21 May 2021,"$195,000",,,,,,,,,,,,,0.38,3.89,,,,,SpheriumSPHRI,,,DAO
+DAO,1685,Hubble ProtocolHBB,$0.98,0.0256,-21.70%,$ 1.34M,$ 66.51K,0.98,2.41,18 Jan,"$1,500,000",,,,,,,,,,,,,0.98,2.41,,,,,Hubble ProtocolHBB,,,DAO
+DAO,,Street Runner SRG,N/A,N/A,N/A,N/A,N/A,,,2 Dec 2021,"$230,000",,,,,,,,,,,,,,,,,,,Street Runner SRG,,,DAO
+DAO,,Forward ProtocolFORWARD,N/A,N/A,N/A,N/A,N/A,,,12 Dec 2021,N/A,,,,,,,,,,,,,,,,,,,Forward ProtocolFORWARD,,,DAO
+DAO,,DragonSBSB,N/A,N/A,N/A,N/A,N/A,,,15 Feb,"$200,000",,,,,,,,,,,,,,,,,,,DragonSBSB,,,DAO
+DAO,,DeFiatoDFIAT,N/A,N/A,N/A,N/A,N/A,,,17 Feb,"$600,000",,,,,,,,,,,,,,,,,,,DeFiatoDFIAT,,,DAO
+DAO,,Fantom MakerFAME,N/A,N/A,N/A,N/A,N/A,,,12 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Fantom MakerFAME,,,DAO
+KOM,1141,Cherry NetworkCHER,$0.10,-6.17%,-16.90%,$ 7.67M,$ 338.48K,2.66,14.11,20 Dec,"$75,000",,,,,,,,,,,,,,,,,,,Cherry NetworkCHER,,,KOM
+KOM,1277,SolchicksCHICKS,$0.02,-7.53%,-24.90%,$ 5.53M,$ 748.36K,0.38,13.19,26 Nov 2021,"$100,000",,,,,,,,,,,,,,,,,,,SolchicksCHICKS,,,KOM
+KOM,2222,AffynFYN,$0.27,-12.60%,-30.40%,$ 266.15K,$ 38.08K,1.9,13.17,27 Jan,"$125,000",,,,,,,,,,,,,,,,,,,AffynFYN,,,KOM
+KOM,1795,Age of GodsAOG,$0.15,-6.98%,-26.10%,$ 1.41M,$ 332.53K,1.26,7.48,26 Dec 2021,"$125,000",,,,,,,,,,,,,,,,,,,Age of GodsAOG,,,KOM
+KOM,2187,FabweltWELT,$0.01,-14.50%,-36.50%,$ 316.51K,$ 451.53K,0.77,6.93,11 Nov 2021,"$50,000",,,,,,,,,,,,,,,,,,,FabweltWELT,,,KOM
+KOM,2054,Vault Hill CityVHC,$0.04,-3.61%,-5.60%,$ 609.47K,$ 39.53K,0.84,1.24,9 Jan,"$194,358",,,,,,,,,,,,,,,,,,,Vault Hill CityVHC,726000,"13,850,000",KOM
+KOM,,EXIPEXIP,$3.11,0.0046,-13.60%,N/A,$ 50.67K,0.17,1.1,19 Dec 2021,"$100,000",,,,,,,,,,,,,,,,,,,EXIPEXIP,,,KOM
+KOM,,Defly BallDEFLY,$0.02,-3.49%,0.0178,$ 48.50K,$ 6.49K,0.18,1.07,10 Dec 2021,"$100,000",,,,,,,,,,,,,,,,,,,Defly BallDEFLY,,,KOM
+KOM,2204,Light YearLC,$0.04,0.16,0.065,$ 295.48K,$ 17.28K,0.27,0.98,27 Dec 2021,"$100,000",,,,,,,,,,,,,,,,,,,Light YearLC,,,KOM
+KOM,2337,ManariumARI,$0.01,-20.90%,-25.40%,$ 71.30K,$ 72.43K,0.36,0.57,22 Dec 2021,"$200,000",,,,,,,,,,,,,,,,,,,ManariumARI,130000,,KOM
+KOM,,OkratechORT,N/A,N/A,N/A,N/A,N/A,,,23 Jan,"$50,000",,,,,,,,,,,,,,,,,,,OkratechORT,,,KOM
+KOM,,MetagamZMETAG,N/A,N/A,N/A,N/A,N/A,,,21 Feb,"$100,000",,,,,,,,,,,,,,,,,,,MetagamZMETAG,,,KOM
+SLIM,1332,Project SEEDSHILL,$0.17,-2.79%,0.0014,$ 4.54M,$ 2.83M,6.66x,752.53x,3 Nov,"$150,000",,,,,,,,,,,,,,,,,,,Project SEEDSHILL,,,SLIM
+SLIM,1040,CryowarCWAR,$0.27,-4.66%,0.0466,$ 9.64M,$ 1.14M,9.64x,169.20x,18 Oct 2021,"$140,000",,,,,,,,,,,,,,,,,,,CryowarCWAR,,,SLIM
+SLIM,939,DeFi LandDFL,$0.01,-9.85%,-70%,$ 12.80M,$ 335.04K,2.89x,84.62x,12 Oct 2021,"$100,000",,,,,,,,,,,,,,,,,,,DeFi LandDFL,,,SLIM
+SLIM,497,SoliceSLC,$1.38,-0.02%,0.0468,$ 59.65M,$ 633.49K,19.73x,70.81x,26 Dec 2021,"$238,000",,,,,,,,,,,,,,,,,,,SoliceSLC,,,SLIM
+SLIM,1263,Port FinancePORT,$0.77,-0.02%,-2%,$ 5.35M,$ 305.98K,1.91x,37.71x,4 Aug 2021,"$160,000",,,,,,,,,,,,,,,,,,,Port FinancePORT,,,SLIM
+SLIM,1552,CropperFinanceCRP,$0.08,0.0866,0.26,$ 2.38M,$ 794.79K,1.65x,30.70x,17 Aug 2021,"$200,000",,,,,,,,,,,,,,,,,,,CropperFinanceCRP,,,SLIM
+SLIM,1688,CyclosCYS,$0.25,0.0325,-15.80%,$ 1.54M,$ 136.63K,0.71x,19.42x,5 Sep 2021,"$250,000",,,,,,,,,,,,,,,,,,,CyclosCYS,,,SLIM
+SLIM,1766,Waggle NetworkWAG,$0.17,0.0025,-2.20%,$ 1.22M,$ 22.75K,0.67x,14.79x,27 Sep 2021,"$150,000",,,,,,,,,,,,,,,,,,,Waggle NetworkWAG,,,SLIM
+SLIM,1415,BlockassetBLOCK,$0.17,-6.54%,-17.50%,$ 3.56M,$ 46.39K,2.20x,11.89x,2 Dec 2021,"$150,000",,,,,,,,,,,,,,,,,,,BlockassetBLOCK,,,SLIM
+SLIM,1512,Sonar WatchSONAR,$0.12,0.0018,0.0316,$ 2.67M,$ 1.09M,0.61x,8.26x,18 Nov 2021,"$500,000",,,,,,,,,,,,,,,,,,,Sonar WatchSONAR,,,SLIM
+SLIM,2072,MatrixETFMDF,$0.01,0.0175,-10.90%,$ 297.82K,$ 56.94K,0.36x,7.82x,17 Sep 2021,"$40,000",,,,,,,,,,,,,,,,,,,MatrixETFMDF,,,SLIM
+SLIM,1931,SynchronySCY,$0.02,-0.88%,0%,$ 639.10K,$ 121.33K,0.42x,7.25x,1 Dec 2021,"$600,000",,,,,,,,,,,,,,,,,,,SynchronySCY,,,SLIM
+SLIM,1457,NosanaNOS,$0.14,-5.10%,0.0139,$ 3.20M,$ 57.27K,1.44x,5.16x,9 Jan,"$300,000",,,,,,,,,,,,,,,,,,,NosanaNOS,,,SLIM
+SLIM,,GooseFXGOFX,$0.09,-0.04%,0.006,N/A,$ 438.74K,0.75x,3.84x,27 Oct 2021,"$350,000",,,,,,,,,,,,,,,,,,,GooseFXGOFX,,,SLIM
+SLIM,1922,UNQclubUNQ,$0.03,-3.10%,-19.80%,$ 671.97K,$ 15.72K,0.47x,3.54x,15 Dec 2021,"$350,000",,,,,,,,,,,,,,,,,,,UNQclubUNQ,,,SLIM
+SLIM,1754,TabTraderTTT,$0.06,-1.87%,-10%,$ 1.26M,$ 27.66K,0.60x,3.47x,28 Nov 2021,"$1,000,000",,,,,,,,,,,,,,,,,,,TabTraderTTT,,,SLIM
+SLIM,,PhantasiaFANT,$0.05,-1.56%,-8.40%,$ 3.09M,$715.78,0.69x,3.35x,10 Dec 2021,"$300,000",,,,,,,,,,,,,,,,,,,PhantasiaFANT,,,SLIM
+SLIM,1943,Galaxy WarGWT,$0.02,0.218,-22.50%,$ 605.73K,$ 927.71K,0.65x,2.92x,26 Dec 2021,"$200,000",,,,,,,,,,,,,,,,,,,Galaxy WarGWT,,,SLIM
+SLIM,1803,SolventSVT,$0.16,-1.75%,-7.73%,$ 1.09M,$ 26.33K,0.52x,2.53x,8 Jan,"$250,000",,,,,,,,,,,,,,,,,,,SolventSVT,,,SLIM
+SLIM,1884,Hubble ProtocolHBB,$0.59,-6.14%,-27.90%,$ 800.90K,$ 130.97K,0.58x,2.41x,18 Jan,"$1,000,000",,,,,,,,,,,,,,,,,,,Hubble ProtocolHBB,,,SLIM
+SLIM,1602,Nova FinanceNOVA,$2.19,-0.52%,-7.40%,$ 1.97M,$ 71.79K,1.09x,1.90x,8 Dec 2021,"$200,000",,,,,,,,,,,,,,,,,,,Nova FinanceNOVA,,,SLIM
+SLIM,,Compendium.FiCMFI,$0.05,-6.28%,-9.81%,$ 4.21M,$ 6.96K,0.65x,1.79x,16 Jan,"$352,000",,,,,,,,,,,,,,,,,,,Compendium.FiCMFI,,,SLIM
+SLIM,1175,MeanFiMEAN,$0.52,-1.39%,-3.60%,$ 6.58M,$ 209.94K,0.24x,1.46x,24 Dec 2021,"$250,000",,,,,,,,,,,,,,,,,,,MeanFiMEAN,,,SLIM
+SLIM,,VisionGameVISION,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22 Feb,"$600,000",,,,,,,,,,,,,,,,,,,VisionGameVISION,,,SLIM
+SLIM,,ProtoReality GamesPRGC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26 Jan,"$2,000,000",,,,,,,,,,,,,,,,,,,ProtoReality GamesPRGC,,,SLIM
+SLIM,,DeltaFidelfi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 Jan,N/A,,,,,,,,,,,,,,,,,,,DeltaFidelfi,,,SLIM
+START,770,Cake MonsterMONSTA,$0.00,-10%,0.114,$ 20.96M,$ 44.08K,56.80x,513.62x,18 Jun,"$204,323",,,,,,,,,,,,,,,,,,,Cake MonsterMONSTA,,,START
+START,,ProjectOasisOASIS,$0.52,-8.51%,0.0883,$ 1.06M,$ 14.57K,2.61x,44.13x,12 Oct,"$100,000",,,,,,,,,,,,,,,,,,,ProjectOasisOASIS,,,START
+START,,InpulseXIPX,$ 2.20e-7,-4.35%,0.222,$ 1.05M,$ 9.99K,8.15x,40.74x,31 Jan,N/A,,,,,,,,,,,,,,,,,,,InpulseXIPX,,,START
+START,,Fomo LabsFOMO,$0.02,-4.41%,0.0625,N/A,$ 2.78K,0.74x,31.96x,8 Apr,"$336,193",,,,,,,,,,,,,,,,,,,Fomo LabsFOMO,,,START
+START,897,EnjinstarterEJS,$0.02,-2.01%,-9.84%,$ 14.52M,$ 155.28K,2.82x,31.10x,29 Sep,"$50,000",,,,,,,,,,,,,,,,,,,EnjinstarterEJS,,,START
+START,1428,WallStreetBets DAppWSB,$0.00,-4.03%,0.126,$ 3.40M,$ 86.20K,0.32x,30.00x,19 Apr,"$636,200",,,,,,,,,,,,,,,,,,,WallStreetBets DAppWSB,,,START
+START,1982,Mimir TokenMIMIR,$0.06,-11.70%,0.234,$ 497.64K,$ 41.44K,0.53x,24.81x,1 Nov,"$70,000",,,,,,,,,,,,,,,,,,,Mimir TokenMIMIR,,,START
+START,1703,StrongNodeSNE,$0.00,0.398,0.589,$ 1.47M,$ 34.62K,1.89x,24.16x,20 Oct,"$100,000",,,,,,,,,,,,,,,,,,,StrongNodeSNE,,,START
+START,1646,KryxiviaKXA,$0.03,-2.45%,-3.36%,$ 1.77M,$ 280.48K,1.90x,22.78x,29 Nov,"$150,000",,,,,,,,,,,,,,,,,,,KryxiviaKXA,,,START
+START,,CUE ProtocolCUE,$11.74,-2.03%,0.139,$ 111.48K,$55.09,0.67x,16.35x,14 Mar,"$126,707",,,,,,,,,,,,,,,,,,,CUE ProtocolCUE,,,START
+START,2211,StarchiELIXIR,$0.02,-7.10%,-4.85%,$ 84.88K,$ 39.30K,0.77x,15.27x,21 Nov,"$150,000",,,,,,,,,,,,,,,,,,,StarchiELIXIR,,,START
+START,2166,AnomusANOMUS,$0.00,-5.13%,-18.60%,$ 139.81K,$ 84.71K,0.14x,11.46x,25 Nov,"$120,000",,,,,,,,,,,,,,,,,,,AnomusANOMUS,,,START
+START,,12 LegionsCTL,$0.01,-5.60%,0.0102,$ 70.36K,$688.29,0.22x,10.82x,2 Dec,"$110,000",,,,,,,,,,,,,,,,,,,12 LegionsCTL,,,START
+START,,VodraVDR,$0.00,-1.39%,0.0289,N/A,$ 22.96K,0.36x,7.74x,27 Oct,"$115,000",,,,,,,,,,,,,,,,,,,VodraVDR,,,START
+START,,DAOLandDLD,$0.02,-5.56%,-13.50%,$ 57.61K,$ 1.81K,0.15x,5.39x,6 Dec,"$52,200",,,,,,,,,,,,,,,,,,,DAOLandDLD,,,START
+START,,Yamp FinanceYAMP,$0.00,0.0028,-9.79%,N/A,$35.24,0.02x,3.98x,21 Jul,"$200,938",,,,,,,,,,,,,,,,,,,Yamp FinanceYAMP,,,START
+START,,Strip FinanceSTRIP,$0.06,0.132,-10.80%,$ 155.97K,$972.63,0.16x,3.88x,10 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Strip FinanceSTRIP,,,START
+START,2091,NASDEXNSDX,$0.15,0.0751,0.288,$ 265.61K,$ 43.68K,0.59x,3.54x,27 Sep,"$100,000",,,,,,,,,,,,,,,,,,,NASDEXNSDX,,,START
+START,1251,Relay TokenRELAY,$1.30,-7.19%,0.282,$ 5.53M,$ 26.18K,0.43x,3.14x,1 Aug,"$113,926",,,,,,,,,,,,,,,,,,,Relay TokenRELAY,,,START
+START,2087,Sheesha Finance DAOmSHEESHA,$0.01,-3.47%,0.124,$ 269.22K,$ 171.35K,0.64x,2.53x,5 Dec,"$100,000",,,,,,,,,,,,,,,,,,,Sheesha Finance DAOmSHEESHA,,,START
+START,2112,Duckie LandMMETA,$0.45,0.0019,N/A,$ 224.13K,$ 946.54K,0.90x,2.51x,17 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Duckie LandMMETA,,,START
+START,2141,UnilabULAB,$0.13,-0.08%,-31.70%,$ 182.95K,$ 27.17K,0.71x,2.50x,23 Jan,N/A,,,,,,,,,,,,,,,,,,,UnilabULAB,,,START
+START,,MetaLaunchASVA,$0.13,-3.01%,0.0655,$ 306.41K,$ 2.53K,0.72x,2.50x,26 Dec,N/A,,,,,,,,,,,,,,,,,,,MetaLaunchASVA,,,START
+START,1588,Endless BattlefieldEB,$0.13,-6.46%,N/A,$ 2.08M,$ 162.14K,0.64x,1.83x,23 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Endless BattlefieldEB,,,START
+START,2034,99StarzSTZ,$0.28,-2.06%,0.0925,$ 378.17K,$ 34.72K,0.46x,1.65x,7 Dec,"$50,000",,,,,,,,,,,,,,,,,,,99StarzSTZ,,,START
+START,,KamariKAMPAY,$0.00,0.0951,0.116,N/A,$ 131.41K,0.28x,1.01x,2 Jun,"$280,000",,,,,,,,,,,,,,,,,,,KamariKAMPAY,,,START
+START,,GOinfluencerGOIN,$0.00,-0.74%,-7.67%,$ 40.48K,$381.71,0.23x,0.95x,14 Dec,"$75,897",,,,,,,,,,,,,,,,,,,GOinfluencerGOIN,,,START
+START,,ApeFarmerAPEF,$0.07,0.0005,0.123,N/A,N/A,0.10x,0.33x,18 Nov,N/A,,,,,,,,,,,,,,,,,,,ApeFarmerAPEF,,,START
+START,,SEORSEOR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11 Jan,"$79,500",,,,,,,,,,,,,,,,,,,SEORSEOR,,,START
+START,,Legion NetworkLGX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Legion NetworkLGX,,,START
+START,,Animal ConcertsANML,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Animal ConcertsANML,,,START
+START,,MyTradeMYT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22 Feb,"$100,000",,,,,,,,,,,,,,,,,,,MyTradeMYT,,,START
+START,,MetamallMALL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13 Feb,"$100,000",,,,,,,,,,,,,,,,,,,MetamallMALL,,,START
+XAVA,411,CrabadaCRA,$1.03,-1.44%,0.0777,$ 87.16M,$ 2.78M,57.39x,173.04x,1 Nov,"$400,000",,,,,,,,,,,,,,,,,,,CrabadaCRA,,,XAVA
+XAVA,376,Platypus FinancePTP,$7.49,-4.84%,0.581,$ 105.59M,$ 9.03M,74.89x,172.19x,12 Dec,"$1,050,000",,,,,,,,,,,,,,,,,,,Platypus FinancePTP,,,XAVA
+XAVA,1374,TaleCraftCRAFT,$0.86,0.0411,1.291,$ 4.05M,$ 1.49M,3.06x,58.89x,22 Nov,"$900,000",,,,,,,,,,,,,,,,,,,TaleCraftCRAFT,,,XAVA
+XAVA,1390,Roco FinanceROCO,$0.45,-1.32%,-6.56%,$ 3.87M,$ 366.10K,3.75x,52.33x,18 Oct,"$500,000",,,,,,,,,,,,,,,,,,,Roco FinanceROCO,,,XAVA
+XAVA,1260,KalaoKLO,$0.17,-9.59%,-12.40%,$ 5.37M,$ 557.79K,4.12x,48.88x,22 Sep,"$541,822",,,,,,,,,,,,,,,,,,,KalaoKLO,,,XAVA
+XAVA,1294,Imperium EmpiresIME,$0.02,-3.40%,0.375,$ 4.95M,$ 465.31K,5.42x,15.22x,19 Dec,"$1,000,000",,,,,,,,,,,,,,,,,,,Imperium EmpiresIME,,,XAVA
+XAVA,2177,HurricaneSwap TokenHCT,$0.01,-10.20%,-17.40%,$ 129.89K,$ 142.51K,0.22x,10.36x,4 Oct,"$250,000",,,,,,,,,,,,,,,,,,,HurricaneSwap TokenHCT,,,XAVA
+XAVA,1044,ColonyCLY,$0.54,-5.92%,-10.60%,$ 9.54M,$ 447.00K,1.81x,9.77x,5 Dec,"$2,000,000",,,,,,,,,,,,,,,,,,,ColonyCLY,,,XAVA
+XAVA,1369,Heroes ChainedHEC,$1.99,-10.50%,-11.90%,$ 4.09M,$ 673.57K,5.70x,9.47x,16 Jan,"$1,000,000",,,,,,,,,,,,,,,,,,,Heroes ChainedHEC,,,XAVA
+XAVA,,Oh! FinanceOH,$0.03,-6.20%,0.0769,$ 1.03M,$ 6.79K,0.43x,8.62x,25 Oct,"$600,000",,,,,,,,,,,,,,,,,,,Oh! FinanceOH,,,XAVA
+XAVA,1714,YAY GamesYAY,$0.01,-3.95%,-7.68%,$ 1.43M,$ 80.29K,0.59x,8.00x,4 Sep,"$379,319",,,,,,,,,,,,,,,,,,,YAY GamesYAY,,,XAVA
+XAVA,1909,IslanderISA,$0.00,-5.37%,-9.51%,$ 704.56K,$ 18.51K,0.87x,5.65x,31 Dec,"$300,000",,,,,,,,,,,,,,,,,,,IslanderISA,,,XAVA
+XAVA,,DexalotALOT,$2.08,-6.08%,N/A,$ 6.86M,$965.52,3.47x,4.91x,17 Feb,"$1,500,000",,,,,,,,,,,,,,,,,,,DexalotALOT,,,XAVA
+XAVA,1654,Heroes of NFTHON,$0.09,-19%,-15.10%,$ 1.72M,$ 236.65K,0.92x,4.28x,30 Jan,"$1,000,000",,,,,,,,,,,,,,,,,,,Heroes of NFTHON,,,XAVA
+XAVA,,DeFiatoDFIAT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13 Feb,"$1,000,000",,,,,,,,,,,,,,,,,,,DeFiatoDFIAT,,,XAVA
+POOLZ,2240,Blue HorizonBLH,$0.01,0.0106,-11.40%,$ 55.01K,$ 66.36K,0.20x,492.71x,21 Nov,"$90,000",,,,,,,,,,,,,,,,,,,Blue HorizonBLH,,,POOLZ
+POOLZ,,Wanaka FarmWANA,$0.09,-1.20%,-7.89%,$ 1.90M,$ 12.29K,2.24x,155.03x,26 Aug,"$153,600",,,,,,,,,,,,,,,,,,,Wanaka FarmWANA,,,POOLZ
+POOLZ,,Yellow RoadROAD,$0.09,0.027,0.0326,$ 329.03K,$ 3.83K,0.47x,115.37x,9 Apr,"$70,000",,,,,,,,,,,,,,,,,,,Yellow RoadROAD,,,POOLZ
+POOLZ,2084,Space SIPSIP,$0.01,-15.20%,-28.70%,$ 274.46K,$ 80.76K,0.60x,95.86x,28 Oct,"$1,000,000",,,,,,,,,,,,,,,,,,,Space SIPSIP,,,POOLZ
+POOLZ,423,NetvrkNTVRK,$2.02,0.0081,0.0407,$ 82.04M,$ 2.72M,13.47x,48.90x,20 May,"$97,000",,,,,,,,,,,,,,,,,,,NetvrkNTVRK,,,POOLZ
+POOLZ,,Gains AssociatesGAINS,$0.36,-3.21%,-1.42%,$ 12.30M,$ 1.99K,7.20x,38.26x,5 Apr,"$100,000",,,,,,,,,,,,,,,,,,,Gains AssociatesGAINS,,,POOLZ
+POOLZ,2127,GemGuardianGEMG,$0.10,-9.50%,-27.20%,$ 204.90K,$ 347.18K,0.98x,34.53x,25 Sep,"$100,000",,,,,,,,,,,,,,,,,,,GemGuardianGEMG,,,POOLZ
+POOLZ,1517,KryptomonKMON,$0.04,-6%,0.0519,$ 2.60M,$ 282.51K,5.92x,34.51x,16 Aug,"$78,400",,,,,,,,,,,,,,,,,,,KryptomonKMON,,,POOLZ
+POOLZ,906,HAPIHAPI,$21.16,-4.21%,-7.06%,$ 14.19M,$ 665.96K,2.12x,29.72x,9 Mar,"$100,000",,,,,,,,,,,,,,,,,,,HAPIHAPI,,,POOLZ
+POOLZ,789,Deeper NetworkDPR,$0.09,-0.85%,0.0023,$ 19.80M,$ 1.64M,7.75x,28.58x,4 Apr,"$300,001",,,,,,,,,,,,,,,,,,,Deeper NetworkDPR,,,POOLZ
+POOLZ,,MelandMELD,$0.00,0.0243,0.2,N/A,$ 39.39K,0.65x,27.90x,6 Dec,"$100,000",,,,,,,,,,,,,,,,,,,MelandMELD,,,POOLZ
+POOLZ,,RadarRADAR,$0.13,0.0025,0.0607,$ 6.41M,$116.72,4.09x,27.47x,6 Feb,"$96,000",,,,,,,,,,,,,,,,,,,RadarRADAR,,,POOLZ
+POOLZ,1161,MetaGearGEAR,$0.42,-10.10%,0.144,$ 6.79M,$ 559.78K,15.72x,26.59x,17 Jan,"$125,000",,,,,,,,,,,,,,,,,,,MetaGearGEAR,,,POOLZ
+POOLZ,,The SpartansTSP,$0.02,-2.47%,0.0276,N/A,$11.01,0.03x,26.38x,12 Nov,"$300,000",,,,,,,,,,,,,,,,,,,The SpartansTSP,,,POOLZ
+POOLZ,2251,MonopolistMONO,$0.00,-8.86%,-17.30%,$ 42.68K,$ 18.00K,0.18x,25.43x,31 Oct,"$175,000",,,,,,,,,,,,,,,,,,,MonopolistMONO,,,POOLZ
+POOLZ,1701,Raze NetworkRAZE,$0.02,-11.70%,-3.13%,$ 1.47M,$ 386.12K,0.09x,23.87x,11 Apr,"$70,000",,,,,,,,,,,,,,,,,,,Raze NetworkRAZE,,,POOLZ
+POOLZ,1232,LABS GroupLABS,$0.00,0.0012,0.0367,$ 5.80M,$ 307.20K,0.45x,23.82x,14 Mar,"$100,000",,,,,,,,,,,,,,,,,,,LABS GroupLABS,,,POOLZ
+POOLZ,1495,FranklinFLy,$0.01,-0.56%,0.12,$ 2.83M,$ 447.06K,0.23x,23.58x,12 Apr,N/A,,,,,,,,,,,,,,,,,,,FranklinFLy,,,POOLZ
+POOLZ,1645,KryxiviaKXA,$0.03,-2.67%,-3.57%,$ 1.77M,$ 279.86K,1.90x,22.78x,29 Nov,"$150,000",,,,,,,,,,,,,,,,,,,KryxiviaKXA,,,POOLZ
+POOLZ,671,Singularity DAOSDAO,$0.78,0.0084,0.105,$ 30.29M,$ 661.51K,2.60x,22.03x,12 May,N/A,,,,,,,,,,,,,,,,,,,Singularity DAOSDAO,,,POOLZ
+POOLZ,1201,NFTradeNFTD,$0.33,0.0065,0.0499,$ 6.18M,$ 123.15K,3.17x,21.71x,23 Sep,"$100,000",,,,,,,,,,,,,,,,,,,NFTradeNFTD,,,POOLZ
+POOLZ,2006,BunicornBUNI,$0.02,-1.45%,0.0484,$ 425.01K,$ 17.59K,0.57x,20.50x,20 Jun,"$200,000",,,,,,,,,,,,,,,,,,,BunicornBUNI,,,POOLZ
+POOLZ,1439,Revolve GamesRPG,$0.15,-6.14%,0.0224,$ 3.34M,$ 26.64K,1.52x,19.10x,N/A,"$90,000",,,,,,,,,,,,,,,,,,,Revolve GamesRPG,,,POOLZ
+POOLZ,1865,PlaycentPCNT,$0.03,-2.85%,0.0703,$ 852.75K,$ 31.39K,0.26x,18.41x,5 Mar,"$288,000",,,,,,,,,,,,,,,,,,,PlaycentPCNT,,,POOLZ
+POOLZ,1578,Elpis BattleEBA,$0.06,0.186,-1.95%,$ 2.12M,$ 68.11K,2.10x,18.32x,18 Nov,N/A,,,,,,,,,,,,,,,,,,,Elpis BattleEBA,,,POOLZ
+POOLZ,,Dot.FinancePINK,$0.04,-8.69%,-5.90%,$ 131.70K,$ 13.95K,0.44x,17.46x,17 Jun,"$110,000",,,,,,,,,,,,,,,,,,,Dot.FinancePINK,,,POOLZ
+POOLZ,1545,Cook ProtocolCOOK,$0.00,-6.69%,0.0684,$ 2.43M,$ 127.13K,0.09x,15.92x,28 Mar,"$95,000",,,,,,,,,,,,,,,,,,,Cook ProtocolCOOK,,,POOLZ
+POOLZ,1655,disBalancerDDOS,$0.29,-4.66%,0.238,$ 1.72M,$ 122.19K,0.57x,15.15x,14 Apr,"$70,000",,,,,,,,,,,,,,,,,,,disBalancerDDOS,,,POOLZ
+POOLZ,1508,RocketXRVF,$0.04,0.0526,0.0494,$ 2.69M,$ 25.97K,0.53x,14.81x,12 Apr,"$127,875",,,,,,,,,,,,,,,,,,,RocketXRVF,,,POOLZ
+POOLZ,1846,MetarunMRUN,$0.04,0.0301,N/A,$ 936.63K,$ 79.24K,1.41x,14.37x,19 Feb,"$75,000",,,,,,,,,,,,,,,,,,,MetarunMRUN,,,POOLZ
+POOLZ,1331,DeFi WarriorFIWA,$0.00,-3.04%,-11.20%,$ 4.55M,$ 31.52K,0.81x,13.91x,4 Sep,"$80,000",,,,,,,,,,,,,,,,,,,DeFi WarriorFIWA,,,POOLZ
+POOLZ,1875,PolkaRAREPRARE,$0.02,-7.02%,0.0856,$ 817.08K,$ 116.22K,0.16x,13.83x,10 May,"$115,000",,,,,,,,,,,,,,,,,,,PolkaRAREPRARE,,,POOLZ
+POOLZ,1858,Rage.FanRAGE,$0.01,-3.60%,0.121,$ 882.37K,$ 16.22K,0.17x,13.27x,30 Mar,"$100,000",,,,,,,,,,,,,,,,,,,Rage.FanRAGE,,,POOLZ
+POOLZ,,BusyBUSY,$0.01,-0.92%,0.139,N/A,$ 45.64K,0.15x,12.84x,20 Apr,"$103,000",,,,,,,,,,,,,,,,,,,BusyBUSY,,,POOLZ
+POOLZ,,HowlCityHWL,$0.00,-14.90%,-3.80%,$ 35.50K,$ 1.67K,0.13x,12.58x,4 Nov,"$230,000",,,,,,,,,,,,,,,,,,,HowlCityHWL,,,POOLZ
+POOLZ,651,NaboxNABOX,$0.00,-4.13%,-0.25%,$ 32.29M,$ 635.53K,1.08x,12.57x,14 Jun,"$70,000",,,,,,,,,,,,,,,,,,,NaboxNABOX,,,POOLZ
+POOLZ,1835,UnifarmUFARM,$0.01,0.01,-2.64%,$ 983.33K,$ 37.16K,0.29x,11.04x,22 Apr,N/A,,,,,,,,,,,,,,,,,,,UnifarmUFARM,,,POOLZ
+POOLZ,,Galactic Arena: The NFTverseGAN,$0.00,0.0026,-10.20%,N/A,$ 65.99K,0.13x,11.01x,30 Oct,"$200,000",,,,,,,,,,,,,,,,,,,Galactic Arena: The NFTverseGAN,,,POOLZ
+POOLZ,,DecentraWebDWEB,$0.13,0.0119,0.0118,$ 822.25K,$ 3.68K,1.12x,10.64x,7 Oct,"$300,000",,,,,,,,,,,,,,,,,,,DecentraWebDWEB,,,POOLZ
+POOLZ,,CryptoArt.AiCART,$0.07,-1.89%,0.239,N/A,$ 184.27K,0.34x,10.41x,17 Jul,"$100,000",,,,,,,,,,,,,,,,,,,CryptoArt.AiCART,,,POOLZ
+POOLZ,2049,MerchDAO MRCH,$0.08,0.0165,-4.50%,$ 345.46K,$ 19.67K,0.13x,10.39x,26 Mar,"$120,000",,,,,,,,,,,,,,,,,,,MerchDAO MRCH,,,POOLZ
+POOLZ,,CryptoVsZombieCVZ,$0.01,0.0709,-30.30%,$ 106.07K,$ 5.90K,0.33x,10.16x,8 Dec,"$100,000",,,,,,,,,,,,,,,,,,,CryptoVsZombieCVZ,,,POOLZ
+POOLZ,2218,FanadiseFAN,$0.01,-5.97%,-10.70%,$ 73.94K,$ 38.38K,0.12x,9.08x,N/A,"$100,000",,,,,,,,,,,,,,,,,,,FanadiseFAN,,,POOLZ
+POOLZ,,FreelaFREL,$0.00,-1.64%,-15.50%,$ 38.93K,$ 11.73K,0.06x,8.11x,26 May,"$125,000",,,,,,,,,,,,,,,,,,,FreelaFREL,,,POOLZ
+POOLZ,1713,YAY GamesYAY,$0.01,-3.95%,-7.68%,$ 1.43M,$ 80.28K,0.59x,8.00x,24 Aug,"$100,000",,,,,,,,,,,,,,,,,,,YAY GamesYAY,,,POOLZ
+POOLZ,,RevaultREVA,$1.68,-4.22%,0.0081,$ 3.56M,$ 13.43K,0.87x,7.99x,12 Oct,"$80,000",,,,,,,,,,,,,,,,,,,RevaultREVA,,,POOLZ
+POOLZ,1905,True P&LPNL,$0.07,-1.37%,-7.04%,$ 707.66K,$ 24.38K,0.81x,7.78x,17 May,"$74,400",,,,,,,,,,,,,,,,,,,True P&LPNL,,,POOLZ
+POOLZ,,FOMO Chronicles MangaOTAKU,$0.00,-4.24%,-2.65%,$ 49.46K,$ 1.45K,0.19x,7.57x,3 Oct,"$125,000",,,,,,,,,,,,,,,,,,,FOMO Chronicles MangaOTAKU,,,POOLZ
+POOLZ,,Bright Union BRIGHT,$0.07,-4.46%,0.264,$ 1.23M,$ 1.03K,0.75x,7.26x,4 Aug,"$50,000",,,,,,,,,,,,,,,,,,,Bright Union BRIGHT,,,POOLZ
+POOLZ,2197,DeSpace ProtocolDES,$0.05,-0.40%,-10.50%,$ 98.34K,$ 94.31K,0.15x,6.57x,19 Sep,"$100,000",,,,,,,,,,,,,,,,,,,DeSpace ProtocolDES,,,POOLZ
+POOLZ,904,IX SwapIXS,$0.29,-0.57%,0.175,$ 14.24M,$ 35.38K,2.08x,6.02x,6 Sep,"$100,000",,,,,,,,,,,,,,,,,,,IX SwapIXS,,,POOLZ
+POOLZ,,Stay In Destiny WorldSIW,$0.04,-0.09%,-3.89%,$ 192.03K,$87.54,0.58x,5.82x,15 Dec,"$130,000",,,,,,,,,,,,,,,,,,,Stay In Destiny WorldSIW,,,POOLZ
+POOLZ,2030,World of DefishWOD,$0.03,-1.04%,-16.40%,$ 389.54K,$ 160.56K,1.07x,5.78x,27 Dec,"$510,000",,,,,,,,,,,,,,,,,,,World of DefishWOD,,,POOLZ
+POOLZ,,FM GalleryFMG,$0.00,-8.40%,-9.65%,$ 66.81K,$219.93,0.02x,5.65x,21 Mar,N/A,,,,,,,,,,,,,,,,,,,FM GalleryFMG,,,POOLZ
+POOLZ,,ECIOECIO,$0.00,-1.18%,-3.98%,$ 169.94K,$ 2.77K,0.65x,5.54x,17 Dec,"$175,000",,,,,,,,,,,,,,,,,,,ECIOECIO,,,POOLZ
+POOLZ,,Cryption NetworkCNT,$0.02,-0.21%,N/A,$ 170.15K,N/A,0.15x,5.42x,7 Jun,"$65,000",,,,,,,,,,,,,,,,,,,Cryption NetworkCNT,,,POOLZ
+POOLZ,1603,Porta NetworkKIAN,$0.08,0.0427,0.0323,$ 1.95M,$ 303.42K,0.71x,5.36x,15 Apr,"$110,000",,,,,,,,,,,,,,,,,,,Porta NetworkKIAN,,,POOLZ
+POOLZ,,ORE NetworkORE,$0.04,-3.01%,0.061,$ 952.52K,$ 10.65K,0.62x,5.35x,10 Oct,"$150,000",,,,,,,,,,,,,,,,,,,ORE NetworkORE,,,POOLZ
+POOLZ,,ChimerasCHIM,$0.07,-2.73%,-24.20%,N/A,$567.59,0.11x,4.99x,25 Oct,"$150,000",,,,,,,,,,,,,,,,,,,ChimerasCHIM,,,POOLZ
+POOLZ,2196,NftyPlayPOLO,$0.00,-1.02%,0.0174,$ 100.81K,$ 46.98K,0.27x,4.41x,26 Jul,"$81,180",,,,,,,,,,,,,,,,,,,NftyPlayPOLO,,,POOLZ
+POOLZ,2258,GovWorldGOV,$0.06,-0.75%,-11.10%,$ 33.78K,$ 114.57K,0.70x,3.84x,22 Nov,"$150,000",,,,,,,,,,,,,,,,,,,GovWorldGOV,,,POOLZ
+POOLZ,,GeopolyGEO,$0.01,0.133,-18.70%,$ 204.66K,$890.56,0.39x,3.76x,14 Dec,"$100,000",,,,,,,,,,,,,,,,,,,GeopolyGEO,,,POOLZ
+POOLZ,,Lepricon L3P,$0.00,-1.72%,0.0836,$ 772.79K,$ 8.97K,0.09x,3.51x,16 Mar,"$100,000",,,,,,,,,,,,,,,,,,,Lepricon L3P,,,POOLZ
+POOLZ,2228,1MillionNFT 1MIL,$0.55,-1.67%,0.0529,$ 65.66K,$ 55.08K,0.11x,3.27x,23 Apr,"$75,000",,,,,,,,,,,,,,,,,,,1MillionNFT 1MIL,,,POOLZ
+POOLZ,1448,ArcadeNetworkARC,$0.04,0.0503,0.395,$ 3.27M,$ 307.55K,0.69x,3.17x,1 Dec,"$100,000",,,,,,,,,,,,,,,,,,,ArcadeNetworkARC,,,POOLZ
+POOLZ,,Soccer HubSCH,$0.00,-1.01%,-6%,$ 190.85K,$32.12,0.16x,3.06x,28 Sep,"$80,000",,,,,,,,,,,,,,,,,,,Soccer HubSCH,,,POOLZ
+POOLZ,,Realm DefendersTRD,$0.00,-14.50%,0.0418,$ 31.36K,$ 6.57K,0.08x,2.98x,17 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Realm DefendersTRD,,,POOLZ
+POOLZ,2108,Moonfarm FinanceMFO,$0.05,0.0245,-0.11%,$ 240.79K,$ 196.92K,0.14x,2.76x,10 Jun,"$80,000",,,,,,,,,,,,,,,,,,,Moonfarm FinanceMFO,,,POOLZ
+POOLZ,1795,Himo WorldHIMO,$0.05,-0.84%,0.138,$ 1.10M,$ 97.07K,1.26x,2.61x,21 Jan,"$120,000",,,,,,,,,,,,,,,,,,,Himo WorldHIMO,,,POOLZ
+POOLZ,,DISCIPLINADSCPL,$0.05,0.0005,N/A,$ 765.56K,N/A,1.56x,2.60x,22 Apr,"$297,500",,,,,,,,,,,,,,,,,,,DISCIPLINADSCPL,,,POOLZ
+POOLZ,1913,DeHiveDHV,$0.31,-8.20%,-5.92%,$ 692.54K,$ 89.07K,0.10x,2.50x,19 Apr,"$150,000",,,,,,,,,,,,,,,,,,,DeHiveDHV,,,POOLZ
+POOLZ,,KallyKALLY,$0.03,-4.04%,0.123,$ 1.93M,$ 1.84K,0.62x,2.43x,24 May,"$200,000",,,,,,,,,,,,,,,,,,,KallyKALLY,,,POOLZ
+POOLZ,,NftfyNFTFY,$0.03,N/A,0.0581,$ 934.75K,$63.49,0.08x,2.18x,4 May,"$136,400",,,,,,,,,,,,,,,,,,,NftfyNFTFY,,,POOLZ
+POOLZ,,XFaiXFIT,$0.05,0.0073,-1.94%,$ 10.50M,$ 1.25K,0.39x,1.94x,28 Apr,N/A,,,,,,,,,,,,,,,,,,,XFaiXFIT,,,POOLZ
+POOLZ,2209,Derived FinanceDVDX,$0.01,-2.05%,-8.72%,$ 85.67K,$ 232.11K,0.09x,1.74x,N/A,"$100,000",,,,,,,,,,,,,,,,,,,Derived FinanceDVDX,,,POOLZ
+POOLZ,,Cheesus DeFiCHEESUS,$0.01,-6.44%,-39.10%,$ 43.75K,$ 6.25K,0.14x,1.24x,15 Nov,"$90,000",,,,,,,,,,,,,,,,,,,Cheesus DeFiCHEESUS,,,POOLZ
+POOLZ,,DeFiCityDFC,$0.00,0.296,0.302,$ 22.92K,$57.11,0.02x,0.82x,15 Jul,"$101,700",,,,,,,,,,,,,,,,,,,DeFiCityDFC,,,POOLZ
+POOLZ,,QuizarenaQZA,$0.00,0.0093,0.143,N/A,$141.83,0.24x,0.77x,7 Dec,"$150,000",,,,,,,,,,,,,,,,,,,QuizarenaQZA,,,POOLZ
+POOLZ,,Universe FinanceUNT,$0.03,0.0937,-15.30%,$ 200.39K,$ 11.83K,0.61x,0.75x,17 Feb,"$200,000",,,,,,,,,,,,,,,,,,,Universe FinanceUNT,,,POOLZ
+POOLZ,,DeHRDHR,$0.01,0.0028,N/A,$ 317.74K,N/A,0.40x,0.40x,11 Dec,"$140,000",,,,,,,,,,,,,,,,,,,DeHRDHR,,,POOLZ
+POOLZ,,GT-ProtocolGTP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18 Jan,"$200,000",,,,,,,,,,,,,,,,,,,GT-ProtocolGTP,,,POOLZ
+POOLZ,,Voltage FinanceVOLT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21 Feb,"$200,000",,,,,,,,,,,,,,,,,,,Voltage FinanceVOLT,,,POOLZ
+POOLZ,,DiaboloDCASH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25 Jan,N/A,,,,,,,,,,,,,,,,,,,DiaboloDCASH,,,POOLZ
+POOLZ,,iBetYouIBY,$0.02,0%,-4.87%,N/A,N/A,N/A,N/A,12 Jun,N/A,,,,,,,,,,,,,,,,,,,iBetYouIBY,,,POOLZ
+POOLZ,,DeFiHorseDFH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22 Dec,N/A,,,,,,,,,,,,,,,,,,,DeFiHorseDFH,,,POOLZ
+IF,707,SportiumSPRT,$2.42,-15.30%,2.19,$ 26.16M,$ 2.92M,80.74x,127.09x,6 Dec,"$324,000",,,,,,,,,,,,,,,,,,,SportiumSPRT,,,IF
+IF,725,GenopetsGENE,$6.90,0.0359,0.204,$ 24.34M,$ 932.47K,8.62x,47.18x,15 Nov,"$360,000",,,,,,,,,,,,,,,,,,,GenopetsGENE,,,IF
+IF,615,Impossible Finance LaunchpadIDIA,$0.62,-7.65%,0.0447,$ 36.73M,$ 118.99K,8.27x,44.70x,16 Aug,"$238,950",,,,,,,,,,,,,,,,,,,Impossible Finance LaunchpadIDIA,,,IF
+IF,"$1,233.00",HighstreetHIGH,$3.85,-6.22%,0.0082,$ 5.78M,$ 5.76M,3.85x,37.62x,26 Sep,"$1,000,000",,,,,,,,,,,,,,,,,,,HighstreetHIGH,,,IF
+IF,817,Fancy GamesFNC,$0.45,0.0028,0.208,$ 18.19M,$ 576.62K,8.99x,22.18x,12 Dec,"$325,000",,,,,,,,,,,,,,,,,,,Fancy GamesFNC,,,IF
+IF,"$1,981",OpenSwapOSWAP,$0.02,-1.36%,0.0628,$ 502.49K,$ 20.26K,0.58x,12.31x,29 Aug,"$340,000",,,,,,,,,,,,,,,,,,,OpenSwapOSWAP,,,IF
+IF,955,BloctoBLT,$0.49,0.0148,0.177,$ 12.13M,$ 120.21K,1.21x,8.79x,13 Sep,"$200,000",,,,,,,,,,,,,,,,,,,BloctoBLT,,,IF
+IF,,AriadneARDN,$0.23,0.0003,-0.81%,$ 45.96K,$101.79,0.46x,8.67x,12 Oct,"$150,000",,,,,,,,,,,,,,,,,,,AriadneARDN,,,IF
+IF,1739,StarbotsBOT,$0.10,-1.74%,-12%,$ 1.31M,$ 22.37K,0.98x,3.25x,10 Jan,"$475,000",,,,,,,,,,,,,,,,,,,StarbotsBOT,,,IF
+IF,,OuroOGS,$0.01,-8.17%,1.021,N/A,$ 6.49K,0.21x,0.63x,2 Jan,"$1,250,000",,,,,,,,,,,,,,,,,,,OuroOGS,,,IF
+IF,1857,Duelist KingDKT,$1.11,-3.36%,0.0906,$ 889.08K,$ 32.40K,N/A,N/A,20 Oct,N/A,,,,,,,,,,,,,,,,,,,Duelist KingDKT,,,IF
+RAY,Grape ProtocolGRAPE,$0.02,-0.40%,-16.80%,$ 1.39M,$ 8.19K,1.05x,505.71x,6 Sep 2021,"$600,000",,,,,,,,,,,,,,,,,,,,$0.02,,,RAY
+RAY,468,Star AtlasATLAS,$0.03,-3.73%,-0.96%,$ 67.07M,$ 5.84M,22.50x,195.66x,31 Aug,"$248,400",,,,,,,,,,,,,,,,,,,Star AtlasATLAS,,,RAY
+RAY,608,Star Atlas DAOPOLIS,$1.76,-5.15%,-4.07%,$ 37.92M,$ 1.67M,12.72x,136.81x,31 Aug,"$248,400",,,,,,,,,,,,,,,,,,,Star Atlas DAOPOLIS,,,RAY
+RAY,939,DeFi LandDFL,$0.01,-9.85%,-70%,$ 12.80M,$ 335.04K,2.89x,84.62x,22 Nov,"$350,000",,,,,,,,,,,,,,,,,,,DeFi LandDFL,,,RAY
+RAY,$725.00,GenopetsGENE,$6.91,0.04,0.206,$ 24.40M,$ 934.56K,8.64x,47.18x,16 Nov,"$400,000",,,,,,,,,,,,,,,,,,,GenopetsGENE,,,RAY
+RAY,1441,RealyREAL,$3.32,0.0236,-3%,$ 3.32M,$ 412.33K,3.32x,28.32x,8 Dec,"$500,000",,,,,,,,,,,,,,,,,,,RealyREAL,,,RAY
+RAY,$882,Solrise FinanceSLRS,$0.27,-1.36%,-5.16%,$ 15.15M,$ 232.73K,5.47x,22.11x,4 Jul,"$124,000",,,,,,,,,,,,,,,,,,,Solrise FinanceSLRS,,,RAY
+RAY,1057,Only1LIKE,$0.10,-1.19%,0.0142,$ 9.15M,$ 434.30K,1.74x,19.73x,1 Aug,"$100,000",,,,,,,,,,,,,,,,,,,Only1LIKE,,,RAY
+RAY,1173,Mercurial FinanceMER,$0.12,-1.77%,-6.45%,$ 6.61M,$ 46.13K,0.96x,15.32x,18 May,"$250,000",,,,,,,,,,,,,,,,,,,Mercurial FinanceMER,,,RAY
+RAY,1077,Space FalconFCON,$0.00,-0.17%,0.0419,$ 8.58M,$ 391.55K,1.61x,9.50x,23 Jan,"$500,000",,,,,,,,,,,,,,,,,,,Space FalconFCON,,,RAY
+RAY,,Media NetworkMEDIA,$35.20,N/A,0.0144,$ 8.80M,$ 6.98K,3.52x,8.45x,28 Apr,"$1,000,000",,,,,,,,,,,,,,,,,,,Media NetworkMEDIA,,,RAY
+RAY,1144,SynthetifySNY,$1.00,-0.62%,-2.16%,$ 7.15M,$ 26.76K,0.66x,4.96x,28 Jun,"$1,050,000",,,,,,,,,,,,,,,,,,,SynthetifySNY,,,RAY
+RAY,"$1,256",RunNodeRUN,$0.04,0.0017,0.0069,$ 5.45M,$ 60.73K,0.62x,3.85x,5 Dec,"$1,000,000",,,,,,,,,,,,,,,,,,,RunNodeRUN,,,RAY
+RAY,1754,TabTraderTTT,$0.06,-1.87%,-10%,$ 1.26M,$ 27.66K,0.60x,3.47x,30 Nov,"$1,000,000",,,,,,,,,,,,,,,,,,,TabTraderTTT,,,RAY
+GAME,1334,Project SEEDSHILL,$0.17,-2.78%,0.0138,$ 4.54M,$ 2.84M,6.66x,752.53x,7 Nov,"$50,000",,,,,,,,,,,,,,,,,,,Project SEEDSHILL,,,GAME
+GAME,1312,PolkaFantasyXP,$0.34,-18.60%,-19.30%,$ 4.80M,$ 165.28K,6.85x,67.19x,24 Nov,"$497,700",,,,,,,,,,,,,,,,,,,PolkaFantasyXP,,,GAME
+GAME,"$1,274.00",Dark FrontiersDARK,$0.22,-12.60%,0.318,$ 5.28M,$ 1.04M,4.47x,35.99x,4 Nov,"$160,000",,,,,,,,,,,,,,,,,,,Dark FrontiersDARK,,,GAME
+GAME,1709,DemoleDMLG,$0.02,-3.72%,0.126,$ 1.46M,$ 30.69K,0.77x,21.18x,17 Oct,"$42,500",,,,,,,,,,,,,,,,,,,DemoleDMLG,,,GAME
+GAME,,Bit HotelBTH,$0.04,-1.82%,0.199,N/A,$ 100.53K,3.62x,20.02x,5 Dec,"$100,000",,,,,,,,,,,,,,,,,,,Bit HotelBTH,,,GAME
+GAME,,The DynastyDYT,$0.00,-3.16%,0.0346,$ 12.63K,$195.72,0.07x,18.09x,10 Nov,"$300,000",,,,,,,,,,,,,,,,,,,The DynastyDYT,,,GAME
+GAME,1846,MetarunMRUN,$0.04,0.0302,N/A,$ 936.69K,$ 79.38K,1.41x,14.37x,19 Feb,"$100,000",,,,,,,,,,,,,,,,,,,MetarunMRUN,,,GAME
+GAME,1995,Moo MonsterMOO,$0.09,-3.56%,-23.60%,$ 449.66K,$ 135.33K,1.52x,12.92x,29 Nov,"$150,000",,,,,,,,,,,,,,,,,,,Moo MonsterMOO,,,GAME
+GAME,,12 LegionsCTL,$0.01,-5.80%,0.0158,$ 70.23K,$687.03,0.22x,10.82x,1 Dec,"$120,000",,,,,,,,,,,,,,,,,,,12 LegionsCTL,,,GAME
+GAME,1568,Tap FantasyTAP,$0.09,-13.40%,-17.30%,$ 2.24M,$ 4.07M,2.30x,9.41x,4 Jan,"$300,000",,,,,,,,,,,,,,,,,,,Tap FantasyTAP,,,GAME
+GAME,,Lord ArenaLORDA,$0.01,-3.20%,-9.50%,$ 575.39K,$669.53,0.65x,6.89x,16 Nov,"$250,000",,,,,,,,,,,,,,,,,,,Lord ArenaLORDA,,,GAME
+GAME,1660,Crypto Fight ClubFIGHT,$0.04,-20.80%,1.415,$ 1.69M,$ 942.96K,1.77x,6.89x,16 Dec,"$350,000",,,,,,,,,,,,,,,,,,,Crypto Fight ClubFIGHT,,,GAME
+GAME,2145,Nintia EstateNINTI,$0.04,-8.42%,-24.80%,$ 177.41K,$ 15.76K,1.21x,6.88x,16 Jan,N/A,,,,,,,,,,,,,,,,,,,Nintia EstateNINTI,,,GAME
+GAME,1818,KingdomXKT,$0.02,-8.71%,-2.07%,$ 1.03M,$ 157.08K,1.32x,6.13x,3 Feb,"$30,000",,,,,,,,,,,,,,,,,,,KingdomXKT,,,GAME
+GAME,,ManuFactoryMNFT,$0.04,-1.55%,-2.23%,$ 744.12K,$ 6.99K,1.17x,4.76x,9 Dec,"$249,975",,,,,,,,,,,,,,,,,,,ManuFactoryMNFT,,,GAME
+GAME,,Rise of DefendersRDR,$0.02,-3.20%,-17.20%,$ 1.31M,$ 13.59K,0.43x,3.73x,26 Dec,"$150,000",,,,,,,,,,,,,,,,,,,Rise of DefendersRDR,,,GAME
+GAME,"$1,795",Himo WorldHIMO,$0.05,-0.85%,0.137,$ 1.10M,$ 97.11K,1.26x,2.61x,21 Jan,"$75,000",,,,,,,,,,,,,,,,,,,Himo WorldHIMO,,,GAME
+GAME,1984,Pirate X PiratePXP,$0.02,-8.29%,0.0117,$ 488.19K,$ 245.72K,1.20x,1.96x,17 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Pirate X PiratePXP,,,GAME
+GAME,,Monster BattleMBS,$0.00,-0.11%,-2.71%,$ 21.03K,$40.50,0.05x,1.80x,6 Dec,"$100,000",,,,,,,,,,,,,,,,,,,Monster BattleMBS,,,GAME
+GAME,"$1,826.00",KyberDyneKBD,$0.05,0.0276,N/A,$ 1.00M,$ 145.68K,1.14x,1.30x,21 Feb,"$290,000",,,,,,,,,,,,,,,,,,,KyberDyneKBD,,,GAME
+GAME,,MechachainMECHA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24 Feb,"$200,000",,,,,,,,,,,,,,,,,,,MechachainMECHA,,,GAME
+GAME,,SouniSON,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3 Dec,"$290,000",,,,,,,,,,,,,,,,,,,SouniSON,,,GAME
+GAME,,ColizeumZEUM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28 Feb,"$200,000",,,,,,,,,,,,,,,,,,,ColizeumZEUM,,,GAME
+GAME,,Bot PlanetBOT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26 Feb,"$200,000",,,,,,,,,,,,,,,,,,,Bot PlanetBOT,,,GAME
+GAME,,Nunu SpiritsNNT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18 Jan,"$200,000",,,,,,,,,,,,,,,,,,,Nunu SpiritsNNT,,,GAME
+GZONE,"$1,496.00",VelhallaSCAR,$0.01,-13%,-3.96%,$ 2.81M,$ 16.40K,11.12x,302.06x,15 Nov,"$125,000",,,,,,,,,,,,,,,,,,,VelhallaSCAR,,,GZONE
+GZONE,1528,CryptopolisCPO,$0.03,-1.28%,0.0782,$ 2.53M,$ 140.62K,3.22x,68.62x,17 Oct,"$600,000",,,,,,,,,,,,,,,,,,,CryptopolisCPO,,,GZONE
+GZONE,,Ghospers GameGHSP,$0.01,-7.77%,-12.60%,$ 184.73K,$ 10.46K,1.15x,64.10x,29 Oct,"$100,000",,,,,,,,,,,,,,,,,,,Ghospers GameGHSP,,,GZONE
+GZONE,2250,Operon OriginsORO,$0.03,-18.50%,-18.60%,$ 43.98K,$ 193.03K,0.33x,36.26x,1 Dec,"$200,000",,,,,,,,,,,,,,,,,,,Operon OriginsORO,,,GZONE
+GZONE,,VerveVERVE,$0.02,-9.24%,-11.30%,$ 4.94M,$ 12.13K,19.76x,34.14x,19 Jan,N/A,,,,,,,,,,,,,,,,,,,VerveVERVE,,,GZONE
+GZONE,"$1,924.00",GamerseLFG,$0.01,0.0745,-0.53%,$ 659.45K,$ 77.25K,0.63x,29.18x,27 Oct,"$350,000",,,,,,,,,,,,,,,,,,,GamerseLFG,,,GZONE
+GZONE,1074,Katana InuKATA,$0.00,0.0266,0.446,$ 8.61M,$ 1.64M,1.86x,7.55x,22 Dec,"$700,000",,,,,,,,,,,,,,,,,,,Katana InuKATA,,,GZONE
+GZONE,"$2,030",World of DefishWOD,$0.03,-1.09%,-16.40%,$ 389.35K,$ 160.48K,1.07x,5.78x,28 Dec,"$150,000",,,,,,,,,,,,,,,,,,,World of DefishWOD,,,GZONE
+GZONE,,Atlantis MetaverseTAU,$0.08,-3.18%,0.0591,$ 1.12M,$ 1.79K,0.68x,4.30x,7 Dec,"$125,000",,,,,,,,,,,,,,,,,,,Atlantis MetaverseTAU,,,GZONE
+GZONE,1533,Marvelous NFTsMNFT,$0.24,-2.63%,-5.35%,$ 2.49M,$ 116.70K,2.01x,2.71x,13 Jan,"$300,000",,,,,,,,,,,,,,,,,,,Marvelous NFTsMNFT,,,GZONE
+AUCTION,973,AntimatterMATTER,$0.36,-0.53%,-3.27%,$ 11.23M,$ 170.83K,7.17x,122.75x,26 Feb,"$12,500",,,,,,,,,,,,,,,,,,,AntimatterMATTER,,,AUCTION
+AUCTION,"$1,440.00",BSC StationBSCS,$0.09,-2.06%,0.149,$ 3.32M,$ 528.75K,8.53x,121.26x,20 Apr,"$30,000",,,,,,,,,,,,,,,,,,,BSC StationBSCS,,,AUCTION
+AUCTION,1065,NFTbNFTB,$0.13,-2.79%,0.0764,$ 8.89M,$ 382.44K,20.80x,104.98x,20 Jun,"$120,000",,,,,,,,,,,,,,,,,,,NFTbNFTB,,,AUCTION
+AUCTION,1937,OptionRoomROOM,$0.05,-2.32%,0.0361,$ 621.70K,$ 77.51K,1.00x,92.74x,4 Feb,"$50,000",,,,,,,,,,,,,,,,,,,OptionRoomROOM,,,AUCTION
+AUCTION,1632,Stone DeFiSTN,$0.06,-2.60%,0.0052,$ 1.81M,$ 114.46K,0.26x,31.08x,22 Mar,"$30,000",,,,,,,,,,,,,,,,,,,Stone DeFiSTN,,,AUCTION
+AUCTION,1697,Raze NetworkRAZE,$0.02,-11%,-2.34%,$ 1.49M,$ 389.27K,0.09x,23.87x,11 Apr,"$70,000",,,,,,,,,,,,,,,,,,,Raze NetworkRAZE,,,AUCTION
+AUCTION,2223,BlackHole ProtocolBLACK,$0.01,-3.32%,-1.49%,$ 68.38K,$ 137.90K,0.20x,19.89x,27 Apr,"$10,000",,,,,,,,,,,,,,,,,,,BlackHole ProtocolBLACK,,,AUCTION
+AUCTION,902,O3 SwapO3,$0.40,-12.30%,-6.27%,$ 14.30M,$ 992.91K,0.40x,18.63x,11 May,"$50,000",,,,,,,,,,,,,,,,,,,O3 SwapO3,,,AUCTION,O3
+AUCTION,,DeFi WizardDWZ,$0.40,0.0005,N/A,$ 55.79K,N/A,0.16x,8.47x,28 Feb,N/A,,,,,,,,,,,,,,,,,,,DeFi WizardDWZ,,,AUCTION
+AUCTION,2072,MatrixETFMDF,$0.01,0.0175,-10.90%,$ 297.82K,$ 56.94K,0.36x,7.82x,20 Sep,"$40,000",,,,,,,,,,,,,,,,,,,MatrixETFMDF,,,AUCTION
+AUCTION,2013,Octopus ProtocolOPS,$0.02,-4.07%,0.0258,$ 412.13K,$ 49.46K,0.12x,6.83x,8 Jun,"$100,000",,,,,,,,,,,,,,,,,,,Octopus ProtocolOPS,,,AUCTION
+AUCTION,777,DoraFactoryDORA,$5.70,-7.40%,0.255,$ 20.50M,$ 9.60M,0.57x,6.69x,21 Mar,"$25,000",,,,,,,,,,,,,,,,,,,DoraFactoryDORA,,,AUCTION
+AUCTION,,FM GalleryFMG,$0.00,-8.40%,-9.65%,$ 66.82K,$219.93,0.02x,5.65x,21 Mar,"$90,000",,,,,,,,,,,,,,,,,,,FM GalleryFMG,,,AUCTION
+AUCTION,,ZKCHAOS CHAOS,$0.42,N/A,N/A,$ 1.11M,N/A,1.69x,1.69x,9 Jun,"$80,000",,,,,,,,,,,,,,,,,,,ZKCHAOS CHAOS,,,AUCTION
+AUCTION,,Moma ProtocolMOMAT,$0.02,0.085,-1.35%,$ 117.98K,$ 3.27K,0.06x,0.90x,5 Jul,"$50,000",,,,,,,,,,,,,,,,,,,Moma ProtocolMOMAT,,,AUCTION
+AUCTION,2153,NFTMartNMT,$0.02,-3.62%,-20.80%,$ 159.44K,$ 67.57K,N/A,N/A,23 May,N/A,,,,,,,,,,,,,,,,,,,NFTMartNMT,,,AUCTION
+AUCTION,,JokerWarJOK,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24 Nov,N/A,,,,,,,,,,,,,,,,,,,JokerWarJOK,,,AUCTION
+AUCTION,,SubDAOGOV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2 Nov,N/A,,,,,,,,,,,,,,,,,,,SubDAOGOV,,,AUCTION
+LPOOL,574,UnizenZCX,$1.26,-1.92%,0.285,$ 43.43M,$ 1.49M,42.05x,233.82x,11 Apr,"$100,000",,,,,,,,,,,,,,,,,,,UnizenZCX,,,LPOOL
+LPOOL,1036,RealmREALM,$0.20,-5.19%,0.208,$ 9.72M,$ 212.05K,6.58x,71.17x,25 Jul,"$400,000",,,,,,,,,,,,,,,,,,,RealmREALM,,,LPOOL
+LPOOL,1274,ProxyPRXY,$5.28,-0.37%,0.0702,$ 5.24M,$ 134.59K,3.30x,36.14x,29 Jul,"$225,000",,,,,,,,,,,,,,,,,,,ProxyPRXY,,,LPOOL
+LPOOL,669,Singularity DAOSDAO,$0.78,0.0108,0.108,$ 30.37M,$ 663.10K,2.60x,22.03x,7 May,"$250,000",,,,,,,,,,,,,,,,,,,Singularity DAOSDAO,,,LPOOL
+LPOOL,2200,DeFi11D11,$0.01,-2.76%,-15.90%,$ 97.64K,$ 48.96K,0.15x,12.47x,6 Jun,"$400,000",,,,,,,,,,,,,,,,,,,DeFi11D11,,,LPOOL,D11
+LPOOL,1836,UnifarmUFARM,$0.01,0.0083,-2.81%,$ 981.67K,$ 37.10K,0.29x,11.04x,22 Apr,"$100,000",,,,,,,,,,,,,,,,,,,UnifarmUFARM,,,LPOOL
+LPOOL,1962,PolkaCipherCPHR,$0.01,-15%,-7.42%,$ 558.77K,$ 41.27K,0.44x,8.28x,24 May,"$2,173,000",,,,,,,,,,,,,,,,,,,PolkaCipherCPHR,,,LPOOL
+LPOOL,1516,NuNetNTX,$0.03,-9.57%,0%,$ 2.63M,$ 83.04K,1.07x,7.69x,14 Nov,"$300,000",,,,,,,,,,,,,,,,,,,NuNetNTX,,,LPOOL
+LPOOL,,IAGONIAG,$0.01,-7.48%,0.0325,N/A,$ 10.67K,0.56x,5.86x,13 Jun,"$250,000",,,,,,,,,,,,,,,,,,,IAGONIAG,,,LPOOL
+LPOOL,2016,Sway SocialSWAY,$0.03,-0.01%,0.0115,$ 409.96K,$ 16.46K,0.64x,5.61x,12 Sep,"$250,000",,,,,,,,,,,,,,,,,,,Sway SocialSWAY,,,LPOOL
+LPOOL,2162,Alium SwapALM,$0.04,-3.23%,0.034,$ 144.98K,$ 136.18K,0.22x,3.28x,14 May,"$100,000",,,,,,,,,,,,,,,,,,,Alium SwapALM,,,LPOOL
+LPOOL,,GreenheartCBD,$0.02,-2.72%,-8.62%,$ 184.30K,$ 1.19K,0.20x,0.96x,19 Apr,"$500,000",,,,,,,,,,,,,,,,,,,GreenheartCBD,,,LPOOL
+LPOOL,,NiftyPaysNIFTY,$0.02,-1.46%,-12%,$ 50.47K,$439.21,0.24x,0.84x,27 Jun,"$250,000",,,,,,,,,,,,,,,,,,,NiftyPaysNIFTY,,,LPOOL
+LPOOL,,Listen TokenLSTN,$0.00,-4.15%,-8.86%,$ 84.38K,$169.83,0.07x,0.18x,N/A,"$750,000",,,,,,,,,,,,,,,,,,,Listen TokenLSTN,,,LPOOL
+LPOOL,,HinataHINATA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5 Dec,"$500,000",,,,,,,,,,,,,,,,,,,HinataHINATA,,,LPOOL
+CGG,1867,Dragon KartKART,$0.09,-1.15%,-9.02%,$ 850.72K,$ 24.96K,0.59x,241.09x,8 Nov,"$50,000",,,,,,,,,,,,,,,,,,,Dragon KartKART,,,CGG
+CGG,1040,CryowarCWAR,$0.27,-4.66%,0.0466,$ 9.64M,$ 1.14M,9.64x,169.20x,18 Oct,"$50,000",,,,,,,,,,,,,,,,,,,CryowarCWAR,,,CGG
+CGG,1311,PolkaFantasyXP,$0.34,-18.40%,-17.70%,$ 4.81M,$ 165.59K,6.87x,67.19x,7 Sep,"$100,000",,,,,,,,,,,,,,,,,,,PolkaFantasyXP,,,CGG
+CGG,918,Blockchain Monster HuntBCMC,$0.24,-0.05%,0.242,$ 13.55M,$ 465.20K,2.66x,52.40x,11 Oct,"$180,000",,,,,,,,,,,,,,,,,,,Blockchain Monster HuntBCMC,,,CGG
+CGG,898,EnjinstarterEJS,$0.02,-2.01%,-9.84%,$ 14.52M,$ 155.28K,2.82x,31.10x,28 Sep,"$100,000",,,,,,,,,,,,,,,,,,,EnjinstarterEJS,,,CGG
+CGG,1995,Cryptoblades KingdomsKING,$0.04,0.549,0.61,$ 450.88K,$ 481.22K,0.94x,24.00x,27 Sep,"$100,000",,,,,,,,,,,,,,,,,,,Cryptoblades KingdomsKING,,,CGG
+CGG,1128,The HUSLHUSL,$0.86,-6.29%,0.0434,$ 7.50M,$ 134.20K,3.45x,17.60x,20 Sep,"$125,000",,,,,,,,,,,,,,,,,,,The HUSLHUSL,,,CGG
+CGG,1310,Domi OnlineDOMI,$0.19,-6.38%,0.0479,$ 4.82M,$ 108.18K,7.84x,16.72x,13 Dec,"$200,000",,,,,,,,,,,,,,,,,,,Domi OnlineDOMI,,,CGG
+CGG,1977,Forest KnightKNIGHT,$0.13,-8.34%,-3.08%,$ 507.17K,$ 122.53K,0.83x,13.00x,15 Sep,"$100,000",,,,,,,,,,,,,,,,,,,Forest KnightKNIGHT,,,CGG
+CGG,1053,DOSEDOSE,$0.10,-7.01%,-2.22%,$ 9.28M,$ 746.66K,3.17x,12.54x,14 Oct,"$100,000",,,,,,,,,,,,,,,,,,,DOSEDOSE,,,CGG
+CGG,1693,Spores NetworkSPO,$0.00,-2.30%,0.0023,$ 1.52M,$ 52.16K,0.87x,9.36x,26 Jul,"$205,000",,,,,,,,,,,,,,,,,,,Spores NetworkSPO,,,CGG
+CGG,1478,BabylonsBABI,$0.08,0.0144,-7.99%,$ 2.95M,$ 80.67K,1.99x,7.96x,17 Aug,"$150,000",,,,,,,,,,,,,,,,,,,BabylonsBABI,,,CGG
+CGG,1770,Infinity SkiesISKY,$0.18,-2.96%,-8.39%,$ 1.19M,$ 447.52K,0.82x,6.10x,6 Jan,"$50,000",,,,,,,,,,,,,,,,,,,Infinity SkiesISKY,,,CGG
+CGG,,FidiraFID,$0.04,-11%,-32.20%,$ 42.95K,$ 2.63K,0.25x,5.40x,20 Oct,"$130,000",,,,,,,,,,,,,,,,,,,FidiraFID,,,CGG
+CGG,853,Rainmaker GamesRAIN,$0.35,-4.20%,0.0591,$ 16.25M,$ 682.02K,1.40x,5.38x,14 Dec,"$75,000",,,,,,,,,,,,,,,,,,,Rainmaker GamesRAIN,,,CGG
+CGG,,AmasaAMAS,$0.05,-5.43%,-20%,$ 559.27K,$ 1.62K,0.60x,4.97x,27 Oct,"$125,000",,,,,,,,,,,,,,,,,,,AmasaAMAS,,,CGG
+CGG,1308,Galaxy Fight ClubGCOIN,$0.35,-3.63%,-4.53%,$ 4.86M,$ 38.21K,0.71x,4.36x,16 Dec,"$240,000",,,,,,,,,,,,,,,,,,,Galaxy Fight ClubGCOIN,,,CGG
+CGG,1922,UNQclubUNQ,$0.03,-3.10%,-19.80%,$ 671.95K,$ 15.72K,0.47x,3.52x,15 Dec,"$150,000",,,,,,,,,,,,,,,,,,,UNQclubUNQ,,,CGG
+CGG,,Oort DigitalOORT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17 Jan,"$200,000",,,,,,,,,,,,,,,,,,,Oort DigitalOORT,,,CGG
+CARDS,703,ParibusPBX,$0.01,-3.01%,0.106,$ 26.62M,$ 759.82K,35.18x,138.73x,26 Aug,"$150,000",,,,,,,,,,,,,,,,,,,ParibusPBX,,,CARDS
+CARDS,1218,Charli3C3,$0.28,-7.72%,-3.03%,$ 5.89M,$ 26.59K,5.80x,88.70x,22 Apr,"$254,228",,,,,,,,,,,,,,,,,,,Charli3C3,,,CARDS
+CARDS,1146,GeroWalletGERO,$0.03,-0.18%,0.0016,$ 7.10M,$ 59.40K,4.38x,77.87x,10 May,"$242,305",,,,,,,,,,,,,,,,,,,GeroWalletGERO,,,CARDS
+CARDS,1191,RidottoRDT,$0.12,0.0476,0.0648,$ 6.30M,$ 46.71K,2.19x,26.86x,19 Sep,"$491,773",,,,,,,,,,,,,,,,,,,RidottoRDT,,,CARDS
+CARDS,1732,Credefi CREDI,$0.01,-1.04%,0.0276,$ 1.35M,$ 21.23K,1.03x,20.98x,30 Oct,"$430,000",,,,,,,,,,,,,,,,,,,Credefi CREDI,,,CARDS
+CARDS,,DeFinity NetworkDEFX,$0.01,-4.12%,-33.90%,$ 691.84K,$ 1.38K,0.14x,15.80x,24 May,"$144,000",,,,,,,,,,,,,,,,,,,DeFinity NetworkDEFX,,,CARDS
+CARDS,,Matrix LabsMATRIX,$0.06,-1.55%,-1.79%,$ 2.56M,$ 5.26K,0.60x,14.80x,9 Sep,"$250,000",,,,,,,,,,,,,,,,,,,Matrix LabsMATRIX,,,CARDS
+CARDS,1743,PhotoChromicPHCR,$0.00,-23.40%,-53.80%,$ 1.30M,$ 80.51K,3.89x,13.41x,7 Nov,"$405,000",,,,,,,,,,,,,,,,,,,PhotoChromicPHCR,,,CARDS
+CARDS,,UnvestUNV,$0.00,0.0024,-27.90%,$ 428.86K,N/A,0.09x,8.54x,23 Aug,"$765,590",,,,,,,,,,,,,,,,,,,UnvestUNV,,,CARDS
+CARDS,2085,Flurry FinanceFLURRY,$0.00,0.0158,-3.75%,$ 273.46K,$ 100.27K,0.22x,6.87x,5 Sep,"$250,000",,,,,,,,,,,,,,,,,,,Flurry FinanceFLURRY,,,CARDS
+CARDS,1971,EverlensELEN,$0.00,-8.64%,-30.80%,$ 536.76K,$ 75.45K,0.60x,6.65x,14 Nov,"$400,000",,,,,,,,,,,,,,,,,,,EverlensELEN,,,CARDS
+CARDS,1692,Spores NetworkSPO,$0.00,-2.37%,0.0011,$ 1.52M,$ 52.08K,0.58x,6.27x,20 Jul,"$418,163",,,,,,,,,,,,,,,,,,,Spores NetworkSPO,,,CARDS
+CARDS,,LocknessLKN,$0.01,-9.87%,-12.30%,$ 373.15K,$ 13.58K,0.83x,5.41x,3 Jan,"$200,000",,,,,,,,,,,,,,,,,,,LocknessLKN,,,CARDS
+CARDS,,Unreal FinanceUGT,$0.03,-4.60%,0.0794,N/A,$147.62,0.23x,3.15x,22 Aug,"$300,000",,,,,,,,,,,,,,,,,,,Unreal FinanceUGT,,,CARDS
+CARDS,,Artem CoinARTEM,$0.04,-0.20%,0.0074,$ 2.87M,$ 8.45K,0.98x,2.38x,27 Dec,N/A,,,,,,,,,,,,,,,,,,,Artem CoinARTEM,,,CARDS
+CARDS,,ITSMYNEMYNE,$0.02,N/A,0.0979,$ 69.19K,$61.92,0.18x,1.59x,31 Oct,N/A,,,,,,,,,,,,,,,,,,,ITSMYNEMYNE,,,CARDS
+BSCS,1996,DAOLaunchDAL,$1.59,-19.80%,-28.60%,$ 450.60K,$ 50.69K,1.59x,269.13x,17 Nov,"$110,000",,,,,,,,,,,,,,,,,,,DAOLaunchDAL,,,BSCS
+BSCS,1867,Dragon KartKART,$0.09,-1.14%,-9.01%,$ 850.75K,$ 24.96K,0.59x,241.09x,9 Nov,"$160,000",,,,,,,,,,,,,,,,,,,Dragon KartKART,,,BSCS
+BSCS,960,Luna RushLUS,$0.59,-5.13%,-21.50%,$ 11.92M,$ 1.05M,9.79x,81.99x,3 Jan,"$85,000",,,,,,,,,,,,,,,,,,,Luna RushLUS,,,BSCS
+BSCS,,Zuki MobaZUKI,$0.01,-5.62%,-6.83%,$ 441.90K,$ 14.30K,0.75x,48.37x,19 Nov,"$90,000",,,,,,,,,,,,,,,,,,,Zuki MobaZUKI,,,BSCS
+BSCS,,MoniwarMOWA,$0.04,-1.40%,0.0332,$ 516.58K,$ 6.55K,1.17x,46.00x,12 Oct,"$90,000",,,,,,,,,,,,,,,,,,,MoniwarMOWA,,,BSCS
+BSCS,2172,Real RealmREAL,$0.01,-11.80%,-5.26%,$ 133.72K,$ 23.85K,0.53x,41.54x,22 Nov,"$190,000",,,,,,,,,,,,,,,,,,,Real RealmREAL,,,BSCS
+BSCS,1515,Heroes TDHTD,$0.11,-2.76%,-4.98%,$ 2.63M,$ 22.36K,1.81x,29.07x,27 Nov,"$110,000",,,,,,,,,,,,,,,,,,,Heroes TDHTD,,,BSCS
+BSCS,1765,Zombie World ZZWZ,$0.08,-3.92%,-6.82%,$ 1.22M,$ 87.38K,5.17x,29.03x,14 Dec,"$165,000",,,,,,,,,,,,,,,,,,,Zombie World ZZWZ,,,BSCS
+BSCS,,MelandMELD,$0.00,0.0244,0.2,N/A,$ 39.39K,0.65x,27.90x,5 Dec,"$50,000",,,,,,,,,,,,,,,,,,,MelandMELD,,,BSCS
+BSCS,,DareNFTDNFT,$0.00,-22%,-19.90%,$ 123.86K,$ 10.56K,0.26x,20.33x,11 Oct,"$125,000",,,,,,,,,,,,,,,,,,,DareNFTDNFT,,,BSCS
+BSCS,2054,Green BeliGRBE,$0.01,-2.97%,-14%,$ 331.11K,$ 16.97K,1.32x,20.27x,27 Sep,"$110,000",,,,,,,,,,,,,,,,,,,Green BeliGRBE,,,BSCS
+BSCS,,CryptoTanksTANK,$0.13,0.0081,0.0523,N/A,$ 213.90K,1.78x,16.89x,9 Dec,N/A,,,,,,,,,,,,,,,,,,,CryptoTanksTANK,,,BSCS
+BSCS,1870,Legend of Fantasy WarLFW,$0.42,0.112,0.296,$ 842.75K,$ 495.54K,2.11x,15.91x,27 Oct,"$70,000",,,,,,,,,,,,,,,,,,,Legend of Fantasy WarLFW,,,BSCS
+BSCS,,9D NFTCOGI,$0.07,0.0031,-2.03%,$ 855.12K,$ 7.63K,1.33x,15.04x,11 Nov,"$70,000",,,,,,,,,,,,,,,,,,,9D NFTCOGI,,,BSCS
+BSCS,,Oly SportOLY,$0.04,-7.87%,-11.40%,N/A,$ 7.59K,0.68x,14.45x,1 Nov,"$207,000",,,,,,,,,,,,,,,,,,,Oly SportOLY,,,BSCS
+BSCS,,PirateraPIRA,$0.01,-3.60%,0.124,$ 260.56K,$ 7.95K,0.84x,13.48x,21 Dec,"$150,000",,,,,,,,,,,,,,,,,,,PirateraPIRA,,,BSCS
+BSCS,,HowlCityHWL,$0.00,-14.90%,-3.80%,$ 35.50K,$ 1.67K,0.13x,12.58x,3 Nov,"$145,000",,,,,,,,,,,,,,,,,,,HowlCityHWL,,,BSCS
+BSCS,,myMessageMESA,$ 1.33e-6,0.157,0.357,$ 301.47K,$ 14.01K,0.74x,10.58x,13 Dec,"$100,000",,,,,,,,,,,,,,,,,,,myMessageMESA,,,BSCS
+BSCS,,CryptoVsZombieCVZ,$0.01,0.0809,-29.60%,$ 107.07K,$ 5.95K,0.33x,10.16x,8 Dec,"$100,000",,,,,,,,,,,,,,,,,,,CryptoVsZombieCVZ,,,BSCS
+BSCS,,CATOCATO,$0.02,-6.64%,-45.20%,$ 104.55K,$540.07,0.32x,9.62x,1 Dec,"$150,000",,,,,,,,,,,,,,,,,,,CATOCATO,,,BSCS
+BSCS,,FADO GoFADO,$0.00,-3.60%,-20.80%,$ 121.41K,$ 6.92K,1.34x,9.51x,7 Feb,N/A,,,,,,,,,,,,,,,,,,,FADO GoFADO,,,BSCS
+BSCS,,MetaRacersMRS,$0.01,-7.15%,-1.39%,$ 75.86K,$ 1.83K,0.32x,9.42x,15 Dec,"$176,000",,,,,,,,,,,,,,,,,,,MetaRacersMRS,,,BSCS
+BSCS,1255,Gaia EverworldGAIA,$0.05,-0.41%,-3.50%,$ 5.47M,$ 92.25K,0.28x,8.57x,29 Oct,"$140,000",,,,,,,,,,,,,,,,,,,Gaia EverworldGAIA,,,BSCS
+BSCS,1564,Meli GamesMELI,$0.06,-4.88%,-4.49%,$ 2.30M,$ 51.39K,1.15x,8.23x,2 Nov,"$225,000",,,,,,,,,,,,,,,,,,,Meli GamesMELI,,,BSCS
+BSCS,1346,OpenLive NFTOPV,$0.49,0.309,2.509,$ 4.43M,$ 317.34K,7.47x,7.81x,12 Jan,"$100,000",,,,,,,,,,,,,,,,,,,OpenLive NFTOPV,,,BSCS
+BSCS,1669,Monster Of GodMONX,$0.02,-2.08%,-22.20%,$ 1.64M,$ 111.87K,3.92x,7.77x,13 Jan,"$150,000",,,,,,,,,,,,,,,,,,,Monster Of GodMONX,,,BSCS
+BSCS,,FUFUFUFU,$0.00,-11.30%,-6.52%,$ 218.62K,$ 4.08K,0.24x,7.52x,N/A,"$100,000",,,,,,,,,,,,,,,,,,,FUFUFUFU,,,BSCS
+BSCS,,ByteNextBNU,$0.04,0.0657,-0.33%,$ 134.07K,$105.40,0.43x,7.29x,31 May,"$90,000",,,,,,,,,,,,,,,,,,,ByteNextBNU,,,BSCS
+BSCS,,CaloCALO,$0.02,-2.60%,-8.84%,$ 361.06K,$611.06,0.59x,7.29x,19 Dec,"$100,000",,,,,,,,,,,,,,,,,,,CaloCALO,,,BSCS
+BSCS,2255,Angels CreedANGEL,$0.00,-10.50%,-21.40%,$ 34.93K,$ 400.71K,0.14x,6.93x,22 Dec,"$200,000",,,,,,,,,,,,,,,,,,,Angels CreedANGEL,,,BSCS
+BSCS,1590,TrustFi NetworkTFI,$0.08,-7.64%,0.0094,$ 2.05M,$ 153.18K,0.98x,6.58x,31 May,"$100,000",,,,,,,,,,,,,,,,,,,TrustFi NetworkTFI,,,BSCS
+BSCS,,Vaulty FinanceVLTY,$0.03,-3.70%,-1.62%,$ 34.34K,$ 8.15K,0.04x,6.39x,9 Aug,"$52,500",,,,,,,,,,,,,,,,,,,Vaulty FinanceVLTY,,,BSCS
+BSCS,,Cowboy SnakeCOWS,$0.04,-0.56%,-3.57%,$ 785.93K,$ 4.76K,1.04x,5.65x,20 Dec,"$80,000",,,,,,,,,,,,,,,,,,,Cowboy SnakeCOWS,,,BSCS
+BSCS,2135,Knight War SpiritsKWS,$0.01,0.0294,0.0651,$ 188.54K,$ 50.33K,0.39x,5.50x,25 Sep,"$135,000",,,,,,,,,,,,,,,,,,,Knight War SpiritsKWS,,,BSCS
+BSCS,1621,TribeOneHAKA,$0.06,-5.41%,-2.03%,$ 1.86M,$ 122.07K,0.55x,4.92x,22 Jun,"$66,000",,,,,,,,,,,,,,,,,,,TribeOneHAKA,,,BSCS
+BSCS,2110,CheersLandCHEERS,$0.05,0.0751,0.317,$ 226.52K,$ 19.81K,0.39x,4.87x,28 Nov,"$150,000",,,,,,,,,,,,,,,,,,,CheersLandCHEERS,,,BSCS
+BSCS,2204,NftyPlayPOLO,$0.00,-5.98%,-3.36%,$ 95.75K,$ 44.63K,0.25x,4.41x,28 Jul,"$72,000",,,,,,,,,,,,,,,,,,,NftyPlayPOLO,,,BSCS
+BSCS,1960,WiDiLandWIDI,$0.04,-12.30%,-26.90%,$ 560.21K,$ 49.67K,0.89x,4.40x,29 Nov,"$180,000",,,,,,,,,,,,,,,,,,,WiDiLandWIDI,,,BSCS
+BSCS,,AstroVerseASV,$0.00,-2.66%,0.117,N/A,$178.51,0.53x,4.28x,27 Dec,"$230,000",,,,,,,,,,,,,,,,,,,AstroVerseASV,,,BSCS
+BSCS,,Dot ArcadeADT,$0.18,-4.03%,0.0619,$ 294.56K,$ 4.63K,1.47x,2.55x,14 Jan,"$125,000",,,,,,,,,,,,,,,,,,,Dot ArcadeADT,,,BSCS
+BSCS,,ZKCHAOS CHAOS,$0.42,N/A,N/A,$ 1.11M,N/A,1.69x,1.69x,9 Jun,"$80,000",,,,,,,,,,,,,,,,,,,ZKCHAOS CHAOS,,,BSCS
+BSCS,,Cheesus DeFiCHEESUS,$0.01,-6.43%,-39.10%,$ 43.75K,$ 6.25K,0.14x,1.24x,14 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Cheesus DeFiCHEESUS,,,BSCS
+BSCS,,QuizarenaQZA,$0.00,0.0093,0.143,N/A,$141.83,0.24x,0.77x,7 Dec,"$180,000",,,,,,,,,,,,,,,,,,,QuizarenaQZA,,,BSCS
+BSCS,,CFL365 FinanceCFL365,$0.00,-0.01%,0.117,N/A,N/A,0.00x,0.74x,4 Aug,"$75,001",,,,,,,,,,,,,,,,,,,CFL365 FinanceCFL365,,,BSCS
+BSCS,,BlocksportBSPT,$0.02,0.0282,0.115,N/A,$ 3.28K,0.44x,0.46x,26 Dec,"$100,000",,,,,,,,,,,,,,,,,,,BlocksportBSPT,,,BSCS
+BSCS,,DeHRDHR,$0.01,0.0028,N/A,$ 317.74K,N/A,0.40x,0.40x,11 Dec,"$155,000",,,,,,,,,,,,,,,,,,,DeHRDHR,,,BSCS
+BSCS,,MidolandMIDO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19 Jan,"$200,000",,,,,,,,,,,,,,,,,,,MidolandMIDO,,,BSCS
+bullperks,1059,SinverseSIN,$0.09,-3.08%,-7.15%,$ 9.13M,$ 429.71K,4.26x,37.27x,15 Oct,"$100,000",,,,,,,,,,,,,,,,,,,SinverseSIN,,,bullperks
+bullperks,1161,MetaGearGEAR,$0.43,-9.53%,0.151,$ 6.83M,$ 563.22K,15.82x,26.59x,16 Jan,"$150,000",,,,,,,,,,,,,,,,,,,MetaGearGEAR,,,bullperks
+bullperks,2025,GamesPadGMPD,$0.33,-3.32%,0.0221,$ 400.25K,$ 53.25K,6.06x,25.47x,19 Dec,"$170,000",,,,,,,,,,,,,,,,,,,GamesPadGMPD,,,bullperks
+bullperks,1703,StrongNodeSNE,$0.00,0.397,0.589,$ 1.47M,$ 34.62K,1.89x,24.16x,20 Oct,"$185,000",,,,,,,,,,,,,,,,,,,StrongNodeSNE,,,bullperks
+bullperks,1645,KryxiviaKXA,$0.03,-2.59%,-3.49%,$ 1.77M,$ 280.08K,1.90x,22.78x,1 Dec,"$150,000",,,,,,,,,,,,,,,,,,,KryxiviaKXA,,,bullperks
+bullperks,1216,SolchicksCHICKS,$0.02,-0.13%,0.0494,$ 5.94M,$ 439.19K,0.40x,13.19x,25 Nov,"$200,000",,,,,,,,,,,,,,,,,,,SolchicksCHICKS,,,bullperks
+bullperks,1254,Gaia EverworldGAIA,$0.05,-0.41%,-3.50%,$ 5.47M,$ 92.24K,0.28x,8.57x,31 Oct,"$150,000",,,,,,,,,,,,,,,,,,,Gaia EverworldGAIA,,,bullperks
+bullperks,1842,TotemCTZN,$0.05,-1.84%,0.464,$ 959.04K,$ 140.73K,0.96x,8.11x,16 Dec,"$125,000",,,,,,,,,,,,,,,,,,,TotemCTZN,,,bullperks
+bullperks,1488,Faith TribeFTRB,$0.06,-1.30%,0.263,$ 2.88M,$ 169.96K,5.54x,7.17x,22 Feb,"$150,000",,,,,,,,,,,,,,,,,,,Faith TribeFTRB,,,bullperks
+bullperks,2084,Flurry FinanceFLURRY,$0.00,0.0215,-4.52%,$ 274.28K,$ 99.31K,0.22x,6.87x,2 Sep,"$95,775",,,,,,,,,,,,,,,,,,,Flurry FinanceFLURRY,,,bullperks
+bullperks,,Flourishing AIAI,$0.08,-6.86%,-12.40%,$ 166.96K,$ 14.89K,0.63x,6.12x,20 Sep,"$64,000",,,,,,,,,,,,,,,,,,,Flourishing AIAI,,,bullperks
+bullperks,853,Rainmaker GamesRAIN,$0.35,-4.20%,0.0591,$ 16.25M,$ 682.02K,1.40x,5.38x,15 Dec,"$200,000",,,,,,,,,,,,,,,,,,,Rainmaker GamesRAIN,,,bullperks
+bullperks,,ChimerasCHIM,$0.07,-2.64%,-24.10%,N/A,$568.10,0.11x,4.99x,27 Oct,"$150,000",,,,,,,,,,,,,,,,,,,ChimerasCHIM,,,bullperks
+bullperks,1902,BattleverseBVC,$0.13,0.113,0.109,$ 727.60K,$ 103.58K,2.51x,3.30x,16 Feb,"$150,000",,,,,,,,,,,,,,,,,,,BattleverseBVC,,,bullperks
+bullperks,1443,ArcadeNetworkARC,$0.04,0.0577,0.404,$ 3.29M,$ 309.70K,0.69x,3.17x,30 Nov,"$80,000",,,,,,,,,,,,,,,,,,,ArcadeNetworkARC,,,bullperks
+bullperks,,YarlooYARL,$0.06,-4.32%,-22.80%,$ 47.45K,$ 1.50K,0.16x,2.90x,21 Oct,"$225,000",,,,,,,,,,,,,,,,,,,YarlooYARL,,,bullperks
+bullperks,2259,Monsoon FinanceMCASH,$0.01,-0.56%,0.0365,$ 31.10K,$ 127.03K,0.07x,1.72x,27 Sep,"$235,000",,,,,,,,,,,,,,,,,,,Monsoon FinanceMCASH,,,bullperks
+bullperks,1895,MetagamZMETAG,$0.00,-12.20%,N/A,$ 763.58K,$ 156.67K,0.95x,1.13x,12 Feb,"$150,000",,,,,,,,,,,,,,,,,,,MetagamZMETAG,,,bullperks
+bullperks,,AltavaTAVA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17 Feb,"$50,000",,,,,,,,,,,,,,,,,,,AltavaTAVA,,,bullperks
+bullperks,,Plutonians DAOPLD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13 Feb,"$125,000",,,,,,,,,,,,,,,,,,,Plutonians DAOPLD,,,bullperks
+bullperks,,PlutoniansRPC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13 Feb,"$125,000",,,,,,,,,,,,,,,,,,,PlutoniansRPC,,,bullperks
+bullperks,,VOIDVOID,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14 Dec,"$125,000",,,,,,,,,,,,,,,,,,,VOIDVOID,,,bullperks
+fireSTART,1147,FireStarterFLAME,$0.31,-10.80%,-5.39%,$ 7.06M,$ 578.64K,5.11x,54.69x,12 Oct,"$240,000",,,,,,,,,,,,,,,,,,,FireStarterFLAME,,,fireSTART
+fireSTART,2141,HarmonyLauncherHARL,$0.01,-6.08%,-19.60%,$ 183.20K,$ 419.74K,1.25x,46.27x,13 Feb,"$100,000",,,,,,,,,,,,,,,,,,,HarmonyLauncherHARL,,,fireSTART
+fireSTART,1939,H3RO3SH3RO3S,$0.02,-3.36%,-2.96%,$ 609.82K,$ 159.21K,2.06x,15.26x,12 Dec,"$174,000",,,,,,,,,,,,,,,,,,,H3RO3SH3RO3S,,,fireSTART
+fireSTART,1314,DecimatedDIO,$0.18,-11%,-16.40%,$ 4.79M,$ 119.05K,3.60x,13.89x,25 Dec,"$500,000",,,,,,,,,,,,,,,,,,,DecimatedDIO,,,fireSTART
+fireSTART,,Animal ConcertsANML,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11 Jan,"$280,000",,,,,,,,,,,,,,,,,,,Animal ConcertsANML,,,fireSTART
+fireSTART,,OneTo11 Games1TO11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22 Feb,"$150,000",,,,,,,,,,,,,,,,,,,OneTo11 Games1TO11,,,fireSTART
+pacake,388,Mines of DalarniaDAR,$0.81,-2.66%,0.163,$ 99.33M,$ 21.32M,10.75x,109.91x,3 Nov,"$900,000",,,,,,,,,,,,,,,,,,,Mines of DalarniaDAR,,,pacake
+pacake,,BLinkblink,$0.01,-7.06%,-3.47%,N/A,$ 1.82K,0.51x,48.32x,19 Nov,"$1,000,000",,,,,,,,,,,,,,,,,,,BLinkblink,,,pacake
+pacake,1661,Helmet InsureHELMET,$0.04,-3.43%,0.0402,$ 1.69M,$ 116.73K,0.40x,29.44x,12 Jan,"$1,000,000",,,,,,,,,,,,,,,,,,,Helmet InsureHELMET,,,pacake
+pacake,1844,Berry DataBRY,$0.33,-4.37%,0.0612,$ 953.63K,$ 56.37K,0.66x,20.02x,15 Feb,"$1,000,000",,,,,,,,,,,,,,,,,,,Berry DataBRY,,,pacake
+pacake,1808,YieldwatchWATCH,$0.11,-2.33%,0.0514,$ 1.08M,$ 29.51K,1.10x,18.62x,3 Mar,"$800,000",,,,,,,,,,,,,,,,,,,YieldwatchWATCH,,,pacake
+pacake,801,Hot CrossHOTCROSS,$0.17,-7.61%,-16.20%,$ 19.35M,$ 24.45M,3.47x,10.89x,19 May,"$2,500,000",,,,,,,,,,,,,,,,,,,Hot CrossHOTCROSS,,,pacake
+pacake,,SoteriaWSOTE,$0.02,-0.07%,-37.30%,N/A,N/A,0.05x,9.98x,20 Jan,"$525,000",,,,,,,,,,,,,,,,,,,SoteriaWSOTE,,,pacake
+pacake,1159,BeltBELT,$1.60,-2.47%,0.141,$ 6.93M,$ 28.20K,0.08x,9.37x,9 Mar,"$3,000,000",,,,,,,,,,,,,,,,,,,BeltBELT,,,pacake
+pacake,1017,Santos FC Fan TokenSANTOS,$2.88,-4.48%,0.322,$ 10.04M,$ 2.26M,1.15x,8.41x,30 Nov,"$1,000,000",,,,,,,,,,,,,,,,,,,Santos FC Fan TokenSANTOS,,,pacake
+pacake,738,FC PortoPORTO,$2.98,-2.38%,0.137,$ 23.21M,$ 1.22M,1.49x,6.97x,15 Nov,"$1,000,000",,,,,,,,,,,,,,,,,,,FC PortoPORTO,,,pacake
+pacake,1857,Duelist KingDKT,$1.11,-3.16%,0.0846,$ 890.71K,$ 32.46K,0.64x,6.62x,26 Oct,"$437,500",,,,,,,,,,,,,,,,,,,Duelist KingDKT,,,pacake
+pacake,,TenetTEN,$0.51,0.0023,0.102,$ 912.36K,N/A,0.51x,5.65x,4 Jan,"$1,000,000",,,,,,,,,,,,,,,,,,,TenetTEN,,,pacake
+pacake,1520,Horizon ProtocolHZN,$0.06,-5.28%,0.17,$ 2.56M,$ 75.09K,0.26x,4.52x,14 Apr,"$2,500,000",,,,,,,,,,,,,,,,,,,Horizon ProtocolHZN,,,pacake
+pacake,1999,Diviner ProtocolDPT,$0.01,-5.52%,-18.20%,$ 447.13K,$ 49.12K,0.40x,3.92x,20 Dec,"$600,000",,,,,,,,,,,,,,,,,,,Diviner ProtocolDPT,,,pacake
+pacake,1425,KalmarKALM,$1.73,-4.22%,0.428,$ 3.41M,$ 69.96K,0.87x,2.94x,26 May,"$2,500,000",,,,,,,,,,,,,,,,,,,KalmarKALM,,,pacake
+pacake,2040,Froyo GamesFROYO,$0.07,-3.40%,0.0086,$ 364.54K,$ 132.42K,1.17x,1.82x,17 Jan,"$4,000,000",,,,,,,,,,,,,,,,,,,Froyo GamesFROYO,,,pacake
+pacake,1347,Era7: Game of TruthERA,$0.11,-0.25%,0.144,$ 4.40M,$ 249.14K,1.25x,1.42x,17 Feb,"$1,800,000",,,,,,,,,,,,,,,,,,,Era7: Game of TruthERA,,,pacake
+trustswap,822,Opulous OPUL,$0.44,0.0032,0.0374,$ 18.12M,$ 1.47M,8.80x,149.42x,29 Jun,"$800,000",,,,,,,,,,,,,,,,,,,Opulous OPUL,,,trustswap
+trustswap,2064,StaterSTR,$0.02,-4.99%,0.16,$ 315.56K,$ 25.63K,0.41x,35.08x,15 Mar,"$45,000",,,,,,,,,,,,,,,,,,,StaterSTR,,,trustswap
+trustswap,2232,Internet of Energy NetworkIOEN,$0.01,-8.15%,-45.40%,$ 63.84K,$ 87.03K,0.43x,20.57x,7 Oct,"$235,000",,,,,,,,,,,,,,,,,,,Internet of Energy NetworkIOEN,,,trustswap
+trustswap,,KELVPNKEL,$0.01,-4.43%,-1.47%,$ 64.12K,$ 1.20K,0.08x,11.10x,11 Apr,"$108,000",,,,,,,,,,,,,,,,,,,KELVPNKEL,,,trustswap
+trustswap,,MOAR Finance MOAR,$0.09,N/A,0.0682,$ 306.14K,$624.38,0.12x,7.17x,15 Apr,"$105,125",,,,,,,,,,,,,,,,,,,MOAR Finance MOAR,,,trustswap
+trustswap,2013,Octopus ProtocolOPS,$0.02,-4.07%,0.0258,$ 412.13K,$ 49.46K,0.12x,6.83x,7 Jun,"$100,000",,,,,,,,,,,,,,,,,,,Octopus ProtocolOPS,,,trustswap
+trustswap,,YDragonYDR,$0.00,-17%,-35.60%,$ 483.35K,$ 4.93K,0.10x,2.68x,12 Aug,N/A,,,,,,,,,,,,,,,,,,,YDragonYDR,,,trustswap
+trustswap,1935,Earn GuildEARN,$0.21,0.0152,-8.51%,$ 630.04K,$ 34.16K,0.84x,2.49x,12 Dec,"$1,140,000",,,,,,,,,,,,,,,,,,,Earn GuildEARN,,,trustswap
+trustswap,1958,Vault Hill CityVHC,$0.04,-1.38%,-7.59%,$ 561.18K,$ 44.08K,0.77x,1.24x,14 Jan,"$237,500",,,,,,,,,,,,,,,,,,,Vault Hill CityVHC,,,trustswap
+trustswap,,Legion NetworkLGX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16 Feb,"$1,000,000",,,,,,,,,,,,,,,,,,,Legion NetworkLGX,,,trustswap
+EJS,2234,The KillboxKBOX,$0.00,-6.35%,-30%,$ 61.13K,$ 24.37K,0.29x,53.83x,19 Nov,"$80,000",,,,,,,,,,,,,,,,,,,The KillboxKBOX,,,EJS
+EJS,1677,PathDAOPATH,$0.03,-7.48%,-10.50%,$ 1.61M,$ 42.35K,2.23x,28.25x,2 Dec,"$125,000",,,,,,,,,,,,,,,,,,,PathDAOPATH,,,EJS
+EJS,1661,DefinaFINA,$0.52,-4.97%,-28.30%,$ 1.68M,$ 1.44M,1.30x,23.99x,10 Oct,"$100,000",,,,,,,,,,,,,,,,,,,DefinaFINA,,,EJS
+EJS,1647,KryxiviaKXA,$0.03,-2.81%,-3.08%,$ 1.77M,$ 270.68K,1.90x,22.78x,29 Nov,"$150,000",,,,,,,,,,,,,,,,,,,KryxiviaKXA,,,EJS
+EJS,,Bit HotelBTH,$0.04,-1.90%,0.197,N/A,$ 99.60K,3.62x,20.02x,6 Dec,"$200,000",,,,,,,,,,,,,,,,,,,Bit HotelBTH,,,EJS
+EJS,1657,Monster GalaxyGGM,$0.08,-13.80%,0.0262,$ 1.71M,$ 40.74K,3.25x,13.80x,14 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Monster GalaxyGGM,,,EJS
+EJS,2092,PixelVersePIXEL,$0.01,0.0064,0.0747,$ 263.70K,$ 29.44K,0.42x,13.49x,1 Nov,"$70,000",,,,,,,,,,,,,,,,,,,PixelVersePIXEL,,,EJS
+EJS,1216,SolchicksCHICKS,$0.02,-0.14%,0.0489,$ 5.93M,$ 439.25K,0.40x,13.19x,3 Dec,"$100,000",,,,,,,,,,,,,,,,,,,SolchicksCHICKS,,,EJS
+EJS,2058,Age of TanksAOT,$0.05,-6.15%,-16.80%,$ 322.28K,$ 31.95K,0.54x,13.00x,26 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Age of TanksAOT,,,EJS
+EJS,1921,RaceFiRACEFI,$0.10,-3.74%,0.0486,$ 667.42K,$ 575.10K,0.81x,11.60x,8 Dec,"$155,000",,,,,,,,,,,,,,,,,,,RaceFiRACEFI,,,EJS
+EJS,2203,ScottyBeamSCOTTY,$0.01,-1.64%,0.15,$ 96.12K,$ 161.32K,0.22x,9.55x,8 Nov,"$100,000",,,,,,,,,,,,,,,,,,,ScottyBeamSCOTTY,,,EJS
+EJS,1256,Gaia EverworldGAIA,$0.05,-0.67%,-3.61%,$ 5.45M,$ 91.88K,0.28x,8.57x,30 Oct,"$200,000",,,,,,,,,,,,,,,,,,,Gaia EverworldGAIA,,,EJS
+EJS,,OneRareORARE,$0.09,0.202,0.113,$ 128.29K,$ 12.58K,0.43x,7.55x,24 Nov,"$100,000",,,,,,,,,,,,,,,,,,,OneRareORARE,,,EJS
+EJS,,Last SurvivorLSC,$0.01,-1.66%,-22.60%,$ 253.35K,$ 11.81K,0.58x,7.51x,7 Dec,"$100,000",,,,,,,,,,,,,,,,,,,Last SurvivorLSC,,,EJS
+EJS,1904,PlayermonPYM,$0.01,0.0185,-8.14%,$ 707.33K,$ 29.59K,0.30x,6.43x,18 Nov,"$100,000",,,,,,,,,,,,,,,,,,,PlayermonPYM,,,EJS
+EJS,,Stay In Destiny WorldSIW,$0.04,-0.09%,-3.90%,$ 192.01K,$87.53,0.58x,5.82x,20 Dec,"$125,000",,,,,,,,,,,,,,,,,,,Stay In Destiny WorldSIW,,,EJS
+EJS,,ECIOECIO,$0.00,-1.17%,-3.98%,$ 169.93K,$ 2.77K,0.65x,5.54x,17 Dec,"$100,000",,,,,,,,,,,,,,,,,,,ECIOECIO,,,EJS
+EJS,,HololootHOL,$0.16,-1.51%,-11.20%,$ 472.80K,$ 13.34K,0.82x,4.55x,11 Dec,"$175,000",,,,,,,,,,,,,,,,,,,HololootHOL,,,EJS
+EJS,,Atlantis MetaverseTAU,$0.08,-3.40%,0.0698,$ 1.12M,$ 1.78K,0.68x,4.30x,6 Dec,"$105,000",,,,,,,,,,,,,,,,,,,Atlantis MetaverseTAU,,,EJS
+EJS,,GeopolyGEO,$0.01,0.133,-7.93%,$ 204.65K,$890.51,0.39x,3.76x,13 Dec,"$150,000",,,,,,,,,,,,,,,,,,,GeopolyGEO,,,EJS
+EJS,1850,ZONEZONE,$0.03,-2.44%,-13.50%,$ 919.37K,$ 19.91K,0.88x,3.42x,8 Feb,"$250,000",,,,,,,,,,,,,,,,,,,ZONEZONE,,,EJS
+EJS,1899,BattleverseBVC,$0.13,0.113,0.121,$ 727.31K,$ 103.54K,2.51x,3.30x,16 Feb,"$200,000",,,,,,,,,,,,,,,,,,,BattleverseBVC,,,EJS
+EJS,2082,Attack WagonATK,$0.01,-0.18%,0.124,$ 275.04K,$ 43.81K,0.48x,2.88x,2 Dec,"$125,000",,,,,,,,,,,,,,,,,,,Attack WagonATK,,,EJS
+EJS,,Kingdom KarnageKKT,$0.01,-7.10%,-9.28%,$ 163.02K,$ 2.41K,0.64x,2.71x,10 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Kingdom KarnageKKT,,,EJS
+EJS,2171,ZomfiZOMFI,$0.02,-12.20%,-6.01%,$ 133.84K,$ 107.98K,0.32x,2.30x,1 Dec,"$100,000",,,,,,,,,,,,,,,,,,,ZomfiZOMFI,,,EJS
+EJS,2149,WizarreSCRL,$0.00,-1.10%,0.0568,$ 165.46K,$ 61.68K,0.64x,2.12x,15 Dec,"$100,000",,,,,,,,,,,,,,,,,,,WizarreSCRL,,,EJS
+EJS,,Billionaire PlusBPLUS,$0.00,-3.80%,0.176,$ 248.95K,$ 9.57K,0.48x,1.95x,20 Dec,"$150,000",,,,,,,,,,,,,,,,,,,Billionaire PlusBPLUS,,,EJS
+EJS,,JigenJIG,$0.08,-5.23%,-13.70%,$ 228.40K,$ 1.03K,0.92x,1.79x,22 Jan,"$100,000",,,,,,,,,,,,,,,,,,,JigenJIG,,,EJS
+EJS,1931,Ancient KingdomDOM,$0.01,-2.72%,0.0554,$ 631.89K,$ 654.38K,0.76x,1.40x,11 Jan,"$70,000",,,,,,,,,,,,,,,,,,,Ancient KingdomDOM,,,EJS
+EJS,,DogeonDON,$0.01,-6.48%,-0.96%,$ 568.62K,$612.21,0.47x,1.28x,4 Jan,"$100,000",,,,,,,,,,,,,,,,,,,DogeonDON,,,EJS
+EJS,,GamestaGSG,$0.01,-0.55%,-4.32%,$ 127.34K,$46.70,0.17x,1.08x,13 Dec,N/A,,,,,,,,,,,,,,,,,,,GamestaGSG,,,EJS
+EJS,,Space MisfitsSMCW,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16 Jan,"$200,000",,,,,,,,,,,,,,,,,,,Space MisfitsSMCW,,,EJS
+EJS,,Voltage FinanceVOLT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27 Feb,"$150,000",,,,,,,,,,,,,,,,,,,Voltage FinanceVOLT,,,EJS
+EJS,,Spark EraFIRE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20 Dec,N/A,,,,,,,,,,,,,,,,,,,Spark EraFIRE,,,EJS
+EJS,,VOIDVOID,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 Dec,"$100,000",,,,,,,,,,,,,,,,,,,VOIDVOID,,,EJS
+EJS,,GeojamJAM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30 Jan,N/A,,,,,,,,,,,,,,,,,,,GeojamJAM,,,EJS
+gamestation,1654,Mouse HauntMHT,$0.76,-3.43%,-7.53%,$ 1.72M,$ 98.64K,3.79x,14.48x,19 Dec,"$99,500",,,,,,,,,,,,,,,,,,,Mouse HauntMHT,,,gamestation
+gamestation,2123,AffynFYN,$0.21,-12.80%,-20.50%,$ 211.50K,$ 183.74K,1.51x,13.17x,27 Jan,"$100,000",,,,,,,,,,,,,,,,,,,AffynFYN,,,gamestation
+gamestation,1163,War BondWBOND,$0.11,-3.12%,-19.90%,$ 6.78M,$ 481.59K,5.38x,12.26x,17 Jan,"$50,000",,,,,,,,,,,,,,,,,,,War BondWBOND,,,gamestation
+gamestation,,CryptoVsZombieCVZ,$0.01,0.0709,-30.30%,$ 106.07K,$ 5.90K,0.33x,10.16x,13 Dec,"$100,000",,,,,,,,,,,,,,,,,,,CryptoVsZombieCVZ,,,gamestation
+gamestation,2207,KingspeedKSC,$0.02,-31.40%,-39.60%,$ 88.22K,$ 26.03K,0.41x,9.95x,30 Nov,"$100,000",,,,,,,,,,,,,,,,,,,KingspeedKSC,,,gamestation
+gamestation,2204,ScottyBeamSCOTTY,$0.01,-0.36%,0.145,$ 96.48K,$ 162.41K,0.22x,9.55x,7 Nov,"$121,750",,,,,,,,,,,,,,,,,,,ScottyBeamSCOTTY,,,gamestation
+gamestation,1255,Gaia EverworldGAIA,$0.05,-0.46%,-3.55%,$ 5.46M,$ 92.20K,0.28x,8.57x,31 Oct,"$100,000",,,,,,,,,,,,,,,,,,,Gaia EverworldGAIA,,,gamestation
+gamestation,1906,PlayermonPYM,$0.01,0.0136,-8.13%,$ 707.37K,$ 29.61K,0.30x,6.43x,17 Nov,"$30,000",,,,,,,,,,,,,,,,,,,PlayermonPYM,,,gamestation
+gamestation,,Stay In Destiny WorldSIW,$0.04,-0.09%,-3.89%,$ 192.03K,$87.54,0.58x,5.82x,22 Dec,"$70,000",,,,,,,,,,,,,,,,,,,Stay In Destiny WorldSIW,,,gamestation
+gamestation,,Kitsumon$KMC,$0.00,-3.67%,-23.90%,$ 1.59M,$ 14.70K,3.19x,5.50x,6 Dec,"$150,000",,,,,,,,,,,,,,,,,,,Kitsumon$KMC,,,gamestation
+gamestation,,MetaxyMXY,$0.01,-5.90%,-4.52%,$ 324.09K,$ 6.68K,0.72x,3.87x,16 Jan,"$100,000",,,,,,,,,,,,,,,,,,,MetaxyMXY,,,gamestation
+gamestation,1901,BattleverseBVC,$0.13,0.114,0.11,$ 728.07K,$ 103.65K,2.51x,3.30x,16 Feb,"$150,000",,,,,,,,,,,,,,,,,,,BattleverseBVC,,,gamestation
+gamestation,2062,Battle of GuardiansBGS,$0.02,-1.50%,-0.08%,$ 316.79K,$ 111.87K,0.63x,2.99x,2 Jan,"$160,000",,,,,,,,,,,,,,,,,,,Battle of GuardiansBGS,,,gamestation
+gamestation,2247,DopeWarzDRUG,$0.00,-11%,-28.30%,$ 47.96K,$ 27.04K,0.16x,2.88x,29 Nov,"$200,000",,,,,,,,,,,,,,,,,,,DopeWarzDRUG,,,gamestation
+gamestation,1795,Himo WorldHIMO,$0.05,-0.84%,0.138,$ 1.10M,$ 97.07K,1.26x,2.61x,18 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Himo WorldHIMO,,,gamestation
+gamestation,,Dot ArcadeADT,$0.18,-4.03%,0.0619,$ 294.55K,$ 4.63K,1.47x,2.55x,11 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Dot ArcadeADT,,,gamestation
+gamestation,2172,ZomfiZOMFI,$0.02,-12.30%,-6.81%,$ 133.67K,$ 107.99K,0.32x,2.30x,1 Dec,"$150,000",,,,,,,,,,,,,,,,,,,ZomfiZOMFI,,,gamestation
+gamestation,2150,WizarreSCRL,$0.00,-2.01%,0.062,$ 165.47K,$ 61.60K,0.64x,2.12x,14 Dec,"$122,500",,,,,,,,,,,,,,,,,,,WizarreSCRL,,,gamestation
+gamestation,1586,Endless BattlefieldEB,$0.13,-6.46%,N/A,$ 2.08M,$ 162.13K,0.64x,1.83x,23 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Endless BattlefieldEB,,,gamestation
+gamestation,,JigenJIG,$0.08,-5.22%,-14.70%,$ 228.38K,$ 1.11K,0.92x,1.79x,19 Jan,"$100,000",,,,,,,,,,,,,,,,,,,JigenJIG,,,gamestation
+gamestation,1894,MetagamZMETAG,$0.00,-12.30%,N/A,$ 763.18K,$ 156.59K,0.95x,1.13x,14 Feb,"$100,000",,,,,,,,,,,,,,,,,,,MetagamZMETAG,,,gamestation
+gamestation,,HinataHINATA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15 Dec,"$294,000",,,,,,,,,,,,,,,,,,,HinataHINATA,,,gamestation
+gamestation,,MetamallMALL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6 Feb,"$100,000",,,,,,,,,,,,,,,,,,,MetamallMALL,,,gamestation
+duck,1721,BeyondFiBYN,$0.16,-3.86%,0.154,$ 1.39M,$ 233.62K,0.32x,174.97x,11 Apr,"$146,250",,,,,,,,,,,,,,,,,,,BeyondFiBYN,,,duck
+duck,,Wanaka FarmWANA,$0.09,-1.20%,-7.89%,$ 1.90M,$ 12.29K,2.24x,155.03x,28 Aug,"$95,000",,,,,,,,,,,,,,,,,,,Wanaka FarmWANA,,,duck
+duck,1824,Dreams QuestDREAMS,$0.02,-10.80%,0.0681,$ 1.02M,$ 184.02K,1.41x,152.65x,13 Oct,"$47,500",,,,,,,,,,,,,,,,,,,Dreams QuestDREAMS,,,duck
+duck,,TotemFiTOTM,$0.10,-1.90%,0.0055,$ 66.31K,$ 11.67K,0.44x,122.67x,5 Apr,"$81,250",,,,,,,,,,,,,,,,,,,TotemFiTOTM,,,duck
+duck,,TryHardsTRY,$0.05,-3.65%,-2.78%,$ 581.39K,$ 7.62K,0.56x,71.50x,17 Nov,"$137,750",,,,,,,,,,,,,,,,,,,TryHardsTRY,,,duck
+duck,2012,Shadows NetworkDOWS,$0.06,0.0426,0.11,$ 413.79K,$ 18.73K,0.45x,34.76x,1 Mar,"$125,000",,,,,,,,,,,,,,,,,,,Shadows NetworkDOWS,,,duck
+duck,723,PolkaFoundry PKF,$0.64,0.0041,0.0924,$ 24.67M,$ 290.29K,6.42x,29.09x,15 Mar,"$100,000",,,,,,,,,,,,,,,,,,,PolkaFoundry PKF,,,duck
+duck,1239,Monsta InfiniteMONI,$0.29,-4.10%,0.171,$ 5.71M,$ 441.45K,1.44x,24.31x,15 Sep,"$47,500",,,,,,,,,,,,,,,,,,,Monsta InfiniteMONI,,,duck
+duck,1697,Raze NetworkRAZE,$0.02,-11%,-2.34%,$ 1.49M,$ 389.27K,0.09x,23.87x,12 Apr,"$95,062",,,,,,,,,,,,,,,,,,,Raze NetworkRAZE,,,duck
+duck,1232,LABS GroupLABS,$0.00,0.0016,0.0372,$ 5.81M,$ 307.35K,0.46x,23.82x,6 Mar,"$200,000",,,,,,,,,,,,,,,,,,,LABS GroupLABS,,,duck
+duck,1495,FranklinFLy,$0.01,-0.41%,0.122,$ 2.84M,$ 447.72K,0.23x,23.58x,13 Apr,"$97,500",,,,,,,,,,,,,,,,,,,FranklinFLy,,,duck
+duck,,Vortex DeFiVTX,$0.00,-11.70%,-6.37%,$ 146.83K,$ 2.71K,0.12x,20.48x,27 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Vortex DeFiVTX,,,duck
+duck,,EboxEBOX,$0.03,N/A,N/A,$ 765.57K,$544.60,0.48x,19.31x,24 Mar,"$89,375",,,,,,,,,,,,,,,,,,,EboxEBOX,,,duck
+duck,,DePocketDEPO,$0.12,0.0854,0.102,$ 283.12K,$ 8.81K,0.49x,19.16x,29 Nov,"$161,500",,,,,,,,,,,,,,,,,,,DePocketDEPO,,,duck
+duck,902,O3 SwapO3,$0.40,-12.30%,-6.27%,$ 14.30M,$ 992.91K,0.40x,18.63x,12 May,"$292,000",,,,,,,,,,,,,,,,,,,O3 SwapO3,,,duck
+duck,1546,Cook ProtocolCOOK,$0.00,-7.15%,0.0631,$ 2.42M,$ 126.50K,0.09x,15.92x,30 Mar,"$128,700",,,,,,,,,,,,,,,,,,,Cook ProtocolCOOK,,,duck
+duck,1655,disBalancerDDOS,$0.29,-4.54%,0.24,$ 1.72M,$ 122.34K,0.57x,15.15x,14 Apr,"$97,500",,,,,,,,,,,,,,,,,,,disBalancerDDOS,,,duck
+duck,1510,RocketXRVF,$0.04,0.0526,0.0494,$ 2.69M,$ 25.97K,0.53x,14.81x,11 Apr,"$112,125",,,,,,,,,,,,,,,,,,,RocketXRVF,,,duck
+duck,,Ramifi ProtocolRAM,$0.05,0.0305,-2.32%,$ 18.09K,$ 7.31K,0.05x,14.12x,29 Mar,"$99,000",,,,,,,,,,,,,,,,,,,Ramifi ProtocolRAM,,,duck
+duck,,AMPnetAAPX,$0.33,-5.47%,0.0657,$ 81.66K,$652.21,0.13x,13.51x,7 Mar,"$400,000",,,,,,,,,,,,,,,,,,,AMPnetAAPX,,,duck
+duck,1836,UnifarmUFARM,$0.01,0.0083,-2.80%,$ 981.67K,$ 37.10K,0.29x,11.04x,18 Apr,"$97,500",,,,,,,,,,,,,,,,,,,UnifarmUFARM,,,duck
+duck,2177,HurricaneSwap TokenHCT,$0.01,-10.20%,-17.50%,$ 129.81K,$ 142.41K,0.22x,10.36x,25 Sep,"$95,000",,,,,,,,,,,,,,,,,,,HurricaneSwap TokenHCT,,,duck
+duck,,CollateralCOLL,$0.05,N/A,0.0424,$ 355.65K,$ 1.57K,0.13x,9.91x,30 Mar,"$150,000",,,,,,,,,,,,,,,,,,,CollateralCOLL,,,duck
+duck,,GameStarGMS,$0.00,-9.55%,-26.80%,N/A,$ 69.19K,0.12x,9.22x,19 Oct,"$95,000",,,,,,,,,,,,,,,,,,,GameStarGMS,,,duck
+duck,2218,FanadiseFAN,$0.01,-5.77%,-10.50%,$ 74.10K,$ 38.46K,0.12x,9.08x,28 Jul,"$105,000",,,,,,,,,,,,,,,,,,,FanadiseFAN,,,duck
+duck,777,DoraFactoryDORA,$5.70,-7.39%,0.255,$ 20.50M,$ 9.60M,0.71x,8.36x,20 Mar,"$100,000",,,,,,,,,,,,,,,,,,,DoraFactoryDORA,,,duck
+duck,1451,PolkaWarPWAR,$0.11,-3.69%,0.0281,$ 3.22M,$ 144.68K,0.73x,8.07x,26 Jun,"$78,000",,,,,,,,,,,,,,,,,,,PolkaWarPWAR,,,duck
+duck,1904,True P&LPNL,$0.07,-0.98%,-6.67%,$ 710.45K,$ 24.48K,0.82x,7.78x,17 May,"$97,500",,,,,,,,,,,,,,,,,,,True P&LPNL,,,duck
+duck,,keyTangoTANGO,$0.03,N/A,0.0728,$ 471.45K,$ 2.43K,0.07x,7.69x,10 Mar,"$200,000",,,,,,,,,,,,,,,,,,,keyTangoTANGO,,,duck
+duck,,MetaBrandsMAGE,$0.14,-6.53%,0.542,$ 892.79K,$ 1.63K,1.41x,6.66x,30 Nov,"$95,000",,,,,,,,,,,,,,,,,,,MetaBrandsMAGE,,,duck
+duck,2196,DeSpace ProtocolDES,$0.05,-0.26%,-10.30%,$ 98.48K,$ 94.44K,0.15x,6.57x,19 Sep,"$73,125",,,,,,,,,,,,,,,,,,,DeSpace ProtocolDES,,,duck
+duck,,CryptonovaeYAE,$0.03,-3.62%,0.0392,$ 1.70M,$124.01,0.43x,6.23x,8 Apr,"$120,000",,,,,,,,,,,,,,,,,,,CryptonovaeYAE,,,duck
+duck,,ImpulseVenVEN,$0.39,0.0008,0.0371,$ 330.46K,N/A,0.52x,4.77x,22 Mar,"$112,500",,,,,,,,,,,,,,,,,,,ImpulseVenVEN,,,duck
+duck,1018,HoDooiHOD,$0.05,-4.54%,0.0076,$ 9.98M,$ 695.57K,1.09x,4.69x,13 Jun,"$243,750",,,,,,,,,,,,,,,,,,,HoDooiHOD,,,duck
+duck,2258,GovWorldGOV,$0.06,-0.75%,-11.10%,$ 33.78K,$ 114.58K,0.70x,3.84x,15 Nov,"$97,500",,,,,,,,,,,,,,,,,,,GovWorldGOV,,,duck
+duck,,Lepricon L3P,$0.00,-1.72%,0.0836,$ 772.81K,$ 8.97K,0.09x,3.51x,16 Mar,"$150,000",,,,,,,,,,,,,,,,,,,Lepricon L3P,,,duck
+duck,,MelalieMEL,$0.01,-0.21%,N/A,$ 350.95K,N/A,0.08x,3.32x,20 Apr,"$100,000",,,,,,,,,,,,,,,,,,,MelalieMEL,,,duck
+duck,,X ProtocolPOT,$0.23,0.0411,0.0134,N/A,$ 133.64K,0.15x,3.26x,4 Nov,"$100,000",,,,,,,,,,,,,,,,,,,X ProtocolPOT,,,duck
+duck,,Soccer HubSCH,$0.00,-1.01%,-6%,$ 190.86K,$32.12,0.16x,3.06x,28 Sep,"$76,000",,,,,,,,,,,,,,,,,,,Soccer HubSCH,,,duck
+duck,1558,PERI FinancePERI,$0.34,-4.34%,-28.60%,$ 2.34M,$ 1.20M,0.10x,2.86x,9 May,"$102,350",,,,,,,,,,,,,,,,,,,PERI FinancePERI,,,duck
+duck,1533,Marvelous NFTsMNFT,$0.24,-2.71%,-5.43%,$ 2.48M,$ 116.61K,2.01x,2.71x,4 Jan,"$150,000",,,,,,,,,,,,,,,,,,,Marvelous NFTsMNFT,,,duck
+duck,2267,Battle SagaBTL,$0.04,0.0057,0.183,$ 24.98K,$ 182.76K,0.35x,2.22x,23 Dec,"$114,000",,,,,,,,,,,,,,,,,,,Battle SagaBTL,,,duck
+duck,,PicipoPICIPO,$0.02,-9.70%,-8.91%,$ 45.62K,$ 4.52K,0.19x,2.15x,3 Oct,"$95,000",,,,,,,,,,,,,,,,,,,PicipoPICIPO,,,duck
+duck,2150,WizarreSCRL,$0.00,-1.54%,0.0671,$ 166.26K,$ 61.90K,0.64x,2.12x,13 Dec,"$118,750",,,,,,,,,,,,,,,,,,,WizarreSCRL,,,duck
+duck,1760,ShoeFySHOE,$0.06,-1.27%,-5.09%,$ 1.24M,$ 77.93K,0.16x,1.98x,12 Oct,"$142,500",,,,,,,,,,,,,,,,,,,ShoeFySHOE,,,duck
+duck,,Flash LoansFLASH,$0.01,-3.05%,-1.15%,$ 237.50K,$ 3.64K,0.16x,1.97x,31 Oct,"$100,000",,,,,,,,,,,,,,,,,,,Flash LoansFLASH,,,duck
+duck,,Crypto PuzzlesCPTE,$0.02,0.0032,-19.30%,N/A,N/A,0.30x,1.66x,2 May,"$150,000",,,,,,,,,,,,,,,,,,,Crypto PuzzlesCPTE,,,duck
+duck,,Daisy ProtocolDAISY,$0.16,0.0511,0.154,N/A,$ 7.63K,0.03x,1.37x,15 Aug,"$34,125",,,,,,,,,,,,,,,,,,,Daisy ProtocolDAISY,,,duck
+duck,2011,Teneo FinanceTEN,$0.10,-4.58%,0.318,$ 414.50K,$ 221.84K,1.03x,1.12x,14 Feb,"$92,625",,,,,,,,,,,,,,,,,,,Teneo FinanceTEN,,,duck
+duck,2248,Defly BallDEFLY,$0.02,0.1,-1.97%,$ 46.96K,$ 30.66K,0.17x,1.07x,10 Dec,"$95,000",,,,,,,,,,,,,,,,,,,Defly BallDEFLY,,,duck
+duck,,The Force TradeFOC,$0.00,-0.29%,-9.98%,$ 82.09K,$ 14.63K,0.02x,1.01x,3 May,"$292,500",,,,,,,,,,,,,,,,,,,The Force TradeFOC,,,duck
+duck,,BESTBEST,$0.50,0.002,0.0316,$ 89.38K,$ 3.27K,0.06x,0.89x,29 Apr,"$78,000",,,,,,,,,,,,,,,,,,,BESTBEST,,,duck
+duck,,DeFiCityDFC,$0.00,0.297,0.303,$ 22.93K,$57.14,0.02x,0.82x,15 Jul,"$78,000",,,,,,,,,,,,,,,,,,,DeFiCityDFC,,,duck
+duck,2161,HashtaggerMOOO,$0.13,-2.36%,-11%,$ 145.73K,$ 16.32K,0.16x,0.81x,12 Dec,"$114,000",,,,,,,,,,,,,,,,,,,HashtaggerMOOO,,,duck
+duck,2217,Tales of ChainTALE,$0.00,-24.30%,-43.70%,$ 74.64K,$ 291.56K,0.16x,0.59x,14 Dec,N/A,,,,,,,,,,,,,,,,,,,Tales of ChainTALE,,,duck
+duck,,Octane FinanceOCTANE,$0.01,-3.60%,-36.40%,$ 58.99K,$672.43,0.04x,0.58x,20 Sep,"$48,750",,,,,,,,,,,,,,,,,,,Octane FinanceOCTANE,,,duck
+duck,2222,Gadget WarGWAR,$0.00,-4.69%,-10.10%,$ 68.54K,$ 99.14K,0.27x,0.56x,8 Dec,"$47,500",,,,,,,,,,,,,,,,,,,Gadget WarGWAR,,,duck
+duck,,Crypto PuzzlesCPTB,$0.00,0,N/A,N/A,N/A,0.05x,0.28x,2 May,"$150,000",,,,,,,,,,,,,,,,,,,Crypto PuzzlesCPTB,,,duck
+duck,,SEORSEOR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25 Jan,"$58,500",,,,,,,,,,,,,,,,,,,SEORSEOR,,,duck
+duck,,VOIDVOID,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11 Dec,"$156,750",,,,,,,,,,,,,,,,,,,VOIDVOID,,,duck
+zendit,1720,BeyondFiBYN,$0.16,-3.85%,0.155,$ 1.39M,$ 232.64K,0.32x,174.97x,11 Apr,"$50,000",,,,,,,,,,,,,,,,,,,BeyondFiBYN,,,zendit
+zendit,1342,MyDeFiPetDPET,$0.37,-3.78%,0.0186,$ 4.44M,$ 364.04K,4.58x,128.76x,26 Apr,"$50,000",,,,,,,,,,,,,,,,,,,MyDeFiPetDPET,,,zendit
+zendit,922,ClearpoolCPOOL,$0.25,-8.78%,-1.27%,$ 13.27M,$ 1.12M,6.25x,63.18x,27 Oct,"$40,000",,,,,,,,,,,,,,,,,,,ClearpoolCPOOL,,,zendit
+zendit,1695,Raze NetworkRAZE,$0.02,-10.30%,-2.75%,$ 1.49M,$ 389.41K,0.22x,59.67x,8 Apr,"$50,000",,,,,,,,,,,,,,,,,,,Raze NetworkRAZE,,,zendit
+zendit,944,TorumXTM,$0.18,-2.97%,0.008,$ 12.48M,$ 763.62K,2.94x,40.37x,13 Sep,"$150,000",,,,,,,,,,,,,,,,,,,TorumXTM,,,zendit
+zendit,,Gains AssociatesGAINS,$0.36,-3.27%,-1.50%,$ 12.31M,$ 1.99K,7.20x,38.26x,5 Apr,"$100,000",,,,,,,,,,,,,,,,,,,Gains AssociatesGAINS,,,zendit
+zendit,670,Singularity DAOSDAO,$0.78,0.0092,0.105,$ 30.31M,$ 665.20K,3.90x,33.04x,5 May,"$1,600,000",,,,,,,,,,,,,,,,,,,Singularity DAOSDAO,,,zendit
+zendit,716,PolkaFoundry PKF,$0.65,0.0222,0.111,$ 25.12M,$ 294.88K,6.53x,29.09x,15 Mar,"$25,000",,,,,,,,,,,,,,,,,,,PolkaFoundry PKF,,,zendit
+zendit,2099,GameStationGAMER,$0.08,-8.57%,-12.80%,$ 256.92K,$ 20.83K,0.76x,28.86x,27 Oct,"$120,000",,,,,,,,,,,,,,,,,,,GameStationGAMER,,,zendit
+zendit,,FinminityFMT,$0.07,-2.75%,0.0722,$ 179.98K,N/A,0.12x,16.03x,6 Apr,"$85,500",,,,,,,,,,,,,,,,,,,FinminityFMT,,,zendit
+zendit,1845,CirusCIRUS,$0.25,0.0624,0.206,$ 949.34K,$ 2.89M,1.90x,13.20x,16 Aug,"$100,000",,,,,,,,,,,,,,,,,,,CirusCIRUS,,,zendit
+zendit,1217,SolchicksCHICKS,$0.02,-0.13%,0.0489,$ 5.93M,$ 439.32K,0.40x,13.19x,17 Nov,"$150,000",,,,,,,,,,,,,,,,,,,SolchicksCHICKS,,,zendit
+zendit,1835,UnifarmUFARM,$0.01,0.0014,-3.55%,$ 977.41K,$ 36.95K,0.29x,11.04x,22 Apr,"$75,000",,,,,,,,,,,,,,,,,,,UnifarmUFARM,,,zendit
+zendit,1946,GamyFiGFX,$0.35,-8.91%,-3.51%,$ 595.43K,$ 83.09K,0.35x,10.18x,28 Mar,"$40,000",,,,,,,,,,,,,,,,,,,GamyFiGFX,,,zendit
+zendit,827,Media Industry Licensing ContentMLT,$0.19,-7.99%,0.664,$ 17.62M,$ 272.91K,2.10x,10.17x,16 May,"$100,000",,,,,,,,,,,,,,,,,,,Media Industry Licensing ContentMLT,,,zendit
+zendit,,TrodlTRO,$0.00,-0.29%,0.0818,$ 317.51K,N/A,0.53x,9.90x,5 Apr,"$90,000",,,,,,,,,,,,,,,,,,,TrodlTRO,,,zendit
+zendit,,PolkaPetsPETS,$0.05,-0.22%,-20.30%,$ 162.66K,$ 5.34K,0.18x,8.57x,25 Oct,"$50,000",,,,,,,,,,,,,,,,,,,PolkaPetsPETS,,,zendit
+zendit,1550,BlockBankBBANK,$0.03,-7.86%,-0.40%,$ 2.39M,$ 69.55K,0.30x,7.06x,27 Apr,"$400,000",,,,,,,,,,,,,,,,,,,BlockBankBBANK,,,zendit
+zendit,2148,Skyrim FinanceSKYRIM,$0.00,-9.05%,-25%,$ 172.87K,$ 23.20K,0.05x,5.81x,1 Sep,"$120,000",,,,,,,,,,,,,,,,,,,Skyrim FinanceSKYRIM,,,zendit
+zendit,999,EQIFIEQX,$0.09,-5.66%,-1.39%,$ 10.50M,$ 215.18K,0.57x,4.97x,4 Aug,"$93,750",,,,,,,,,,,,,,,,,,,EQIFIEQX,,,zendit
+zendit,,WeldWELD,$0.02,-13.30%,-27.60%,N/A,$ 39.58K,0.32x,4.58x,6 Oct,"$120,000",,,,,,,,,,,,,,,,,,,WeldWELD,,,zendit
+zendit,1210,AldrinRIN,$1.31,-1.04%,0.0367,$ 6.09M,$ 95.40K,0.66x,3.80x,8 Jun,"$500,000",,,,,,,,,,,,,,,,,,,AldrinRIN,,,zendit
+zendit,2016,Sway SocialSWAY,$0.03,0.0008,-0.59%,$ 409.12K,$ 16.39K,0.41x,3.61x,6 Oct,"$35,000",,,,,,,,,,,,,,,,,,,Sway SocialSWAY,,,zendit
+zendit,,WIVAWIVA,$0.04,-6.28%,0.0183,$ 3.15M,$ 4.39K,0.90x,3.53x,1 Sep,"$100,000",,,,,,,,,,,,,,,,,,,WIVAWIVA,,,zendit
+zendit,,MelalieMEL,$0.01,-0.21%,N/A,$ 350.95K,N/A,0.08x,3.32x,20 Apr,"$50,000",,,,,,,,,,,,,,,,,,,MelalieMEL,,,zendit
+zendit,,KwikswapKWIK,$0.01,0.0045,-16.80%,$ 131.39K,N/A,0.06x,2.94x,18 May,"$200,000",,,,,,,,,,,,,,,,,,,KwikswapKWIK,,,zendit
+zendit,,B-cube.ai BCUBE,$0.14,N/A,0.0068,$ 2.78M,$ 1.35K,0.69x,2.89x,29 May,"$250,000",,,,,,,,,,,,,,,,,,,B-cube.ai BCUBE,,,zendit
+zendit,1945,CryptoTycoon CTT,$7.63,-9.08%,0.0027,$ 598.47K,$ 52.68K,0.25x,2.48x,23 May,"$300,000",,,,,,,,,,,,,,,,,,,CryptoTycoon CTT,,,zendit
+zendit,,PolarsPOL,$0.02,0.0001,-2.65%,$ 36.11K,N/A,0.11x,2.16x,24 May,"$70,000",,,,,,,,,,,,,,,,,,,PolarsPOL,,,zendit
+zendit,,X22X22,$0.02,-1.40%,-6.26%,$ 29.94K,$760.10,0.04x,2.16x,5 Jul,"$100,000",,,,,,,,,,,,,,,,,,,X22X22,,,zendit
+zendit,2163,Alium SwapALM,$0.04,-3.41%,0.032,$ 144.80K,$ 135.23K,0.14x,2.08x,27 May,"$300,000",,,,,,,,,,,,,,,,,,,Alium SwapALM,,,zendit
+zendit,,DNFT ProtocolDNF,$0.04,-1.10%,-4.92%,N/A,$ 111.69K,0.13x,1.14x,30 Jun,"$250,000",,,,,,,,,,,,,,,,,,,DNFT ProtocolDNF,,,zendit
+zendit,,GreenheartCBD,$0.02,-2.84%,-8.16%,$ 184.12K,$ 1.19K,0.20x,0.96x,4 May,"$150,000",,,,,,,,,,,,,,,,,,,GreenheartCBD,,,zendit
+zendit,1452,BitspawnSPWN,$0.00,0.0181,-3.43%,$ 3.22M,$ 247.03K,0.30x,0.83x,20 Jun,"$100,000",,,,,,,,,,,,,,,,,,,BitspawnSPWN,,,zendit
+zendit,,EmiSwapESW,$0.01,-3.76%,0.0095,$ 117.25K,$ 8.14K,0.05x,0.60x,28 Jun,"$150,000",,,,,,,,,,,,,,,,,,,EmiSwapESW,,,zendit
+zendit,,Octane FinanceOCTANE,$0.01,-3.60%,-36.40%,$ 58.99K,$672.40,0.04x,0.57x,20 Sep,"$150,000",,,,,,,,,,,,,,,,,,,Octane FinanceOCTANE,,,zendit
+zendit,,Egoras RightsEGR,$0.00,-0.24%,0.0613,N/A,$ 200.30K,0.07x,0.45x,2 Jun,"$200,000",,,,,,,,,,,,,,,,,,,Egoras RightsEGR,,,zendit
+zendit,,HinataHINATA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17 Dec,"$300,000",,,,,,,,,,,,,,,,,,,HinataHINATA,,,zendit
+moonSTART,2096,MINE NetworkMNET,$0.01,0.0081,0.0252,$ 260.10K,$ 294.09K,1.19x,56.94x,24 Nov,"$150,000",,,,,,,,,,,,,,,,,,,MINE NetworkMNET,,,moonSTART
+moonSTART,1610,Good Games GuildGGG,$1.47,-4.57%,0.0635,$ 1.91M,$ 398.80K,4.92x,55.95x,1 Nov,"$35,000",,,,,,,,,,,,,,,,,,,Good Games GuildGGG,,,moonSTART
+moonSTART,1492,Nakamoto GamesNAKA,$0.47,-6.66%,0.222,$ 2.84M,$ 2.01M,2.63x,37.15x,29 Sep,"$120,000",,,,,,,,,,,,,,,,,,,Nakamoto GamesNAKA,,,moonSTART
+moonSTART,1923,GamerseLFG,$0.01,0.0746,-0.54%,$ 659.48K,$ 77.52K,0.63x,29.18x,27 Oct,"$70,000",,,,,,,,,,,,,,,,,,,GamerseLFG,,,moonSTART
+moonSTART,1237,Monsta InfiniteMONI,$0.29,-4.23%,0.168,$ 5.71M,$ 436.68K,1.44x,24.31x,15 Sep,"$80,000",,,,,,,,,,,,,,,,,,,Monsta InfiniteMONI,,,moonSTART
+moonSTART,1128,The HUSLHUSL,$0.86,-6.50%,-4.73%,$ 7.49M,$ 133.94K,3.44x,17.60x,22 Sep,"$75,000",,,,,,,,,,,,,,,,,,,The HUSLHUSL,,,moonSTART
+moonSTART,1846,MetarunMRUN,$0.04,0.0302,N/A,$ 936.69K,$ 79.38K,1.41x,14.37x,20 Feb,"$75,000",,,,,,,,,,,,,,,,,,,MetarunMRUN,,,moonSTART
+moonSTART,1076,Space FalconFCON,$0.00,-0.41%,0.0386,$ 8.55M,$ 391.08K,1.61x,9.50x,20 Jan,"$70,000",,,,,,,,,,,,,,,,,,,Space FalconFCON,,,moonSTART
+moonSTART,2257,Creator PlatformCTR,$0.03,-11.10%,-12.80%,$ 33.99K,$ 57.66K,0.26x,7.92x,7 Sep,"$100,000",,,,,,,,,,,,,,,,,,,Creator PlatformCTR,,,moonSTART
+moonSTART,,Bright Union BRIGHT,$0.07,-4.61%,0.263,$ 1.23M,$ 1.03K,0.75x,7.26x,4 Aug,"$50,000",,,,,,,,,,,,,,,,,,,Bright Union BRIGHT,,,moonSTART
+moonSTART,,SportsIconICONS,$0.14,-1.10%,-10.10%,$ 169.96K,$ 13.07K,0.18x,6.97x,23 Nov,"$170,000",,,,,,,,,,,,,,,,,,,SportsIconICONS,,,moonSTART
+moonSTART,,Stay In Destiny WorldSIW,$0.04,-0.09%,-3.90%,$ 192.02K,$87.54,0.58x,5.82x,12 Dec,"$75,000",,,,,,,,,,,,,,,,,,,Stay In Destiny WorldSIW,,,moonSTART
+moonSTART,2204,NftyPlayPOLO,$0.00,-6%,-3.32%,$ 95.74K,$ 44.12K,0.25x,4.41x,1 Aug,"$63,000",,,,,,,,,,,,,,,,,,,NftyPlayPOLO,,,moonSTART
+moonSTART,,Rise of DefendersRDR,$0.02,-3.20%,-17.20%,$ 1.31M,$ 13.59K,0.43x,3.73x,28 Dec,"$100,000",,,,,,,,,,,,,,,,,,,Rise of DefendersRDR,,,moonSTART
+moonSTART,2185,Vulture PeakVPK,$0.52,0.061,0.113,$ 116.62K,$ 94.93K,1.48x,2.30x,10 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Vulture PeakVPK,,,moonSTART
+moonSTART,1759,ShoeFySHOE,$0.06,-1.36%,-5.30%,$ 1.23M,$ 77.86K,0.16x,1.98x,11 Oct,"$70,000",,,,,,,,,,,,,,,,,,,ShoeFySHOE,,,moonSTART
+moonSTART,1984,Pirate X PiratePXP,$0.02,-8.29%,0.0117,$ 488.19K,$ 245.72K,1.20x,1.96x,17 Feb,"$200,000",,,,,,,,,,,,,,,,,,,Pirate X PiratePXP,,,moonSTART
+moonSTART,,Billionaire PlusBPLUS,$0.00,-3.78%,0.202,$ 248.98K,$ 9.57K,0.48x,1.95x,22 Dec,"$150,000",,,,,,,,,,,,,,,,,,,Billionaire PlusBPLUS,,,moonSTART
+moonSTART,,SUPA FoundationSUPA,$0.04,-3.92%,-33.20%,$ 177.81K,$ 10.35K,0.44x,1.73x,27 Dec,"$200,000",,,,,,,,,,,,,,,,,,,SUPA FoundationSUPA,,,moonSTART
+moonSTART,1959,Vault Hill CityVHC,$0.04,-1.31%,-7.53%,$ 561.57K,$ 44.09K,0.77x,1.24x,12 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Vault Hill CityVHC,,,moonSTART
+moonSTART,,Cheesus DeFiCHEESUS,$0.01,-6.43%,-39.10%,$ 43.75K,$ 6.25K,0.14x,1.24x,19 Nov,"$70,000",,,,,,,,,,,,,,,,,,,Cheesus DeFiCHEESUS,,,moonSTART
+moonSTART,2013,Teneo FinanceTEN,$0.10,-5.19%,0.309,$ 411.83K,$ 218.36K,1.02x,1.12x,16 Feb,"$100,000",,,,,,,,,,,,,,,,,,,Teneo FinanceTEN,,,moonSTART
+moonSTART,,NFT4Play4PLAY,$0.00,-3.32%,-16.10%,$ 97.25K,$ 3.77K,0.34x,0.98x,3 Feb,N/A,,,,,,,,,,,,,,,,,,,NFT4Play4PLAY,,,moonSTART,4PLAY
+moonSTART,,CryptoPuntPUN,$0.00,-8.84%,N/A,$ 12.92K,$545.21,0.01x,0.81x,14 Oct,"$80,000",,,,,,,,,,,,,,,,,,,CryptoPuntPUN,,,moonSTART
+moonSTART,2217,Tales of ChainTALE,$0.00,-24.30%,-43.70%,$ 74.64K,$ 291.54K,0.16x,0.59x,27 Dec,N/A,,,,,,,,,,,,,,,,,,,Tales of ChainTALE,,,moonSTART
+moonSTART,2223,Gadget WarGWAR,$0.00,-4.68%,-10.30%,$ 68.56K,$ 99.22K,0.27x,0.56x,14 Dec,"$65,000",,,,,,,,,,,,,,,,,,,Gadget WarGWAR,,,moonSTART
+moonSTART,,BeamSwapGLINT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15 Jan,"$100,000",,,,,,,,,,,,,,,,,,,BeamSwapGLINT,,,moonSTART
+moonSTART,,Galaxy BlitzMIT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Galaxy BlitzMIT,,,moonSTART
+moonSTART,,11MinutesELVN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6 Jan,"$150,000",,,,,,,,,,,,,,,,,,,11MinutesELVN,,,moonSTART
+moonSTART,,IotexpadTEX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2 Dec,"$35,000",,,,,,,,,,,,,,,,,,,IotexpadTEX,,,moonSTART
+moonSTART,,VOIDVOID,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13 Dec,"$100,000",,,,,,,,,,,,,,,,,,,VOIDVOID,,,moonSTART
+moonSTART,,Nest ArcadeNEST,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1 Mar,"$100,000",,,,,,,,,,,,,,,,,,,Nest ArcadeNEST,,,moonSTART
+moonSTART,,Universe IslandUIM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23 Dec,"$100,000",,,,,,,,,,,,,,,,,,,Universe IslandUIM,,,moonSTART
+moonSTART,,GameUpGMU,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2 Feb,N/A,,,,,,,,,,,,,,,,,,,GameUpGMU,,,moonSTART
+moonSTART,,UpOnlyUPO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18 Dec,N/A,,,,,,,,,,,,,,,,,,,UpOnlyUPO,,,moonSTART
+moonSTART,,MetamallMALL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9 Feb,"$100,000",,,,,,,,,,,,,,,,,,,MetamallMALL,,,moonSTART
+synapse,1492,Nakamoto GamesNAKA,$0.47,-6.66%,0.222,$ 2.84M,$ 2.01M,2.63x,37.18x,30 Sep,"$50,000",,,,,,,,,,,,,,,,,,,Nakamoto GamesNAKA,,,synapse
+synapse,1108,Cherry NetworkCHER,$0.10,0.0186,0.108,$ 8.01M,$ 205.87K,2.78x,14.11x,14 Dec,"$125,000",,,,,,,,,,,,,,,,,,,Cherry NetworkCHER,,,synapse
+synapse,1217,SolchicksCHICKS,$0.02,-0.14%,0.048,$ 5.93M,$ 439.30K,0.40x,13.19x,23 Nov,"$400,000",,,,,,,,,,,,,,,,,,,SolchicksCHICKS,,,synapse
+synapse,2165,AnomusANOMUS,$0.00,-3.25%,-18%,$ 140.95K,$ 85.82K,0.14x,11.46x,19 Nov,"$120,000",,,,,,,,,,,,,,,,,,,AnomusANOMUS,,,synapse
+synapse,,DecentraWebDWEB,$0.13,0.014,0.0165,$ 823.99K,$ 3.69K,1.12x,10.64x,9 Oct,"$300,000",,,,,,,,,,,,,,,,,,,DecentraWebDWEB,,,synapse
+synapse,,One RingRING,$1.62,0.114,0.0808,N/A,$ 133.49K,3.24x,9.52x,14 Jan,"$300,000",,,,,,,,,,,,,,,,,,,One RingRING,,,synapse
+synapse,1813,Age of GodsAOG,$0.11,-7.62%,-24.30%,$ 1.05M,$ 275.60K,1.13x,8.97x,21 Dec,"$80,000",,,,,,,,,,,,,,,,,,,Age of GodsAOG,,,synapse
+synapse,,FOMO Chronicles MangaOTAKU,$0.00,-4.23%,-2.66%,$ 49.47K,$ 1.45K,0.19x,7.57x,3 Oct,"$200,000",,,,,,,,,,,,,,,,,,,FOMO Chronicles MangaOTAKU,,,synapse
+synapse,1488,Faith TribeFTRB,$0.06,-1.36%,0.247,$ 2.88M,$ 169.87K,5.54x,7.17x,22 Feb,"$50,000",,,,,,,,,,,,,,,,,,,Faith TribeFTRB,,,synapse
+synapse,,HololootHOL,$0.16,-1.51%,-11.20%,$ 472.86K,$ 13.34K,0.82x,4.55x,4 Dec,"$175,000",,,,,,,,,,,,,,,,,,,HololootHOL,,,synapse
+synapse,1454,NiftifyNIFT,$0.07,-0.50%,-0.74%,$ 3.22M,$ 52.82K,0.27x,2.85x,17 Nov,"$150,000",,,,,,,,,,,,,,,,,,,NiftifyNIFT,,,synapse
+synapse,2266,Battle SagaBTL,$0.04,0.0142,0.186,$ 25.13K,$ 184.69K,0.35x,2.22x,17 Dec,"$130,000",,,,,,,,,,,,,,,,,,,Battle SagaBTL,,,synapse
+synapse,1585,Endless BattlefieldEB,$0.13,-6.46%,N/A,$ 2.08M,$ 162.12K,0.64x,1.83x,21 Feb,"$300,000",,,,,,,,,,,,,,,,,,,Endless BattlefieldEB,,,synapse
+synapse,,RobootsRBO,$0.00,-2.93%,-3.49%,$ 752.79K,$543.55,0.50x,1.82x,11 Dec,"$200,000",,,,,,,,,,,,,,,,,,,RobootsRBO,,,synapse
+synapse,2095,Metan EvolutionsMETAN,$0.10,-23.90%,N/A,$ 261.53K,$ 140.97K,0.67x,1.40x,24 Feb,"$50,000",,,,,,,,,,,,,,,,,,,Metan EvolutionsMETAN,,,synapse
+synapse,,Cheesus DeFiCHEESUS,$0.01,-6.43%,-39.10%,$ 43.75K,$ 6.25K,0.14x,1.24x,16 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Cheesus DeFiCHEESUS,,,synapse
+synapse,2013,Teneo FinanceTEN,$0.10,-5.19%,0.309,$ 411.83K,$ 218.36K,1.02x,1.12x,8 Feb,"$200,000",,,,,,,,,,,,,,,,,,,Teneo FinanceTEN,,,synapse
+synapse,1722,SoldexSOLX,$0.03,0.0034,0.145,$ 1.39M,$ 194.49K,0.22x,1.08x,7 Dec,"$500,000",,,,,,,,,,,,,,,,,,,SoldexSOLX,,,synapse
+synapse,,GOinfluencerGOIN,$0.00,-0.73%,-7.68%,$ 40.48K,$381.72,0.23x,0.95x,11 Dec,"$125,000",,,,,,,,,,,,,,,,,,,GOinfluencerGOIN,,,synapse
+synapse,,Tribe LandTRBL,$0.00,-0.28%,-4.69%,$ 216.90K,$183.81,0.06x,0.68x,10 Dec,"$200,000",,,,,,,,,,,,,,,,,,,Tribe LandTRBL,,,synapse
+synapse,2223,Gadget WarGWAR,$0.00,-4.68%,-10.30%,$ 68.56K,$ 99.22K,0.27x,0.56x,8 Dec,"$50,000",,,,,,,,,,,,,,,,,,,Gadget WarGWAR,,,synapse
+synapse,,BeamSwapGLINT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11 Jan,"$150,000",,,,,,,,,,,,,,,,,,,BeamSwapGLINT,,,synapse
+synapse,,SEORSEOR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 Jan,"$60,000",,,,,,,,,,,,,,,,,,,SEORSEOR,,,synapse
+synapse,,Kaizen FinanceKZEN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Kaizen FinanceKZEN,,,synapse
+synapse,,Spark EraFIRE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Spark EraFIRE,,,synapse
+synapse,,GeojamJAM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1 Dec,"$225,000",,,,,,,,,,,,,,,,,,,GeojamJAM,,,synapse
+synapse,,Animal ConcertsANML,N/A,N/A,N/A,N/A,N/A,N/A,N/A,18 Jan,"$200,000",,,,,,,,,,,,,,,,,,,Animal ConcertsANML,,,synapse
+synapse,,UpOnlyUPO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7 Dec,"$180,000",,,,,,,,,,,,,,,,,,,UpOnlyUPO,,,synapse
+truepnl,1191,RidottoRDT,$0.12,0.0476,0.0648,$ 6.30M,$ 46.71K,2.30x,28.24x,22 Oct,"$60,000",,,,,,,,,,,,,,,,,,,RidottoRDT,,,truepnl
+truepnl,2098,AnypadAPAD,$0.01,0.118,0.0804,$ 257.70K,$ 152.62K,2.79x,21.33x,2 Sep,"$25,000",,,,,,,,,,,,,,,,,,,AnypadAPAD,,,truepnl
+truepnl,,iBuffer TokenIBFR,$0.07,-9.74%,-0.87%,$ 530.41K,$ 11.68K,1.46x,15.81x,12 Sep,"$50,000",,,,,,,,,,,,,,,,,,,iBuffer TokenIBFR,,,truepnl
+truepnl,1217,SolchicksCHICKS,$0.02,-0.14%,0.048,$ 5.93M,$ 439.30K,0.40x,13.19x,23 Nov,"$200,000",,,,,,,,,,,,,,,,,,,SolchicksCHICKS,,,truepnl
+truepnl,2121,AffynFYN,$0.21,-12.90%,-20.40%,$ 211.81K,$ 183.78K,1.51x,13.17x,27 Jan,"$80,000",,,,,,,,,,,,,,,,,,,AffynFYN,,,truepnl
+truepnl,,HappyFansHAPPY,$0.00,-6.12%,0.0226,$ 840.86K,$ 2.09K,0.47x,8.68x,12 Oct,"$50,000",,,,,,,,,,,,,,,,,,,HappyFansHAPPY,,,truepnl
+truepnl,1070,WAMWAM,$0.14,0.0697,0.13,$ 8.66M,$ 235.18K,5.12x,8.08x,24 Nov,"$100,000",,,,,,,,,,,,,,,,,,,WAMWAM,,,truepnl
+truepnl,1714,YAY GamesYAY,$0.01,-3.92%,-7.62%,$ 1.43M,$ 80.31K,0.59x,8.00x,14 Jun,"$25,000",,,,,,,,,,,,,,,,,,,YAY GamesYAY,,,truepnl
+truepnl,,FOMO Chronicles MangaOTAKU,$0.00,-4.23%,-2.66%,$ 49.47K,$ 1.45K,0.19x,7.57x,3 Oct,"$50,000",,,,,,,,,,,,,,,,,,,FOMO Chronicles MangaOTAKU,,,truepnl
+truepnl,1813,Age of GodsAOG,$0.11,-7.62%,-24.30%,$ 1.05M,$ 275.60K,0.94x,7.48x,17 Dec,"$100,000",,,,,,,,,,,,,,,,,,,Age of GodsAOG,,,truepnl
+truepnl,1971,EverlensELEN,$0.00,-8.64%,-30.80%,$ 536.76K,$ 75.45K,0.60x,6.65x,26 Oct,"$150,000",,,,,,,,,,,,,,,,,,,EverlensELEN,,,truepnl
+truepnl,1398,ReSource ProtocolSOURCE,$0.95,-0.25%,-3.31%,$ 3.78M,$ 28.89K,1.24x,5.22x,14 Nov,"$80,000",,,,,,,,,,,,,,,,,,,ReSource ProtocolSOURCE,,,truepnl
+truepnl,1448,ArcadeNetworkARC,$0.04,0.0206,0.372,$ 3.27M,$ 316.19K,0.76x,3.49x,27 Oct,"$75,000",,,,,,,,,,,,,,,,,,,ArcadeNetworkARC,,,truepnl
+truepnl,1853,Graviton ZeroGRAV,$0.04,-1.59%,0.103,$ 910.93K,$ 179.62K,0.36x,2.80x,15 Dec,"$105,000",,,,,,,,,,,,,,,,,,,Graviton ZeroGRAV,,,truepnl
+truepnl,,Flash LoansFLASH,$0.01,-3.01%,-2.16%,$ 232.85K,$ 3.49K,0.18x,2.26x,N/A,"$50,000",,,,,,,,,,,,,,,,,,,Flash LoansFLASH,,,truepnl
+truepnl,1759,ShoeFySHOE,$0.06,-1.36%,-5.30%,$ 1.23M,$ 77.86K,0.16x,1.98x,18 Oct,"$50,000",,,,,,,,,,,,,,,,,,,ShoeFySHOE,,,truepnl
+truepnl,2150,WizarreSCRL,$0.00,-1.60%,0.0568,$ 165.48K,$ 61.88K,0.57x,1.89x,23 Nov,"$100,000",,,,,,,,,,,,,,,,,,,WizarreSCRL,,,truepnl
+truepnl,,ITSMYNEMYNE,$0.02,N/A,0.0979,$ 69.19K,$61.92,0.19x,1.73x,15 Oct,"$62,500",,,,,,,,,,,,,,,,,,,ITSMYNEMYNE,,,truepnl
+truepnl,,Cheesus DeFiCHEESUS,$0.01,-6.43%,-39.10%,$ 43.75K,$ 6.25K,0.14x,1.24x,24 Nov,"$50,000",,,,,,,,,,,,,,,,,,,Cheesus DeFiCHEESUS,,,truepnl
+truepnl,2013,Teneo FinanceTEN,$0.10,-5.19%,0.309,$ 411.83K,$ 218.36K,1.02x,1.12x,15 Feb,"$75,000",,,,,,,,,,,,,,,,,,,Teneo FinanceTEN,,,truepnl
+truepnl,1722,SoldexSOLX,$0.03,0.0034,0.145,$ 1.39M,$ 194.49K,0.22x,1.08x,7 Dec,"$100,000",,,,,,,,,,,,,,,,,,,SoldexSOLX,,,truepnl
+truepnl,2248,Defly BallDEFLY,$0.02,0.0929,-2.36%,$ 46.79K,$ 30.55K,0.14x,0.89x,1 Dec,"$75,000",,,,,,,,,,,,,,,,,,,Defly BallDEFLY,,,truepnl
+truepnl,,SolCloutSCT,$0.00,0.0662,-4.62%,$ 15.88K,$9.96,0.06x,0.66x,6 Dec,"$50,000",,,,,,,,,,,,,,,,,,,SolCloutSCT,,,truepnl
+truepnl,2217,Tales of ChainTALE,$0.00,-24.30%,-43.70%,$ 74.64K,$ 291.54K,0.16x,0.59x,14 Dec,N/A,,,,,,,,,,,,,,,,,,,Tales of ChainTALE,,,truepnl
+truepnl,2223,Gadget WarGWAR,$0.00,-4.68%,-10.30%,$ 68.56K,$ 99.22K,0.27x,0.56x,29 Nov,"$125,490",,,,,,,,,,,,,,,,,,,Gadget WarGWAR,,,truepnl
+truepnl,,MetafighterFIGHT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12 Jan,"$66,500",,,,,,,,,,,,,,,,,,,MetafighterFIGHT,,,truepnl
+truepnl,,AltavaTAVA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3 Feb,"$125,000",,,,,,,,,,,,,,,,,,,AltavaTAVA,,,truepnl
+truepnl,,Universe IslandUIM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2 Dec,"$125,000",,,,,,,,,,,,,,,,,,,Universe IslandUIM,,,truepnl
+cyberfi,423,NetvrkNTVRK,$2.02,0.0081,0.0407,$ 82.04M,$ 2.72M,13.47,48.9,9 Sep,"$78,550",,,,,,,,,,,,,,,,,,,NetvrkNTVRK,,,cyberfi
+cyberfi,2061,StaterSTR,$0.02,-4.44%,0.167,$ 317.38K,$ 25.78K,0.41,35.08,19 Mar,"$50,000",,,,,,,,,,,,,,,,,,,StaterSTR,,,cyberfi
+cyberfi,1671,PlethoriPLE,$0.03,-21.10%,-7.17%,$ 1.63M,$ 81.22K,0.77,19.47,2 May,"$50,000",,,,,,,,,,,,,,,,,,,PlethoriPLE,,,cyberfi
+cyberfi,1439,Revolve GamesRPG,$0.15,-6.14%,0.0224,$ 3.34M,$ 26.64K,1.52,19.1,19 Sep,"$80,000",,,,,,,,,,,,,,,,,,,Revolve GamesRPG,,,cyberfi
+cyberfi,,QANX TokenQANX,$0.05,-2.40%,0.239,N/A,$ 597.85K,4.73,17.86,30 May,"$300,000",,,,,,,,,,,,,,,,,,,QANX TokenQANX,,,cyberfi
+cyberfi,1108,Cherry NetworkCHER,$0.10,0.0187,0.126,$ 8.01M,$ 205.50K,2.78,14.11,20 Dec,"$250,000",,,,,,,,,,,,,,,,,,,Cherry NetworkCHER,,,cyberfi
+cyberfi,1216,SolchicksCHICKS,$0.02,-0.13%,0.0494,$ 5.93M,$ 439.18K,0.4,13.19,15 Nov,"$40,000",,,,,,,,,,,,,,,,,,,SolchicksCHICKS,,,cyberfi
+cyberfi,,ARTXARTX,$0.07,-5.23%,0.508,$ 187.77K,$ 6.31K,0.21,12.32,1 Apr,"$1,000,000",,,,,,,,,,,,,,,,,,,ARTXARTX,,,cyberfi
+cyberfi,,KELVPNKEL,$0.01,-4.46%,-1.50%,$ 64.09K,$ 1.20K,0.08,11.1,13 Apr,"$60,000",,,,,,,,,,,,,,,,,,,KELVPNKEL,,,cyberfi
+cyberfi,2204,ScottyBeamSCOTTY,$0.01,-0.36%,0.145,$ 96.48K,$ 162.41K,0.22,9.55,3 Nov,"$108,000",,,,,,,,,,,,,,,,,,,ScottyBeamSCOTTY,,,cyberfi
+cyberfi,,Rogue WestROGUE,$0.09,N/A,0.0341,$ 374.04K,$428.28,1.05,9.14,13 Sep,"$113,550",,,,,,,,,,,,,,,,,,,Rogue WestROGUE,,,cyberfi
+cyberfi,1629,FabweltWELT,$0.02,0.245,0.572,$ 1.82M,$ 475.52K,1.29,7.43,10 Nov,"$100,000",,,,,,,,,,,,,,,,,,,FabweltWELT,,,cyberfi
+cyberfi,1897,0x_NODESBIOS,$1.98,-5.38%,0.0189,$ 747.22K,$ 44.15K,0.4,4.55,16 May,"$500,000",,,,,,,,,,,,,,,,,,,0x_NODESBIOS,,,cyberfi
+cyberfi,,ENEX.SPACEENX,$0.08,0.002,-18%,$ 87.52K,N/A,0.15,3.72,27 Apr,"$115,500",,,,,,,,,,,,,,,,,,,ENEX.SPACEENX,,,cyberfi
+cyberfi,,KwikswapKWIK,$0.01,0.0045,-16.80%,$ 131.39K,N/A,0.06,2.94,24 May,"$1,100,000",,,,,,,,,,,,,,,,,,,KwikswapKWIK,,,cyberfi
+cyberfi,2150,WizarreSCRL,$0.00,-2.01%,0.062,$ 165.47K,$ 61.60K,0.64,2.12,15 Dec,"$125,000",,,,,,,,,,,,,,,,,,,WizarreSCRL,,,cyberfi
+cyberfi,,Flash LoansFLASH,$0.01,-3.14%,-1.24%,$ 237.28K,$ 3.64K,0.16,1.97,30 Oct,"$50,000",,,,,,,,,,,,,,,,,,,Flash LoansFLASH,,,cyberfi
+cyberfi,,DeHealthHLT,$0.00,0.0084,-80.20%,$ 21.38K,$ 1.50K,0.06,1.94,20 Feb,"$100,000",,,,,,,,,,,,,,,,,,,DeHealthHLT,,,cyberfi
+cyberfi,,NFT StarsNFTS,$0.59,-3.79%,0.0726,$ 807.73K,$ 2.99K,0.29,1.91,4 Jun,"$100,000",,,,,,,,,,,,,,,,,,,NFT StarsNFTS,,,cyberfi
+cyberfi,,SUPA FoundationSUPA,$0.04,-3.91%,-33.10%,$ 177.80K,$ 10.35K,0.44,1.73,28 Dec,"$290,000",,,,,,,,,,,,,,,,,,,SUPA FoundationSUPA,,,cyberfi
+cyberfi,,MetaseerMETAS,$0.03,-5.56%,-21.90%,N/A,$432.76,0.14,1.41,27 Jul,"$200,000",,,,,,,,,,,,,,,,,,,MetaseerMETAS,,,cyberfi
+cyberfi,1453,BitspawnSPWN,$0.00,0.0127,-3.25%,$ 3.22M,$ 247.03K,0.3,0.83,13 Jun,"$661,708",,,,,,,,,,,,,,,,,,,BitspawnSPWN,,,cyberfi
+cyberfi,,QuizarenaQZA,$0.00,0.0093,0.143,N/A,$141.83,0.24,0.77,6 Dec,"$150,000",,,,,,,,,,,,,,,,,,,QuizarenaQZA,,,cyberfi
+cyberfi,,GladianGLD,$0.01,N/A,-0.07%,$ 97.52K,$31.20,0.62,0.77,16 Jan,"$210,673",,,,,,,,,,,,,,,,,,,GladianGLD,,,cyberfi
+cyberfi,2217,Tales of ChainTALE,$0.00,-24.30%,-43.70%,$ 74.64K,$ 291.55K,0.16,0.59,20 Dec,"$120,000",,,,,,,,,,,,,,,,,,,Tales of ChainTALE,,,cyberfi
+cyberfi,,Carbon GEMSGEMS,$0.00,-4.88%,0.201,$ 730.48K,$285.76,0.08,0.35,28 May,"$100,000",,,,,,,,,,,,,,,,,,,Carbon GEMSGEMS,,,cyberfi
+cyberfi,,CherishCHC,N/A,N/A,N/A,N/A,N/A,,,1 Mar,"$150,000",,,,,,,,,,,,,,,,,,,CherishCHC,,,cyberfi
+GAFI,1342,Project SEEDSHILL,$0.16,-2.85%,0.0175,$ 4.39M,$ 882.49K,6.45x,752.53x,8 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Project SEEDSHILL,,,GAFI
+GAFI,641,GameFiGAFI,$39.62,-3.96%,0.236,$ 33.88M,$ 669.56K,39.62x,366.99x,9 Sep,"$92,000",,,,,,,,,,,,,,,,,,,GameFiGAFI,,,GAFI
+GAFI,1836,Dreams QuestDREAMS,$0.02,-5.32%,-0.19%,$ 980.79K,$ 127.88K,1.36x,152.65x,14 Oct,"$125,000",,,,,,,,,,,,,,,,,,,Dreams QuestDREAMS,,,GAFI
+GAFI,1020,SpaceCryptoSPG,$0.25,-8.76%,-35.80%,$ 9.88M,$ 92.16K,9.88x,117.32x,18 Dec,"$125,000",,,,,,,,,,,,,,,,,,,SpaceCryptoSPG,,,GAFI
+GAFI,817,Sidus HeroesSIDUS,$0.04,-4.64%,-2.76%,$ 17.83M,$ 429.96K,23.21x,109.29x,14 Dec,"$19,300",,,,,,,,,,,,,,,,,,,Sidus HeroesSIDUS,,,GAFI
+GAFI,1581,MetaWarsWARS,$0.03,0.0015,-43.80%,$ 2.14M,$ 135.67K,4.31x,96.84x,26 Oct,"$90,000",,,,,,,,,,,,,,,,,,,MetaWarsWARS,,,GAFI
+GAFI,1151,MetaGodsMGOD,$0.50,0.0103,0.0165,$ 7.00M,$ 240.95K,11.01x,89.06x,13 Dec,"$100,000",,,,,,,,,,,,,,,,,,,MetaGodsMGOD,,,GAFI
+GAFI,496,SoliceSLC,$1.37,-3.04%,0.0176,$ 59.35M,$ 415.97K,19.63x,70.81x,21 Dec,"$98,000",,,,,,,,,,,,,,,,,,,SoliceSLC,,,GAFI
+GAFI,,DeathRoadDRACE,$0.01,0.0063,-13.30%,$ 545.68K,$ 6.31K,1.74x,70.67x,4 Sep,"$17,000",,,,,,,,,,,,,,,,,,,DeathRoadDRACE,,,GAFI
+GAFI,1610,BemilBEM,$0.02,-2.19%,-25.40%,$ 1.97M,$ 85.63K,2.45x,64.05x,24 Nov,"$100,000",,,,,,,,,,,,,,,,,,,BemilBEM,,,GAFI
+GAFI,2241,The KillboxKBOX,$0.00,-4.84%,-29.80%,$ 60.51K,$ 24.77K,0.29x,53.83x,21 Nov,"$110,000",,,,,,,,,,,,,,,,,,,The KillboxKBOX,,,GAFI
+GAFI,1805,Ftribe FightersF2C,$0.02,-6.32%,-17.70%,$ 1.08M,$ 16.80K,1.01x,51.85x,20 Dec,"$150,000",,,,,,,,,,,,,,,,,,,Ftribe FightersF2C,,,GAFI
+GAFI,1542,Titan HuntersTITA,$0.06,-2.34%,0.32,$ 2.42M,$ 303.41K,5.24x,49.80x,15 Nov,"$102,000",,,,,,,,,,,,,,,,,,,Titan HuntersTITA,,,GAFI
+GAFI,2005,Meta SpatialSPAT,$0.09,-4.32%,-2.58%,$ 448.61K,$ 44.83K,0.85x,47.54x,4 Nov,"$113,000",,,,,,,,,,,,,,,,,,,Meta SpatialSPAT,,,GAFI
+GAFI,1800,Polygonum OnlinePOG,$0.13,-8.54%,-23.80%,$ 1.10M,$ 212.19K,1.66x,45.00x,28 Nov,"$100,000",,,,,,,,,,,,,,,,,,,Polygonum OnlinePOG,,,GAFI
+GAFI,1646,GunStar MetaverseGST,$0.06,-18.10%,-49.80%,$ 1.77M,$ 131.02K,1.81x,42.30x,23 Nov,"$124,600",,,,,,,,,,,,,,,,,,,GunStar MetaverseGST,,,GAFI
+GAFI,1479,WarenaRENA,$0.40,-3.19%,0.061,$ 2.91M,$ 529.29K,2.42x,40.52x,2 Oct,"$100,000",,,,,,,,,,,,,,,,,,,WarenaRENA,,,GAFI
+GAFI,1661,MyMasterWarMAT,$0.16,0.0047,-3.13%,$ 1.69M,$ 161.10K,1.30x,39.74x,28 Sep,"$150,000",,,,,,,,,,,,,,,,,,,MyMasterWarMAT,,,GAFI
+GAFI,1274,Dark FrontiersDARK,$0.22,-15.40%,0.167,$ 5.17M,$ 1.12M,4.38x,35.99x,2 Oct,"$3,000",,,,,,,,,,,,,,,,,,,Dark FrontiersDARK,,,GAFI
+GAFI,1937,Aspo WorldASPO,$0.06,0.003,-29.70%,$ 634.71K,$ 22.00K,1.23x,33.65x,13 Nov,"$120,000",,,,,,,,,,,,,,,,,,,Aspo WorldASPO,,,GAFI
+GAFI,1326,Sidus Heroes DAOSENATE,$1.08,-2.19%,0.0039,$ 4.61M,$ 34.40K,6.00x,32.55x,14 Dec,"$175,000",,,,,,,,,,,,,,,,,,,Sidus Heroes DAOSENATE,,,GAFI
+GAFI,1879,Planet SandboxPSB,$0.21,0.0413,0.403,$ 800.74K,$ 78.34K,1.69x,32.22x,2 Oct,N/A,,,,,,,,,,,,,,,,,,,Planet SandboxPSB,,,GAFI
+GAFI,2112,GameStationGAMER,$0.07,-9.04%,-19.10%,$ 245.43K,$ 27.53K,0.72x,28.86x,27 Oct,"$150,000",,,,,,,,,,,,,,,,,,,GameStationGAMER,,,GAFI
+GAFI,1674,SpaceY2025SPAY,$4.10,-2.93%,-6.52%,$ 1.64M,$ 103.04K,1.03x,27.84x,20 Nov,"$120,000",,,,,,,,,,,,,,,,,,,SpaceY2025SPAY,,,GAFI
+GAFI,1863,Kaby ArenaKABY,$0.01,-4.57%,-8.89%,$ 887.02K,$ 34.00K,1.32x,24.97x,28 Aug,"$100,000",,,,,,,,,,,,,,,,,,,Kaby ArenaKABY,,,GAFI
+GAFI,,HeroverseHER,$0.01,0.0344,0.0177,$ 273.19K,$ 6.33K,0.69x,23.76x,22 Sep,"$155,000",,,,,,,,,,,,,,,,,,,HeroverseHER,,,GAFI
+GAFI,1538,ErthaERTHA,$0.10,-6.55%,-5.29%,$ 2.49M,$ 586.17K,5.48x,23.32x,19 Dec,"$250,000",,,,,,,,,,,,,,,,,,,ErthaERTHA,,,GAFI
+GAFI,1921,PlaceWar Governance TokenPLACE,$0.02,-11.10%,-4.75%,$ 685.89K,$ 30.24K,1.37x,19.26x,11 Nov,"$140,000",,,,,,,,,,,,,,,,,,,PlaceWar Governance TokenPLACE,,,GAFI
+GAFI,,Mech MasterMECH,$0.04,-4.34%,0.12,$ 446.18K,$ 4.13K,0.91x,18.55x,22 Oct,"$150,000",,,,,,,,,,,,,,,,,,,Mech MasterMECH,,,GAFI
+GAFI,,Oly SportOLY,$0.04,-3.63%,-7.15%,N/A,$ 11.95K,0.70x,14.45x,5 Nov,"$140,000",,,,,,,,,,,,,,,,,,,Oly SportOLY,,,GAFI
+GAFI,1062,WAMWAM,$0.14,0.0957,0.176,$ 8.89M,$ 268.24K,6.99x,10.75x,N/A,"$125,000",,,,,,,,,,,,,,,,,,,WAMWAM,,,GAFI
+GAFI,1170,Unbound FinanceUNB,$0.01,-11.60%,-18.30%,$ 6.64M,$ 378.33K,0.57x,10.01x,12 Dec,"$75,000",,,,,,,,,,,,,,,,,,,Unbound FinanceUNB,,,GAFI
+GAFI,2099,PrometheusMGA,$0.30,-0.39%,-18.80%,$ 268.25K,$ 62.60K,0.43x,9.93x,29 Nov,"$110,000",,,,,,,,,,,,,,,,,,,PrometheusMGA,,,GAFI
+GAFI,,PolkaPetsPETS,$0.05,-0.79%,-21.90%,$ 161.77K,$ 11.84K,0.18x,8.57x,25 Oct,"$80,000",,,,,,,,,,,,,,,,,,,PolkaPetsPETS,,,GAFI
+GAFI,1982,GemUniGENI,$0.15,-4.81%,-22.50%,$ 522.86K,$ 94.48K,0.74x,8.11x,18 Jan,"$150,000",,,,,,,,,,,,,,,,,,,GemUniGENI,,,GAFI
+GAFI,1691,OrbitauTAUM,$0.18,0.0559,-5.25%,$ 1.57M,$ 782.40K,5.24x,7.09x,21 Feb,"$245,000",,,,,,,,,,,,,,,,,,,OrbitauTAUM,,,GAFI
+GAFI,1823,SpellfireSPELLFIRE,$0.02,-13.30%,-21.10%,$ 1.02M,$ 194.77K,0.94x,6.53x,25 Jan,"$250,000",,,,,,,,,,,,,,,,,,,SpellfireSPELLFIRE,,,GAFI
+GAFI,856,Rainmaker GamesRAIN,$0.34,-5.91%,-0.79%,$ 15.84M,$ 814.23K,1.37x,5.38x,15 Dec,"$175,000",,,,,,,,,,,,,,,,,,,Rainmaker GamesRAIN,,,GAFI
+GAFI,,World of CryptiaCRYPT,$0.00,-0.67%,-13.60%,$ 115.45K,$115.04,0.09x,4.72x,N/A,"$150,000",,,,,,,,,,,,,,,,,,,World of CryptiaCRYPT,,,GAFI
+GAFI,,Kingdom KarnageKKT,$0.01,-4.37%,-11.70%,$ 161.03K,$ 1.20K,0.63x,2.71x,12 Jan,"$100,000",,,,,,,,,,,,,,,,,,,Kingdom KarnageKKT,,,GAFI
+GAFI,1877,Legends of MitraMITA,$0.06,0.0645,-9.18%,$ 802.36K,$ 36.33K,0.93x,2.46x,9 Jan,"$95,000",,,,,,,,,,,,,,,,,,,Legends of MitraMITA,,,GAFI
+GAFI,,BullieverseBULL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14 Feb,"$150,000",,,,,,,,,,,,,,,,,,,BullieverseBULL,,,GAFI
+GAFI,,The Wasted LandsWAL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5 Jan,"$95,000",,,,,,,,,,,,,,,,,,,The Wasted LandsWAL,,,GAFI
+GAFI,,Dragon WarDRAW,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24 Jan,N/A,,,,,,,,,,,,,,,,,,,Dragon WarDRAW,,,GAFI
